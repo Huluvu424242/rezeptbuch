@@ -5,4 +5,7 @@ artifactId = "rezepte.fruktosefrei" ;
 version = "1.0-SNAPSHOT" ;
 import  "Auflaeufe.rezept"  ;
 }
-
+Buch {
+Titel: "Fruchtzuckerarm kochen"
+Media Folder: "src/media"
+}
