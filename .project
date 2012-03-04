@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>com.github.funthomas424242.rezeptsammler.examples</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.github.funthomas424242.rezeptsammler.rezept.resource.rezept.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.github.funthomas424242.rezeptsammler.rezept.resource.rezept.taskItemBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.github.funthomas424242.rezeptsammler.rezept.resource.rezept.nature</nature>
+	</natures>
+</projectDescription>

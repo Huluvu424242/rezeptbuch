@@ -1,0 +1,48 @@
+Modul "Aufläufe" ; 
+import "ProdukteEdeka.rezept" ;
+
+Rezept "Schnitzelauflauf" {
+Titel: "Schnitzelauflauf".
+Untertitel: "Studentenart".
+Kategorie: "Auflauf".
+Letzte Änderung: 04.03.2012.
+Tag: "Auflauf" . Diät: "Fruchtzuckerarm". Tag: "Fleisch". Tag: "Schwein".
+
+ProduktRef: "5 Minutensteaks vom Schwein" Menge: "2" mal.
+ProduktRef: "Bauchspeck vom Schwein" Menge: "1" mal.
+ProduktRef: "Emmentaler in Scheiben" Menge: "1" mal.
+ProduktRef: "Kartoffeln festkochend 2-5" Menge: "1" mal.
+
+Zutat: "Schweineschnitzel" Menge: "6" "Stück".
+Zutat: "Speck" Menge: "300" "g".
+Zutat: "Gemüsezwiebel" Menge: "2" "Stück".
+Zutat: "Kartoffel" Menge: "10" "Stück".
+
+
+Aktion: "Den Boden der Auflaufform vollständig mit Schnitzelfleisch belegen (nur eine Lage - nicht stapeln!)."
+Aktion: "Den Speck in dünne Streifen schneiden und als neue Schicht über den Fleischscheiben verteilen."
+Aktion: "Die Zwiebel in Ringe schneiden und diese über der Speckschicht verteilen."
+Aktion: "Die Kartoffeln schälen und waschen. Anschließend in Scheiben scheiden und damit die obere Schicht des Auflaufes bilden."
+Aktion: "Jetzt noch die Schlagsahne über den Auflauf ausgießen und verteilen."
+Aktion: "Zum Abschluss den gesamten Auflauf mit den Käsescheiben belegen."
+Aktion: "Den Auflauf im Umluftherd 45 Minuten bei 225 °C backen."
+Rank: "Schmeckt lecker"
+Tipp:  "Da der Käse sehr braun wird, ist es möglicherweise besser diesen erst nach 20 Minuten hinzuzugeben.
+ Wie sich die dabei erzeugte Unterbrechung des Backvorganges auswirkt ist nicht bekannt." 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

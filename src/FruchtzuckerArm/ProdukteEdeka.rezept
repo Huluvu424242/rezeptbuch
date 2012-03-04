@@ -1,0 +1,29 @@
+Modul "Edeka" ; 
+
+Produkt "5 Minutensteaks vom Schwein" {
+Menge: "400" "g". 
+EAN: "2-399859-003224".
+Preis: "3.22" "Euro".
+Händler: "Edeka".
+Letzte Änderung: 04.03.2012.
+}
+
+Produkt "Emmentaler in Scheiben" {
+Menge: "200" "g".
+EAN: "4-016993-103778".
+Händler: "Edeka".
+Letzte Änderung: 04.03.2012.
+}
+
+Produkt "Bauchspeck vom Schwein"{
+Menge: "300" "g".
+EAN: "4-311596-424221".
+Letzte Änderung: 04.03.2012.
+}
+
+Produkt "Kartoffeln festkochend 2-5"{
+Menge: "2.5" "kg".
+Letzte Änderung: 04.03.2012.
+}
+
+
