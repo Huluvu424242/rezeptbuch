@@ -15,8 +15,30 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
+		<buildCommand>
+			<name>org.emftext.language.produkt.resource.produkt.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.emftext.language.produkt.resource.produkt.taskItemBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.emftext.language.erDSL.resource.erDSL.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.emftext.language.erDSL.resource.erDSL.taskItemBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
 	</buildSpec>
 	<natures>
 		<nature>com.github.funthomas424242.rezeptsammler.rezept.resource.rezept.nature</nature>
+		<nature>org.emftext.language.produkt.resource.produkt.nature</nature>
+		<nature>org.emftext.language.erDSL.resource.erDSL.nature</nature>
 	</natures>
 </projectDescription>

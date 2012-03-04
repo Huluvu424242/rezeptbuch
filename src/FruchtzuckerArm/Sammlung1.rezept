@@ -3,6 +3,6 @@ RezeptSammlung
 groupId ="com.github.funthomas424242.books" ;
 artifactId = "rezepte.fruktosefrei" ;
 version = "1.0-SNAPSHOT" ;
-import  "Auflaeufe.rezept" ;
+import  "Auflaeufe.rezept"  ;
 }
 
