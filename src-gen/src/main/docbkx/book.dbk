@@ -6,15 +6,12 @@
     <title>Fruchtzuckerarm kochen</title>
   </info>
 
-  <chapter>
-    <title>This is a chapter</title>
+		<chapter>
+		    <title>Aufläufe</title>
+			<xi:include href="Rezept_1_1.dbk" />
+		</chapter>
+						
+		
 
-    <section>
-      <title>This is a section</title>
-
-      <para>This is a paragraph.</para>
-    </section>
-
-    <xi:include href="included_section.dbk" />
-  </chapter>
+  
 </book>
