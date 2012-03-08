@@ -1,11 +1,13 @@
 Modul "Aufläufe" ; 
-import "ProdukteEdeka.rezept" ;
+import "../Commons/ProdukteEdeka.rezept" ;
 
 Rezept "Schnitzelauflauf" {
 Titel: "Schnitzelauflauf".
 Untertitel: "Studentenart".
 Kategorie: "Auflauf".
-Letzte Änderung: 04.03.2012.
+Quelle: übernommen "veraendert" aus "Studenten WG 'Zur alten Hippe', Reichenbachstr. Dresden.".
+Ausreichend für 4 Personen.
+Letzte Änderung: 08.03.2012.
 Tag: "Auflauf" . Diät: "Fruchtzuckerarm". Tag: "Fleisch". Tag: "Schwein".
 
 ProduktRef: "5 Minutensteaks vom Schwein" Menge: "2" mal.
@@ -25,8 +27,8 @@ Aktion: "Die Zwiebel in Ringe schneiden und diese über der Speckschicht verteil
 Aktion: "Die Kartoffeln schälen und waschen. Anschließend in Scheiben scheiden und damit die obere Schicht des Auflaufes bilden."
 Aktion: "Jetzt noch die Schlagsahne über den Auflauf ausgießen und verteilen."
 Aktion: "Zum Abschluss den gesamten Auflauf mit den Käsescheiben belegen."
-Aktion: "Den Auflauf im Umluftherd 45 Minuten bei 225 °C backen."
-Rank: "Schmeckt lecker"
+Aktion: "Den Auflauf im Umluftherd 45 Minuten bei 200 °C backen."
+Kommentar: "Schmeckt lecker"
 Tipp:  "Da der Käse sehr braun wird, ist es möglicherweise besser diesen erst nach 20 Minuten hinzuzugeben.
  Wie sich die dabei erzeugte Unterbrechung des Backvorganges auswirkt ist nicht bekannt." 
 }
