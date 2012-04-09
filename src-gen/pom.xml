@@ -25,7 +25,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<media.parent>src/</media.parent>
-		<draft.mode>yes</draft.mode>
+		<draft.mode>no</draft.mode>
 	</properties>
 
 
@@ -131,9 +131,11 @@
 					<generatedSourceDirectory>${project.build.directory}/docbkx/generated</generatedSourceDirectory>
 					<xincludeSupported>true</xincludeSupported>
 					<highlightSource>1</highlightSource>
-					<paperType>A4</paperType>
+					<paperType>A5</paperType>
 					<fop1Extensions>1</fop1Extensions>
 					<foCustomization>src/main/resources/stylesheets/fo/docbook.xsl</foCustomization>
+					<sectionAutolabel>true</sectionAutolabel>
+					<sectionAutolabelMaxDepth>3</sectionAutolabelMaxDepth>
 				</configuration>
 				<dependencies>
 					<!--dependency>

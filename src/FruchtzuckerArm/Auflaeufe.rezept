@@ -1,5 +1,6 @@
-Modul "Aufläufe" ; 
-import "../Commons/ProdukteEdeka.rezept" ;
+Rezeptliste "Aufläufe" ; 
+import produkte "../Commons/ProdukteEdeka.rezept" ;
+
 
 Rezept "Schnitzelauflauf" {
 Titel: "Schnitzelauflauf".
