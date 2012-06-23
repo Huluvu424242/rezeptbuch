@@ -1,0 +1,15 @@
+RezeptSammlung 
+{
+groupId ="com.github.funthomas424242.books" ;
+artifactId = "rezepte.fruktosefrei" ;
+version = "1.0-SNAPSHOT" ;
+Media Folder: "src/media";
+} 
+Buch {
+import rezepte "../mittagsgerichte/Auflaeufe.rezept";
+import rezepte "../mittagsgerichte/Pizzas.rezept";
+Titel: "Fruchtzuckerarm kochen";
+Autor: {Vorname: "Thomas" Nachname: "Schubert" Organisation: "Free Software Foundation Europe"} 
+Lizenshinweis: "GNU Free Documentation License (FDL) v1.3 und folgende Versionen"
+Veröffentlicht am: 01.05.2012.
+}
