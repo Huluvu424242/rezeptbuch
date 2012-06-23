@@ -1,0 +1,34 @@
+Rezeptliste "BernburgerRezepte" ;
+import produkte "../Commons/ProdukteEdeka.rezept";
+
+Rezept "KohlrabitopfMitRippchen" {
+
+Titel: "Kohlrabitopf mi Rippchen".
+Kategorie: "Kochen".
+Quelle: übernommen "veraendert" aus "Alte Bernburger und Anhaltiner Küche".
+Ausreichend für 4 Personen.
+Letzte Änderung: 23.06.2012.
+Tag: "Schwein". Tag: "Fleisch". Tag: "Suppe".
+
+Zutat: "Schweinerippchen" Menge: "500" "g".
+Zutat: "Kohrabi" Menge: "6" "Stück".
+Zutat: "Kartoffeln" Menge: "500" "g".
+Zutat: "Zwiebel" Menge: "1" "Stück".
+Zutat: "Margarine" Menge: "1" "Esslöffel".
+Zutat: "Wasser" Menge: "0.5" "L".
+Zutat: "Kümmel" "nach Bedarf".
+Zutat: "Pfeffer" "nach Bedarf".
+Zutat: "Salz" "nach Bedarf".
+
+Aktion: "Das Fett in einem großen, hohen Topf erhitzen und die Zwiebel wie auch die Rippchen dazugeben."
+Aktion: "Beides im Fett bräunen."
+Aktion: "Mit 0,5 Liter Wasser löschen und das Fleisch fast gar schmoren lassen."
+Aktion: "In der Zwischenzeit die Kartoffeln und Kohlrabi in Stifte schneiden."
+Aktion: "Die zarten Blätter der Kohlrabi werden klein gehackt und dazu gegeben. Die anderen Blätter werden
+nicht verwendet."
+Aktion: "Wenn das Fleisch fast gar ist werden die Kartoffel- und Kohlrabi Stifte hinzugegeben."
+Aktion: "Abschließend alles fertig garen und heiß servieren."
+
+Anmerkung: "Anhaltinische Gerichte werden traditionell mit viel Kümmel gewürzt."
+
+}

@@ -7,6 +7,7 @@ RezeptSammlung{
 Buch{
 	import rezepte "../mittagsgerichte/Auflaeufe.rezept";
 	import rezepte "../mittagsgerichte/Pizzas.rezept";
+	import rezepte "../Serien/BernburgerRezepte.rezept";
 	import rezepte "../Serien/Strassenkreuzer.rezept";
 	Titel: "Freies Kochbuch";
 	Autor: {Vorname: "Thomas" Nachname: "Schubert" Organisation: "Free Software Foundation Europe"} 
