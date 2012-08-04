@@ -1,5 +1,22 @@
 Produktliste "Edeka" ; 
 
+
+//Getreide und Korn
+Produkt "Mehl"{
+Menge: "500" "g".
+Letzte Änderung: 04.08.2012.
+}
+
+
+
+// Fleisch
+
+Produkt "Bauchspeck vom Schwein"{
+Menge: "300" "g".
+EAN: "4-311596-424221".
+Letzte Änderung: 04.03.2012.
+}
+
 Produkt "5 Minutensteaks vom Schwein" {
 Menge: "400" "g". 
 EAN: "2-399859-003224".
@@ -8,6 +25,16 @@ Händler: "Edeka".
 Letzte Änderung: 04.03.2012.
 }
 
+
+// Gemüse
+
+Produkt "Kartoffeln festkochend 2-5"{
+Menge: "2.5" "kg".
+Letzte Änderung: 04.03.2012.
+}
+
+// Milchprodukte
+
 Produkt "Emmentaler in Scheiben" {
 Menge: "200" "g".
 EAN: "4-016993-103778".
@@ -15,15 +42,16 @@ Händler: "Edeka".
 Letzte Änderung: 04.03.2012.
 }
 
-Produkt "Bauchspeck vom Schwein"{
-Menge: "300" "g".
-EAN: "4-311596-424221".
-Letzte Änderung: 04.03.2012.
+Produkt "EmmentalerReibekäse"{
+Menge: "200" "g".
+Letzte Änderung: 04.08.2012.
 }
 
-Produkt "Kartoffeln festkochend 2-5"{
-Menge: "2.5" "kg".
-Letzte Änderung: 04.03.2012.
+Produkt "Sanella"{
+Menge: "500" "g".
+Letzte Änderung: 04.08.2012.
 }
+
+
 
 

@@ -1,0 +1,45 @@
+Rezeptliste "Plätzchen" ; 
+import produkte "../Commons/ProdukteEdeka.rezept";
+
+
+Rezept "Käseplätzchen" {
+Titel: "Käseplätzchen".
+Kategorie: "Backen".
+
+Quelle: überliefert von "Katharina".
+Ausreichend für 2 Personen.
+Letzte Änderung: 04.08.2012.
+Tag: "Plätzchen" . Diät: "Fruchtzuckerarm". 
+
+ProduktRef: "EmmentalerReibekäse" Menge: "2" mal.
+ProduktRef: "Sanella" Menge: "1" mal.
+ProduktRef: "Mehl" Menge: "1" mal.
+
+Zutat: "Mehl" Menge: "150" "g".
+Zutat: "Kaese gerieben" Menge: "250" "g".
+Zutat: "Butter" Menge: "125" "g".
+Zutat: "Pfeffer" "nach Bedarf".
+Zutat: "Cayennepfeffer" "nach Bedarf".
+Zutat: "Salz" "nach Bedarf".
+Zutat: "Paprika" "nach Bedarf".
+
+Zutat: "Oliven" Menge: "20" "Stück".
+
+
+Aktion: "Mit Ausnahme der Oliven alle Zutaten zu einem Teig vermengen."
+Aktion: "Kleine abgeflachte Kugeln formen und mit einer Olive bestücken."
+Aktion: "Die Plätzchen bei 180 Grad im Umluftherd etwa 15 - 20 Minuten backen."
+
+Kommentar: "Schmeckt lecker und scharf."
+Tipp:  "Wirklich kleine Kugeln formen, die gehen in die Breite." 
+
+}
+
+
+
+
+
+
+
+
+
