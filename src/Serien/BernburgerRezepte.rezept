@@ -34,17 +34,18 @@ Anmerkung: "Anhaltinische Gerichte werden traditionell mit viel Kümmel gewürzt
 }
 
 
-Rezept "FalscherZwiwwlklump" {
+Rezept "BernburgerZwiwwlklump" {
 
-Titel: "Falscher Zwiwwlklump".
+Titel: "Bernburger Zwiwwlklump".
 Kategorie: "Kochen".
 Quelle: überliefert von "Thomas Schubert" .
 Ausreichend für 4 Personen.
 Letzte Änderung: 30.12.2012.
-Tag: "Schwein". Tag: "Fleisch". Tag: "Suppe".
+Tag: "Schwein". Tag: "Hammel". Tag: "Fleisch". Tag: "Suppe".
 
-Zutat: "Schweinefleisch" Menge: "1" "kg".
+Zutat: "Hammelfleisch" Menge: "1" "kg".
 Zutat: "Zwiebeln" Menge: "1" "kg".
+Zutat: "Knoblauch" Menge: "1" "Knolle".
 Zutat: "Klossteig für Rohe Kösse" Menge: "1" "kg".
 Zutat: "Wasser" Menge: "4" "L".
 Zutat: "Kümmel" "nach Bedarf".
@@ -53,6 +54,7 @@ Zutat: "Salz" "nach Bedarf".
 
 Aktion: "Das Fleisch waschen und mit dem Wasser in einem großen, hohen Topf zum kochen ansetzen."
 Aktion: "Die Zwiebeln schälen, längs in Streifen schneiden und zum Topf hinzugeben."
+Aktion: "Die Zehen der Knoblauch Knolle mit der Presse direkt in den Topf pressen auch die verbleibenden Pressrückstände hinzufügen."
 Aktion: "Viel Kümmel und einigen Pfeffer sowie etwas Salz nach Geschmack in den Topf geben."
 Aktion: "Nach dem Aufkochen auf mittlere Stufe zugedeckt etwa 1 Stunde kochen lassen."
 Aktion: "In der Zwischenzeit die rohen Klösse herstellen und formen."
@@ -63,5 +65,7 @@ Aktion: "Nach dem die Klösse durchgezogen sind, das geschnittene Fleisch wieder
 Aktion: "Topfinhalt nochmals kurz aufkochen und heiß servieren."
 
 Anmerkung: "Anhaltinische Gerichte werden traditionell mit viel Kümmel gewürzt."
+
+Tipp: "Für Personen die kein Lammfleisch mögen, Schwein eignet sich genauso gut."
 
 }
