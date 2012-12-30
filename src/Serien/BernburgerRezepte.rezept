@@ -3,7 +3,7 @@ import produkte "../Commons/ProdukteEdeka.rezept";
 
 Rezept "KohlrabitopfMitRippchen" {
 
-Titel: "Kohlrabitopf mi Rippchen".
+Titel: "Kohlrabitopf mit Rippchen".
 Kategorie: "Kochen".
 Quelle: übernommen "veraendert" aus "Alte Bernburger und Anhaltiner Küche".
 Ausreichend für 4 Personen.

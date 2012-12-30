@@ -3,7 +3,7 @@ import produkte "../Commons/ProdukteEdeka.rezept";
 
 Rezept "Niergengulasch" {
 
-Titel: "Nierengulasch mi Reis".
+Titel: "Nierengulasch mit Reis".
 Untertitel: "Aus der Serie: Kochen mit Jochen" .
 Kategorie: "Kochen".
 Quelle: übernommen "veraendert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang 19/Heft 2, März 2012.".
