@@ -32,3 +32,36 @@ Aktion: "Abschließend alles fertig garen und heiß servieren."
 Anmerkung: "Anhaltinische Gerichte werden traditionell mit viel Kümmel gewürzt."
 
 }
+
+
+Rezept "FalscherZwiwwlklump" {
+
+Titel: "Falscher Zwiwwlklump".
+Kategorie: "Kochen".
+Quelle: überliefert von "Thomas Schubert" .
+Ausreichend für 4 Personen.
+Letzte Änderung: 30.12.2012.
+Tag: "Schwein". Tag: "Fleisch". Tag: "Suppe".
+
+Zutat: "Schweinefleisch" Menge: "1" "kg".
+Zutat: "Zwiebeln" Menge: "1" "kg".
+Zutat: "Klossteig für Rohe Kösse" Menge: "1" "kg".
+Zutat: "Wasser" Menge: "4" "L".
+Zutat: "Kümmel" "nach Bedarf".
+Zutat: "Pfeffer" "nach Bedarf".
+Zutat: "Salz" "nach Bedarf".
+
+Aktion: "Das Fleisch waschen und mit dem Wasser in einem großen, hohen Topf zum kochen ansetzen."
+Aktion: "Die Zwiebeln schälen, längs in Streifen schneiden und zum Topf hinzugeben."
+Aktion: "Viel Kümmel und einigen Pfeffer sowie etwas Salz nach Geschmack in den Topf geben."
+Aktion: "Nach dem Aufkochen auf mittlere Stufe zugedeckt etwa 1 Stunde kochen lassen."
+Aktion: "In der Zwischenzeit die rohen Klösse herstellen und formen."
+Aktion: "Nach der Garzeit den Topf von der Platte ziehen und das Fleisch herausnehmen."
+Aktion: "Die Klösse in den Topf geben und ca. 30 Minuten im offenen Topf ziehen lassen."
+Aktion: "Das Fleisch in mundgerechte Stücken schneiden."
+Aktion: "Nach dem die Klösse durchgezogen sind, das geschnittene Fleisch wieder in den Topf geben."
+Aktion: "Topfinhalt nochmals kurz aufkochen und heiß servieren."
+
+Anmerkung: "Anhaltinische Gerichte werden traditionell mit viel Kümmel gewürzt."
+
+}
