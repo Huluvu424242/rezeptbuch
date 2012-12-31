@@ -48,3 +48,30 @@ Aktion: "Nierengulasch und Reis servieren."
 Anmerkung: "Das Originalrezept im Sozialmagazin enthält noch zusätzliche, interessante Erläuterungen. Möglicherweise kann es über http://www.strassenkreuzer.info käuflich erworben werden."
 
 }
+
+
+Rezept "KoenigsbergerKlopse" {
+ Titel:"Königsberger Klopse".
+ Kategorie: "Kochen".
+ Quelle: übernommen "veraendert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang xx/Heft x, monat jahr.".
+ Letzte Änderung: 30.12.2012.
+ Tag: "Schwein". Tag: "Strassenkreuzer".
+ 
+ ProduktRef: "Eier" Menge:  "1" mal.
+ ProduktRef: "Schweinefleisch" Menge: "1" mal.
+ 
+ Zutat: "Eier"  Menge: "" "Stück".
+ Zutat: "Schweinefleisch" Menge: "" "g".
+ 
+ Aktion: "someBeschreibung."
+ 
+ }
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ }

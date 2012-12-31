@@ -3,6 +3,7 @@ Produktliste "Edeka" ;
 
 //Getreide und Korn
 Produkt "Mehl"{
+Verpackung: "Packung".
 Menge: "500" "g".
 Letzte Änderung: 04.08.2012.
 }
@@ -10,6 +11,12 @@ Letzte Änderung: 04.08.2012.
 
 
 // Fleisch
+
+Produkt "Schweinefleisch" {
+Verpackung: "Packung".
+Menge: "" "g".
+Letzte Änderung: 01.01.2012.
+}
 
 Produkt "Bauchspeck vom Schwein"{
 Menge: "300" "g".
@@ -41,6 +48,12 @@ Letzte Änderung: 30.12.2012.
 
 // Milchprodukte
 
+Produkt "Milch"{
+Verpackung: "Packung".
+Menge: "1" "L".
+Letzte Änderung: 01.01.2012.
+}
+
 Produkt "Emmentaler in Scheiben" {
 Menge: "200" "g".
 EAN: "4-016993-103778".
@@ -58,6 +71,43 @@ Menge: "500" "g".
 Letzte Änderung: 04.08.2012.
 }
 
+//Gewürze
 
+Produkt "Salz"{
+Verpackung: "Packung".
+Menge: "500" "g".
+Letzte Änderung: 01.01.2012.
+}
+
+
+
+//Backzutaten
+
+Produkt "Kakao"{
+Verpackung: "Packung".
+Menge: "" "g".
+Letzte Änderung: 01.01.2012.
+}
+
+Produkt "Stärke"{
+Verpackung: "Packung".
+Menge: "250" "g".
+Letzte Änderung: 01.01.2012.
+}
+
+Produkt "Traubenzucker"{
+Verpackung: "Packung".
+Menge: "" "g".
+Letzte Änderung: 01.01.2012.
+}
+
+Produkt  "Eier" {
+Verpackung: "Packung".
+Menge: "10" "Stück".
+Letzte Änderung: 01.01.2012.
+}
+
+
+ 
 
 
