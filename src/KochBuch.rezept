@@ -2,7 +2,7 @@ RezeptSammlung{
 	groupId ="rezepte" ;
 	artifactId = "kochbuch" ;
 	version = "1.0-SNAPSHOT" ;
-	Media Folder: "src/media";
+	Media Folder: "src/_fotos";
 }
 Buch{
 	import rezepte "./mittagsgerichte/Auflaeufe.rezept";

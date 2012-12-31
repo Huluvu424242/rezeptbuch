@@ -1,4 +1,4 @@
-Rezeptliste "Pizzas" ; 
+Rezeptliste "Pizza" ; 
 import produkte "../Commons/ProdukteEdeka.rezept";
 
 Rezept "Grundteig Pizza" {
@@ -18,7 +18,6 @@ Zutat: "Salz" Menge: "1" "Teeloeffel".
 
 
 Aktion: "Mehl in Rührschüssel schütten."
-
 Aktion: "Im Mehl eine Kuhle schaffen und das Salz hineingeben. Anschließend die Hefe in die Kuhle brökeln."
 Aktion: "Die Kuhle vorsichtig mit dem Wasser füllen. Dabei das trockene Mehl so anhäufeln, dass das Wasser in der 
 Kuhle verbleibt."
@@ -33,6 +32,8 @@ Aktion: "Die ganze Teigfläche mit Ketchup bestreichen."
 Aktion: "Gewünschten Pizzabelag aufbringen (z.B. Oliven, Salami, Kochschinken, Perperonie, Paprikastücken, geschnittene Champinions, Artischoken)."
 Aktion: "Belag mit Oregano würzen und mit einer Schicht Reibekäse bedecken."
 Aktion: "Bei 200°C im Herd backen bis der Käse vollständig zerlaufen ist (etwa 20 - 30 Minuten)." 
+
+
 
 }
 

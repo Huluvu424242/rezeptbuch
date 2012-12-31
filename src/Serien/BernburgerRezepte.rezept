@@ -1,4 +1,4 @@
-Rezeptliste "BernburgerRezepte" ;
+Rezeptliste "Bernburger Rezepte" ;
 import produkte "../Commons/ProdukteEdeka.rezept";
 
 Rezept "KohlrabitopfMitRippchen" {
