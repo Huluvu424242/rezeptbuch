@@ -5,11 +5,11 @@ RezeptSammlung{
 	Media Folder: "src/media";
 }
 Buch{
-	import rezepte "../mittagsgerichte/Auflaeufe.rezept";
-	import rezepte "../mittagsgerichte/Pizzas.rezept";
-	import rezepte "../backen/Plätzchen.rezept";
-	import rezepte "../Serien/BernburgerRezepte.rezept";
-	import rezepte "../Serien/Strassenkreuzer.rezept";
+	import rezepte "./mittagsgerichte/Auflaeufe.rezept";
+	import rezepte "./mittagsgerichte/Pizzas.rezept";
+	import rezepte "./backen/Plätzchen.rezept";
+	import rezepte "./Serien/BernburgerRezepte.rezept";
+	import rezepte "./Serien/Strassenkreuzer.rezept";
 	Titel: "Freies Kochbuch";
 	Autor: {Vorname: "Thomas" Nachname: "Schubert" Organisation: "Free Software Foundation Europe"} 
 	Vorwort: "Ein freies Kochbuch welches verändert und weitergegeben werden darf."
