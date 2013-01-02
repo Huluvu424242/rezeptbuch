@@ -1,0 +1,67 @@
+Produktliste "Kaufmarkt" ; 
+
+
+//Fleisch
+
+Produkt "Schulter vom Schwein"{
+Verpackung: "Stueck".
+Menge: "1" "kg".
+EAN: "2260040002527".
+Preis: "2.52" "Euro".
+Letzte Änderung: 21.10.2006.
+}
+
+
+//Gemüse
+
+Produkt "Kohlrabi"{
+Verpackung: "Stueck".
+Menge: "1" "Stück".
+Letzte Änderung: 02.01.2013.
+}
+
+Produkt "Möhren"{
+Verpackung: "Beutel".
+Menge: "10" "Stück".
+Letzte Änderung: 02.01.2013.
+}
+
+Produkt "Gemüsezwiebel"{
+Verpackung: "Stueck".
+Menge: "1" "Stück".
+Letzte Änderung: 02.01.2013.
+}
+
+Produkt "Sellerie"{
+Verpackung: "Stueck".
+Menge: "1" "Knolle".
+Letzte Änderung: 02.01.2013.
+}
+
+Produkt "Porree"{
+Verpackung: "Stueck".
+Menge: "1" "Stange".
+Letzte Änderung: 02.01.2013.
+}
+
+
+//Gewürze
+
+Produkt "Lorbeerblätter"{
+Verpackung: "Tüte".
+Menge: "250" "g".
+Letzte Änderung: 02.01.2013.
+}
+
+Produkt "Gewürznelken"{
+Verpackung: "Tüte".
+Menge: "250" "g".
+Letzte Änderung: 02.01.2013.
+}
+
+Produkt "Pimentkörner"{
+Verpackung: "Tüte".
+Menge: "250" "g".
+Letzte Änderung: 02.01.2013.
+}
+
