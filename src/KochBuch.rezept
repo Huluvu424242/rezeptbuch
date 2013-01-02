@@ -7,13 +7,15 @@ RezeptSammlung{
 Buch{
 	import rezepte "./mittagsgerichte/Auflaeufe.rezept";
 	import rezepte "./mittagsgerichte/Pizzas.rezept";
+	import rezepte "./mittagsgerichte/TopfUndPfanne.rezept";
 	import rezepte "./backen/Plätzchen.rezept";
 	import rezepte "./backen/Pudding.rezept";
 	import rezepte "./Serien/BernburgerRezepte.rezept";
 	import rezepte "./Serien/Strassenkreuzer.rezept";
 	
-	Titel: "Freies Kochbuch";
+	Titel: "Freies Open Source Kochbuch";
 	Autor: {Vorname: "Thomas" Nachname: "Schubert" Organisation: "Free Software Foundation Europe"} 
+	Autor: {Vorname: "Thomas" Nachname: "Schubert" Organisation: "Free Software Foundation Europe"}
 	Vorwort: "Ein freies Kochbuch welches verändert und weitergegeben werden darf."
 	Lizenshinweis: "GNU Free Documentation License (FDL) v1.3 und folgende Versionen"
 	Veröffentlicht am: 30.12.2012.

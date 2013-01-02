@@ -6,7 +6,8 @@ Rezept "Niergengulasch" {
 Titel: "Nierengulasch mit Reis".
 Untertitel: "Aus der Serie: Kochen mit Jochen" .
 Kategorie: "Kochen".
-Quelle: übernommen "veraendert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang 19/Heft 2, März 2012.".
+Quelle: übernommen "veraendert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang 19/Heft 2, März 2012.
+(http://www.strassenkreuzer.info/das-sozialmagazin/kochen-mit-jochen.html)".
 Ausreichend für 4 Personen.
 Letzte Änderung: 03.03.2012.
 Tag: "Nieren". Tag: "Fleisch". Tag: "Strassenkreuzer".
@@ -50,10 +51,53 @@ Anmerkung: "Das Originalrezept im Sozialmagazin enthält noch zusätzliche, inte
 }
 
 
+Rezept "GefüllteGemüsezwiebel" {
+Titel: "Gefüllte Gemüsezwiebel".
+Kategorie: "Kochen".
+Quelle: übernommen "veraendert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang ?Nr?/Heft ?Nr?, ?monat? ?jahr?.
+(http://www.strassenkreuzer.info/das-sozialmagazin/kochen-mit-jochen.html)".
+Letzte Änderung: 08.03.2012.
+Tag: "Fleisch".
+
+Zutat: "Gemüsezwiebel" Menge: "1" "kg".
+Zutat: "Gehacktes" Menge: "500" "g".
+Zutat: "Bauchspeck" Menge: "4" "dünne" "Scheiben".
+Zutat: "Eier" Menge: "2" "Stück".
+Zutat: "Semmelbrösel" Menge: "50" "g".
+Zutat: "Salz" "nach Bedarf".
+Zutat: "Pfeffer" "nach Bedarf".
+Zutat: "Muskat" "nach Bedarf".
+Zutat: "Kümmel" "nach Bedarf".
+Zutat: "Majoran" "nach Bedarf".
+
+Aktion: "Zwiebeln schälen, im Salzwasser ca. 12 Minuten kochen lassen."
+Aktion: "Zwiebeln mit einem Schaumlöffel rausnehmen und abkühlen lassen."
+Aktion: "Einen Deckel von den Zwiebeln abschneiden und diese dann zur Hälfte aushölen."
+Aktion: "Den Inhalt vom Aushöhlen der Zwiebel vermengen mit Brät, Eiern und Semmelbröseln."
+Aktion: "Das Gemenge mit Muskat und Majoran würzen."
+Aktion: "Bei Bedarf auf mit Salz und Pfeffer würzen. Dabei aber bedenken, dass das Brät bereits
+ gewürzt ist."
+Aktion: "Die entstandene Masse in die ausgehölten Zwiebeln füllen."
+Aktion: "Zwiebeln in einen Bräter setzen, mit dem Zwiebelwasser angießen, mit etwas Kümmel
+ würzen und auf der mittleren Schiene bei 200 Grad 30 Minuten überbacken."
+Aktion: "Nach 20 Minuten die Speckscheiben auf die Zwiebeln legen und mitbacken."
+Aktion: "Als Beilage eignen sich Kartoffeln in verschiedenen Variationen."
+
+Tipp:  "Wer kein Fleisch mag, füllt mit gequollenem Dinkel und lässt die 
+ Zwiebel etwa 10 Minuten kürzer im Ofen." 
+ 
+Anmerkung: "Das Originalrezept im Sozialmagazin enthält noch zusätzliche, interessante Erläuterungen. Möglicherweise kann es über http://www.strassenkreuzer.info käuflich erworben werden."
+}
+
+
+
+
+
 Rezept "KoenigsbergerKlopse" {
  Titel:"Königsberger Klopse".
  Kategorie: "Kochen".
- Quelle: übernommen "veraendert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang xx/Heft x, monat jahr.".
+ Quelle: übernommen "veraendert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang xx/Heft x, monat jahr.
+ (http://www.strassenkreuzer.info/das-sozialmagazin/kochen-mit-jochen.html)".
  Letzte Änderung: 30.12.2012.
  Tag: "Schwein". Tag: "Strassenkreuzer".
  

@@ -1,0 +1,84 @@
+<?thomas-michel document-status="draft" version="1.2"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE rezept SYSTEM "../../rezepte.dtd">
+<?xml-stylesheet href="../../style.xsl" type="text/xsl"?>
+<?xml-stylesheet href="../../style.css" type="text/css"?>
+<!-- $Id$ -->
+<!-- =================================================== -->
+<!-- |KartoffelbreiMitBulette.xml|  -  TODO description  | -->
+<!--                                                     -->
+<!-- begin            : | 21.09.2006|                  | -->
+<!-- copyright        : | (C) 2006 by tmichel          | -->
+<!-- email            : |development@thomas-michel.info| -->
+<!-- =================================================== -->
+<!--
+ ******************************************************************************
+ *                                                                            *
+ *   This document is a free paper; you can redistribute it and/or modify     *
+ *   it under the terms of the GNU Free Documentation License as published    *
+ *   by the Free Software Foundation; either version 1.2 of the License, or   *
+ *   (at your option) any later version.                                      *
+ *                                                                            *
+ ******************************************************************************
+ -->
+<!-- 
+ standalone="no" gefordert nach XML in der Praxis S.400 (ISBN 3-8273-1636-7) bei
+ :
+ + Elementtypen, deren Inhalt weitere Elemente enthält, falls Leerraum (WhiteSpace)
+   direkt innerhalb einer Instanz solcher Typen erscheint
+ :
+ -->
+<rezepte>
+	<rezept>
+		<titel>Gefüllte Gemüsezwiebel</titel>
+		<datum>13.01.2008</datum>
+		<test>
+			<bemerkung>
+			Wer kein Fleisch mag, füllt mit gequollenem Dinkel und lässt die 
+			Zwiebel etwa 10 Minuten kürzer im Ofen.
+			</bemerkung>
+		</test>
+		<zutaten>
+			<zutat name="Gemüse- oder Metzgerzwiebeln"
+				   menge="1"
+				   einheit="kg"
+				   code="zwiebel" /> 
+			<zutat name="Bratwurstbrät"
+				   menge="500" 
+				   einheit="g"
+				   code="bratwurst" />
+			<zutat name="Bauchspeck" 
+					menge="4" 
+					einheit="dünne Scheiben"
+					code="speck" />
+			<zutat name="Eier" 
+					menge="2"
+					einheit="Stück"
+					code="ei" />	
+			<zutat name="Semmelbrösel" 
+					menge="50"
+					einheit="g"
+					code="semmel" />		
+			<zutat name="Salz" />	
+			<zutat name="Pfeffer" />
+			<zutat name="Muskat" />
+			<zutat name="Kümmel" />
+			<zutat name="Majoran" />
+		</zutaten>
+		<zubereitung>
+			<aktion>Zwiebeln schälen, im Salzwasser ca. 12 Minuten kochen lassen.</aktion>		
+			<aktion>Zwiebeln mit einem Schaumlöffel rausnehmen und abkühlen lassen.</aktion>
+			<aktion>Einen Deckel von den Zwiebeln abschneiden und diese dann zur Hälfte aushölen.</aktion>
+			<aktion>Den Inhalt vom Aushöhlen der Zwiebel vermengen mit Brät, Eiern und Semmelbröseln.</aktion>
+			<aktion>Das Gemenge mit Muskat und Majoran würzen.</aktion>
+			<aktion>Bei Bedarf auf mit Salz und Pfeffer würzen. Dabei aber bedenken, dass das Brät bereits
+			gewürzt ist.</aktion>
+			<aktion>Die entstandene Masse in die ausgehölten Zwiebeln füllen.</aktion>
+			<aktion>Zwiebeln in einen Bräter setzen, mit dem Zwiebelwasser angießen, mit etwas Kümmel
+			würzen und auf der mittleren Schiene bei 200 Grad 30 Minuten überbacken.</aktion>
+			<aktion>Nach 20 Minuten die Speckscheiben auf die Zwiebeln legen und mitbacken.</aktion>
+			<aktion>Als Beilage eignen sich Kartoffeln in verschiedenen Variationen.</aktion>
+		</zubereitung>
+		<!-- quelle modifiziert="modifiziert" name="der Studenten WG"/-->
+	</rezept>
+</rezepte>
