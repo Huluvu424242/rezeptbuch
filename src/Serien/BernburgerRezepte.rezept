@@ -33,51 +33,11 @@ Anmerkung: "Anhaltinische Gerichte werden traditionell mit viel Kümmel gewürzt
 
 }
 
-Rezept "OriginalBernburgerZwiwwlklump" {
-
-Titel: "Original Bernburger Zwiwwlklump".
-Kategorie: "Kochen".
-Quelle: übernommen "veraendert" aus "Mairose13 im Forum http://www.chefkoch.de/forum/2,1,192997/Bernburger-Zwiebelklump.html".
-Ausreichend für 4 Personen.
-Letzte Änderung: 07.09.2008.
-Tag: "Hammel". Tag: "Fleisch". Tag: "Suppe".
-
-Zutat: "Hammelfleisch" Menge: "500" "g".
-Zutat: "Zwiebeln" Menge: "3" "Stück".
-Zutat: "Knoblauch" Menge: "2" "Zehe".
-Zutat: "Kartoffeln" Menge: "750" "g".
-Zutat: "Speisestärke" Menge: "1" "Esslöffel".
-Zutat: "Eier" Menge: "2" "Stück".
-Zutat: "Geröstete Weißbrotwürfel" Menge: "2" "Esslöffel".
-Zutat: "Wasser" Menge: "2" "L".
-Zutat: "Kümmel" Menge: "1" "Teeloeffel".
-Zutat: "Pfeffer" "nach Bedarf".
-Zutat: "Salz" "nach Bedarf".
-
-Aktion: "Das Hammelfleisch in mundgerechte Stücke schneiden und	mit den Zwiebeln, Knoblauch, Salz, Pfeffer und Kümmel in
- 2 Liter Wasser zugedeckt 1 Stunde kochen."
-Aktion: "Inzwischen die Kartoffeln schälen, waschen und grob
- reiben. In ein Küchentuch wickeln und den Saft gründlich
- auspressen."
-Aktion: "Die ausgepressten Kartoffeln sofort in eine Schüssel
- geben und mit der Speisestärke, den Eiern und etwas Salz
- verrühren."
-Aktion: "Aus der Kartoffelmasse mit nassen Händen kleine Klöße
- formen. In der Mitte jeweils kleine Weißbrotwürfel
- drücken."
-Aktion: "Das Fleisch nach Ende der Garzeit aus der Brühe heben
- und warm stellen. Die Klöße in der Brühe gar ziehen
- lassen."
-
-Tipp: "Sehr heiß servieren."
-}
-
-
 Rezept "BernburgerZwiwwlklump" {
 
 Titel: "Bernburger Zwiwwlklump".
 Kategorie: "Kochen".
-Quelle: überliefert von "Thomas Schubert" .
+Quelle: übernommen "veraendert" aus "Mairose13 im Forum http://www.chefkoch.de/forum/2,1,192997/Bernburger-Zwiebelklump.html".
 Ausreichend für 4 Personen.
 Letzte Änderung: 30.12.2012.
 Tag: "Schwein". Tag: "Hammel". Tag: "Fleisch". Tag: "Suppe".
@@ -106,6 +66,10 @@ Aktion: "Topfinhalt nochmals kurz aufkochen und heiß servieren."
 Anmerkung: "Anhaltinische Gerichte werden traditionell mit viel Kümmel gewürzt."
 
 Tipp: "Für Personen die kein Lammfleisch mögen, Schwein eignet sich genauso gut."
+Tipp: "Sehr heiß servieren."
+Tipp: "Lieber viele kleine Klösse als wenige große bilden."
+Tipp: "Dem Kloßteig ruhig etwas Pfeffer und Kümmel zusetzen damit sie etwas gräulich wirken."
+Anmerkung: "Der Kümmel reduziert mögliche, von der Zwiebel hervorgerufene Blähungen."
 
 Bild: FileName: "zwiwwlklump/01_zwiwwlklump.jpg" Text: "Zwiebelklump im Topf beim erneuten Aufkochen"
 Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
