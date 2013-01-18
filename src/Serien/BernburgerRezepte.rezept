@@ -5,7 +5,7 @@ Rezept "KohlrabitopfMitRippchen" {
 
 Titel: "Kohlrabitopf mit Rippchen".
 Kategorie: "Kochen".
-Quelle: übernommen "veraendert" aus "Alte Bernburger und Anhaltiner Küche".
+Quelle: übernommen "verändert" aus "Alte Bernburger und Anhaltiner Küche".
 Ausreichend für 4 Personen.
 Letzte Änderung: 23.06.2012.
 Tag: "Schwein". Tag: "Fleisch". Tag: "Suppe".
@@ -20,6 +20,8 @@ Zutat: "Kümmel" "nach Bedarf".
 Zutat: "Pfeffer" "nach Bedarf".
 Zutat: "Salz" "nach Bedarf".
 
+
+
 Aktion: "Das Fett in einem großen, hohen Topf erhitzen und die Zwiebel wie auch die Rippchen dazugeben."
 Aktion: "Beides im Fett bräunen."
 Aktion: "Mit 0,5 Liter Wasser löschen und das Fleisch fast gar schmoren lassen."
@@ -28,7 +30,7 @@ Aktion: "Die zarten Blätter der Kohlrabi werden klein gehackt und dazu gegeben.
 nicht verwendet."
 Aktion: "Wenn das Fleisch fast gar ist werden die Kartoffel- und Kohlrabi Stifte hinzugegeben."
 Aktion: "Abschließend alles fertig garen und heiß servieren."
-
+#
 Anmerkung: "Anhaltinische Gerichte werden traditionell mit viel Kümmel gewürzt."
 
 }
@@ -37,7 +39,8 @@ Rezept "BernburgerZwiwwlklump" {
 
 Titel: "Bernburger Zwiwwlklump".
 Kategorie: "Kochen".
-Quelle: übernommen "veraendert" aus "Mairose13 im Forum http://www.chefkoch.de/forum/2,1,192997/Bernburger-Zwiebelklump.html".
+Quelle: übernommen "verändert" aus "Internetforum gepostet von<link
+          xlink:href='http://www.chefkoch.de/forum/2,1,192997/Bernburger-Zwiebelklump.html' xlink:show='new'>Mairose13</link>".
 Ausreichend für 4 Personen.
 Letzte Änderung: 30.12.2012.
 Tag: "Schwein". Tag: "Hammel". Tag: "Fleisch". Tag: "Suppe".
@@ -56,20 +59,22 @@ Aktion: "Die Zwiebeln schälen, längs in Streifen schneiden und zum Topf hinzug
 Aktion: "Die Zehen der Knoblauch Knolle mit der Presse direkt in den Topf pressen auch die verbleibenden Pressrückstände hinzufügen."
 Aktion: "Viel Kümmel und einigen Pfeffer sowie etwas Salz nach Geschmack in den Topf geben."
 Aktion: "Nach dem Aufkochen auf mittlere Stufe zugedeckt etwa 1 Stunde kochen lassen."
-Aktion: "In der Zwischenzeit die rohen Klösse herstellen und formen."
+Aktion: "In der Zwischenzeit die rohen Klösse herstellen und formen." Tipp:  "Kleine Kösse formen" 
 Aktion: "Nach der Garzeit den Topf von der Platte ziehen und das Fleisch herausnehmen."
 Aktion: "Die Klösse in den Topf geben und ca. 30 Minuten im offenen Topf ziehen lassen."
 Aktion: "Das Fleisch in mundgerechte Stücken schneiden."
 Aktion: "Nach dem die Klösse durchgezogen sind, das geschnittene Fleisch wieder in den Topf geben."
 Aktion: "Topfinhalt nochmals kurz aufkochen und heiß servieren."
 
-Anmerkung: "Anhaltinische Gerichte werden traditionell mit viel Kümmel gewürzt."
+# 
+Anmerkung: "Anhaltinische Gerichte werden traditionell mit viel Kümmel gewürzt." 
 
 Tipp: "Für Personen die kein Lammfleisch mögen, Schwein eignet sich genauso gut."
 Tipp: "Sehr heiß servieren."
 Tipp: "Lieber viele kleine Klösse als wenige große bilden."
 Tipp: "Dem Kloßteig ruhig etwas Pfeffer und Kümmel zusetzen damit sie etwas gräulich wirken."
 Anmerkung: "Der Kümmel reduziert mögliche, von der Zwiebel hervorgerufene Blähungen."
+
 
 Bild: FileName: "zwiwwlklump/01_zwiwwlklump.jpg" Text: "Zwiebelklump im Topf beim erneuten Aufkochen"
 Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"

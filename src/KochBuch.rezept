@@ -17,6 +17,6 @@ Buch{
 	Autor: {Vorname: "Thomas" Nachname: "Schubert" Organisation: "Free Software Foundation Europe" ModifikationsNotiz: "2012 Initiale Erstellung"} 
 	Autor: {Vorname: "Thomas" Nachname: "Schubert" ModifikationsNotiz: "2013 Bernburger Zwiwwlklump aufgenommen."}
 	Vorwort: "Ein freies Kochbuch welches verändert und weitergegeben werden darf."
-	Lizenshinweis: "GNU Free Documentation License (GFDL) v1.3 und folgende Versionen"
+	Lizenzhinweis: "GNU Free Documentation License (GFDL) v1.3 und folgende Versionen"
 	Veröffentlicht am: 16.01.2013.
 }

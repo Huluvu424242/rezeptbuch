@@ -6,7 +6,7 @@ Rezept "Niergengulasch" {
 Titel: "Nierengulasch mit Reis".
 Untertitel: "Aus der Serie: Kochen mit Jochen" .
 Kategorie: "Kochen".
-Quelle: übernommen "veraendert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang 19/Heft 2, März 2012.
+Quelle: übernommen "verändert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang 19/Heft 2, März 2012.
 (http://www.strassenkreuzer.info/das-sozialmagazin/kochen-mit-jochen.html)".
 Ausreichend für 4 Personen.
 Letzte Änderung: 03.03.2012.
@@ -45,7 +45,7 @@ Aktion: "Die Nieren in einer weiteren Pfanne scharf anbraten. Die Nierenbrühe a
 Aktion: "Abschließend nach Geschmack salzen und pfeffern."
 Aktion: "Nicht mehr kochen damit die Nieren nicht hart werden."
 Aktion: "Nierengulasch und Reis servieren."
-
+#
 Anmerkung: "Das Originalrezept im Sozialmagazin enthält noch zusätzliche, interessante Erläuterungen. Möglicherweise kann es über http://www.strassenkreuzer.info käuflich erworben werden."
 
 }
@@ -54,7 +54,7 @@ Anmerkung: "Das Originalrezept im Sozialmagazin enthält noch zusätzliche, inte
 Rezept "GefüllteGemüsezwiebel" {
 Titel: "Gefüllte Gemüsezwiebel".
 Kategorie: "Kochen".
-Quelle: übernommen "veraendert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang ?Nr?/Heft ?Nr?, ?monat? ?jahr?.
+Quelle: übernommen "verändert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang ?Nr?/Heft ?Nr?, ?monat? ?jahr?.
 (http://www.strassenkreuzer.info/das-sozialmagazin/kochen-mit-jochen.html)".
 Letzte Änderung: 08.03.2012.
 Tag: "Fleisch".
@@ -82,7 +82,7 @@ Aktion: "Zwiebeln in einen Bräter setzen, mit dem Zwiebelwasser angießen, mit 
  würzen und auf der mittleren Schiene bei 200 Grad 30 Minuten überbacken."
 Aktion: "Nach 20 Minuten die Speckscheiben auf die Zwiebeln legen und mitbacken."
 Aktion: "Als Beilage eignen sich Kartoffeln in verschiedenen Variationen."
-
+#
 Tipp:  "Wer kein Fleisch mag, füllt mit gequollenem Dinkel und lässt die 
  Zwiebel etwa 10 Minuten kürzer im Ofen." 
  
@@ -96,7 +96,7 @@ Anmerkung: "Das Originalrezept im Sozialmagazin enthält noch zusätzliche, inte
 Rezept "KoenigsbergerKlopse" {
  Titel:"Königsberger Klopse".
  Kategorie: "Kochen".
- Quelle: übernommen "veraendert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang xx/Heft x, monat jahr.
+ Quelle: übernommen "verändert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang xx/Heft x, monat jahr.
  (http://www.strassenkreuzer.info/das-sozialmagazin/kochen-mit-jochen.html)".
  Letzte Änderung: 30.12.2012.
  Tag: "Schwein". Tag: "Strassenkreuzer".
@@ -108,6 +108,6 @@ Rezept "KoenigsbergerKlopse" {
  Zutat: "Schweinefleisch" Menge: "" "g".
  
  Aktion: "someBeschreibung."
- 
+ #
  }
  
