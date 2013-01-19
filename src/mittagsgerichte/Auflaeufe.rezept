@@ -31,11 +31,12 @@ Aktion: "Die Zwiebel in Ringe schneiden und diese über der Speckschicht verteil
 Aktion: "Die Kartoffeln schälen und waschen. Anschließend in Scheiben scheiden und damit die obere Schicht des Auflaufes bilden."
 Aktion: "Jetzt noch die Schlagsahne über den Auflauf ausgießen und verteilen."
 Aktion: "Zum Abschluss den gesamten Auflauf mit den Käsescheiben belegen."
-Aktion: "Den Auflauf im Umluftherd 45 Minuten bei 200 °C backen."
-#
-Kommentar: "Schmeckt lecker."
 Tipp:  "Da der Käse sehr braun wird, ist es möglicherweise besser diesen erst nach 20 Minuten hinzuzugeben.
  Wie sich die dabei erzeugte Unterbrechung des Backvorganges auswirkt ist nicht bekannt." 
+Aktion: "Den Auflauf im Umluftherd 45 Minuten bei 200 °C backen."
+--Zusatzinformationen--
+Kommentar: "Schmeckt lecker."
+
 }
 
 

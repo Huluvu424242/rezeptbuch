@@ -1,5 +1,7 @@
 Rezeptliste "Strassenkreuzer" ;
 import produkte "../Commons/ProdukteEdeka.rezept";
+import produkte "../Commons/ProdukteMarktkauf.rezept" ;
+
 
 Rezept "Niergengulasch" {
 
@@ -45,7 +47,7 @@ Aktion: "Die Nieren in einer weiteren Pfanne scharf anbraten. Die Nierenbrühe a
 Aktion: "Abschließend nach Geschmack salzen und pfeffern."
 Aktion: "Nicht mehr kochen damit die Nieren nicht hart werden."
 Aktion: "Nierengulasch und Reis servieren."
-#
+--Zusatzinformationen--
 Anmerkung: "Das Originalrezept im Sozialmagazin enthält noch zusätzliche, interessante Erläuterungen. Möglicherweise kann es über http://www.strassenkreuzer.info käuflich erworben werden."
 
 }
@@ -82,7 +84,7 @@ Aktion: "Zwiebeln in einen Bräter setzen, mit dem Zwiebelwasser angießen, mit 
  würzen und auf der mittleren Schiene bei 200 Grad 30 Minuten überbacken."
 Aktion: "Nach 20 Minuten die Speckscheiben auf die Zwiebeln legen und mitbacken."
 Aktion: "Als Beilage eignen sich Kartoffeln in verschiedenen Variationen."
-#
+--Zusatzinformationen--
 Tipp:  "Wer kein Fleisch mag, füllt mit gequollenem Dinkel und lässt die 
  Zwiebel etwa 10 Minuten kürzer im Ofen." 
  
@@ -90,6 +92,77 @@ Anmerkung: "Das Originalrezept im Sozialmagazin enthält noch zusätzliche, inte
 }
 
 
+Rezept "GemüsesuppeMitSchweinefleisch" {
+
+Titel: "Gemüsesuppe mit Schweinefleisch".
+Kategorie: "Kochen".
+Quelle: übernommen "verändert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang ?Nr?/Heft ?Nr?, ?monat? ?jahr?.
+(http://www.strassenkreuzer.info/das-sozialmagazin/kochen-mit-jochen.html)". 
+Ausreichend für 4 Personen.
+Letzte Änderung: 02.01.2012.
+Tag: "Suppe". Tag: "Fleisch". Tag: "Schwein".
+
+ProduktRef: "Schulter vom Schwein" Menge: "1" mal.
+ProduktRef: "Kohlrabi" Menge: "3" mal.
+ProduktRef: "Möhren" Menge: "1" mal.
+ProduktRef: "Gemüsezwiebel" Menge: "1" mal.
+ProduktRef: "Sellerie" Menge: "1" mal.
+ProduktRef: "Porree" Menge: "1" mal.
+ProduktRef: "Lorbeerblätter" Menge: "1" mal.
+ProduktRef: "Gewürznelken" Menge: "1" mal.
+ProduktRef: "Pimentkörner" Menge: "1" mal.
+
+
+Zutat: "Schulter vom Schwein" Menge: "1" "kg".
+Zutat: "Kohlrabi" Menge: "3" "mittlere" "Stück".
+Zutat: "Möhren" Menge: "5" "Stück".
+Zutat: "Gemüsezwiebel" Menge: "1" "Stück".
+Zutat: "Sellerie" Menge: "1" "kleine" "Knolle".
+Zutat: "Porree" Menge: "1" "Stange". 
+Zutat: "Salz" "nach Bedarf".
+Zutat: "Lorbeerblätter" Menge: "2" "Stück".
+Zutat: "Gewürznelken" Menge: "2" "Stück".
+Zutat: "Pimentkörner" Menge: "4" "Stück".
+Zutat: "Petersilie" Menge: "1" "Bund".
+
+Aktion: "Schweinefleisch waschen und salzen."
+Aktion: "Das Fleisch in einen großen Suppentopf mit Wasser zum kochen 
+	aufsetzen (E-Herd Stufe III).
+	Die Wassermenge richtet sich nach der benötigten Suppenmenge. Sollte
+	aber so etwa bei 2? Litern liegen. Auf jeden Fall muss das Fleich 
+	vollständig bedeckt sein."
+Aktion: "Lorbeerblätter, Nelken, Pimentkörner sowie 2 Messerspitzen Salz in den Topf geben."
+Aktion: "Fleisch kurz aufkochen lassen und dann 1h auf kleiner Flamme weiter kochen lassen (E-Herd Stufe 1)."
+Aktion: "In der Zwischenzeit das Gemüse waschen, putzen, schälen und schneiden.
+	So dass Kohlrabi und Zwiebel in kleine Würfel, Möhren und Porree 
+	in kleine Ringe und der Sellerie in kleinen Scheiben vorliegt. Die 
+	Petersilie wird einfach klein gehächselt wie bei Kräutern üblich."
+Aktion: "Nachdem das Fleisch 1h gekocht hat, wird wieder auf grosse Flamme 
+	(E-Herd Stufe II) geschalten bis sich das Fleisch vom Knochen 
+	zu lösen beginnt."
+Aktion: "Fleisch aus dem Topf nehmen und den Rest auf kleiner Flamme weiter 
+	kochen lassen. Sämtliches Fleisch und Fett vom Knochen lösen, 
+	klein schneiden und in den Topf zurückgeben.
+	Besonders große Knochen (bei Schulter sollte einer dabei sein) können
+	wieder in den Topf gelegt werden um weiteres Mark auszukochen."
+Aktion: "Gleich dannach die Kohlrabi und Möhrenstücken und den Sellerie in
+	den Topf geben."
+Aktion: "Nach 30 Minuten die Zwiebel und den Porree zur Suppe geben."
+Aktion: "Nach weiteren 15 Minuten die Petersilie hinzufügen."
+Aktion: "Noch ca. 15 Minuten kochen lassen bis alles weich ist und servieren.
+	Die Gesamtkochzeit beträgt etwa 2h."
+--Zusatzinformationen--
+Tipp: "Durch Zugabe von Instant Suppenpulver (Maggi) kann die Suppe je nach Geschmackswunsch verändert werden."
+Tipp: "Fleisch und Fett bei Kindern besonders kleinschneiden, sonst wird es aussortiert."
+Tipp: "Es ist erstrebenswert das Gemüse und vor allem die Gewürze so
+	kurz wie möglich im Topf zu kochen, damit noch ein paar 
+	Nährstoffe und Vitamine erhalten bleiben."
+Tipp: "Bei Bedarf ist es besser das Gericht neu aufzuwärmen als es über länger Zeit warm zu halten."	
+
+
+Anmerkung: "Das Originalrezept im Sozialmagazin enthält noch zusätzliche, interessante Erläuterungen. Möglicherweise kann es über http://www.strassenkreuzer.info käuflich erworben werden."
+
+}
 
 
 
@@ -108,6 +181,6 @@ Rezept "KoenigsbergerKlopse" {
  Zutat: "Schweinefleisch" Menge: "" "g".
  
  Aktion: "someBeschreibung."
- #
+ --Zusatzinformationen--
  }
  

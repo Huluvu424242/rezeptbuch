@@ -5,7 +5,7 @@ Rezept "Grundteig Pizza" {
 Titel: "Pizza Teig einfach und italienisch" .
 Kategorie: "Pizza".
 Ausreichend für 3 Personen.
-Letzte Änderung: 23.03.2012 .
+Letzte Änderung: 19.01.2013 .
 
 Diät: "Fruchtzuckerarm".
 Tag: "Pizza".
@@ -32,9 +32,9 @@ Aktion: "Die ganze Teigfläche mit Ketchup bestreichen."
 Aktion: "Gewünschten Pizzabelag aufbringen (z.B. Oliven, Salami, Kochschinken, Perperonie, Paprikastücken, geschnittene Champinions, Artischoken)."
 Aktion: "Belag mit Oregano würzen und mit einer Schicht Reibekäse bedecken."
 Aktion: "Bei 200°C im Herd backen bis der Käse vollständig zerlaufen ist (etwa 20 - 30 Minuten)." 
-#
-Tipp: "Wenn der Teig beim ersten Kneten zu fest erscheint noch einen Esslöfel Olivenöl hinzugeben und weiter kneten."
-Tipp: "Wenn der Teig beim ersten Kneten zu flüssig erscheint etwas Mehl hinzugeben und weiter kneten."
+--Zusatzinformationen--
+Tipp: "Wenn der Teig beim ersten Kneten zu fest erscheint noch einen Esslöfel Olivenöl hinzugeben. 
+Sollte der Teig zu flüssig erscheinen, dann etwas Mehl hinzugeben und weiter kneten."
 
 Bild: URL: "http://farm9.staticflickr.com/8311/8005391466_a6600886b2.jpg" Text: "Die Zutaten für den Belag" 
 Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
