@@ -1,0 +1,69 @@
+Rezeptliste "Nudeln" ; 
+import produkte "../Commons/ProdukteEdeka.rezept" ;
+
+
+
+Rezept "NudelnMitTomatensosse" {
+
+Titel: "Nudeln mit Tomatensosse".
+Untertitel: "Studentenart".
+Kategorie: "Kochen".
+Quelle: überliefert von "Thomas Schubert".
+Ausreichend für 3 Personen.
+Letzte Änderung: 20.01.2013.
+Tag: "Nudeln". 
+
+Zutat: "Fleischwurst" Menge: "325" "g".
+Zutat: "Spaghetti" Menge: "500" "g".
+Zutat: "Gemüsezwiebel" Menge: "1" "Stück".
+Zutat: "Tomatenmark" Menge: "6" "Esslöffel".
+Zutat: "Geriebener Käse" Menge: "1" "Tüte(n)".
+Zutat: "Sonnenblumenöl" Menge: "3" "Esslöffel".
+Zutat: "Spaghetti Gewürz" "nach Bedarf".
+Zutat: "Salz" Menge: "1" "Prise".
+Zutat: "Wasser" Menge: "600" "ml".
+
+Aktion: "Eine Pfanne mit ein wenig Öl erhitzen (E-Herd Stufe III)."
+Aktion: "In der Zwischenzeit die Fleischwurst in kleine Stifte oder Würfel schneiden."
+Aktion: "Die Zwiebel in Würfeln schneiden."
+Aktion: "Fleischwurst in die Pfanne geben und braten bis sie eine gold braune
+Färbung annimmt."
+Aktion: "Wenn die Wurst gold braun gebraten ist wird die gewürfelte Zwiebel zugegeben."
+Aktion: "Nun solange braten bis auch die Zwiebel gold braun ist."
+Aktion: "Jetzt geben wir 200 ml Wasser zum ablöschen hinzu."
+Aktion: "Anschließend geben wir das Tomatenmark und 400 ml Wasser hinzu, verrühren alles gut und lassen es kurz aufkochen."
+Aktion: "Ab jetzt die Sosse auf Stufe 1 warmhalten."
+Aktion: "Die Nudeln zubereiten indem wir einen Topf 3/4 mit Wasser füllen, 
+eine Prise Salz zugeben und die Nudeln hineinlegen (E-Herd Stufe 3)."
+Aktion: "Nach dem Aufkochen werden die Nudeln weiter auf Stufe 2 gekocht bis sie gar sind."
+Tipp: "Nudeln sind gar wenn sie gegen eine glatte senkrechte Fläche gewurfen nicht abfallen."
+Aktion: "Nudeln abschrecken. Dazu wird der Topf vom Herd genommen und das Wasser abgegossen
+(dekantieren indem man den Deckel etwas verschiebt). Anschließend Topf und Nudel mit
+kaltem Wasser auffüllen und wieder abgiessen."
+Tipp: "Einfach nur in den Topf schauen reicht nicht - egal wie man aussieht :)"
+--Zusatzinformationen--
+Tipp: "Durch Zugabe von Instant Suppenpulver (Gemüsebrühe) erhalten die
+				Nudeln beim Kochen einen würzigeren Geschmack und kleben 
+				nach dem Abschrecken nicht so."
+Tipp: "Sollten die Nudel zu stark kleben, kann man nach dem Abschrecken
+				etwas Butter hinzugeben. Dadurch wird das weitere Kleben 
+				verhindert."
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

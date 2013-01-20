@@ -2,9 +2,72 @@ Rezeptliste "Topf und Pfanne" ;
 import produkte "../Commons/ProdukteEdeka.rezept" ;
 import produkte "../Commons/ProdukteMarktkauf.rezept" ;
 
+Rezept "Bauernfrüstück" {
+
+Titel: "Bauernfrühstück".
+Kategorie: "Kochen".
+Quelle: übernommen "verändert" aus "http://www.kochbar.de/rezept/anzeigen/druck/id/86049/personen/3".
+Ausreichend für 3 Personen.
+Letzte Änderung: 20.01.2013.
+Tag: "Schwein". Stoff: "Fleisch". Stoff: "Milch".
+
+Zutat: "Kartoffeln" Menge: "750" "g".
+Zutat: "Durchwachsener Speck" Menge: "80" "g".
+Zutat: "Eier" Menge: "3" "Stück".
+Zutat: "Milch" Menge: "3" "Esslöffel".
+Zutat: "Schinkenwürfel" Menge: "125" "g".
+Zutat: "Tomaten" Menge: "2" "Stück".
+Zutat: "Schnittlauch" "nach Bedarf".
+Zutat: "Pfeffer" "nach Bedarf".
+Zutat: "Salz" "nach Bedarf".
+
+Aktion: "Kartoffeln kochen und kalt werden lassen."
+Aktion: "Kartoffeln in Scheiben schneiden und Speck klein würfeln."
+Aktion: "Speck in der Pfanne anbraten, Kartoffeln dazugeben, salzen und
+hellbraun rösten."
+Aktion: "Eier, Milch und Salz verquirlen und mit den Schinkenwürfeln vermischen."
+Aktion: "Tomaten abziehen, klein schneiden und in die Eiermilch geben."
+Aktion: "Die gesamte Milch-Mischung über die Kartoffeln geben und braten
+bis es fest wird."
+Aktion: "Abschließend mit Schnittlauch verfeinern und servieren."
+
+--Zusatzinformationen--
+
+
+}
+
+Rezept "KartoffelbreiMitBulette" {
+
+Titel: "Kartoffelbrei mit Bulette".
+Kategorie: "Kochen".
+Quelle: überliefert von "Thomas Schubert".
+Ausreichend für 3 Personen.
+Letzte Änderung: 20.01.2013.
+Stoff: "Fleisch". Stoff: "Milch".
+
+Zutat: "Milch" Menge: "0.5" "L".
+Zutat: "Butter (Rama)" Menge: "1" "Esslöffel".
+Zutat: "Kartoffelpüree" Menge: "2" "Tüte(n)".
+Zutat: "Wasser" Menge: "1" "L".
+Zutat: "Buletten" Menge: "4" "Stück".
+Zutat: "Zigeunersosse" Menge: "500" "ml".
+Zutat: "Salz" Menge: "1" "Prise".
+
+Aktion: "Die fertige Zigeunersosse in einen kleinen Topf geben."
+Aktion: "Die Buletten zur Sosse geben und den Topf auf Stufe 1 (E-Herd) ca. 
+30 Minuten erwärmen, so dass die Buletten auch innen warm sind."
+Aktion: "Das Wasser mit einer Prise Salz in einen Topf geben und zum Kochen 
+bringen (E-Herd Stufe III)."
+Aktion: "Wenn das Wasser kocht, vom Herd nehmen. Dann Milch, Butter und die 
+das Kartoffelpüree einrühren. Kurz durchrühren bis alles glatt ist."
+Aktion: "Servieren."
 
 
 
+--Zusatzinformationen--
+
+
+}
 
 
 
