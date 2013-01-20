@@ -8,7 +8,7 @@ Kategorie: "Kochen".
 Quelle: übernommen "verändert" aus "Alte Bernburger und Anhaltiner Küche".
 Ausreichend für 4 Personen.
 Letzte Änderung: 23.06.2012.
-Tag: "Schwein". Tag: "Fleisch". Tag: "Suppe".
+Tag: "Schwein". Stoff: "Fleisch". Tag: "Suppe".
 
 Zutat: "Schweinerippchen" Menge: "500" "g".
 Zutat: "Kohrabi" Menge: "6" "Stück".
@@ -66,13 +66,11 @@ Aktion: "Nach der Garzeit den Topf von der Platte ziehen und das Fleisch herausn
 Aktion: "Die Klösse in den Topf geben und ca. 30 Minuten im offenen Topf ziehen lassen."
 Aktion: "Das Fleisch in mundgerechte Stücken schneiden."
 Aktion: "Nach dem die Klösse durchgezogen sind, das geschnittene Fleisch wieder in den Topf geben."
-Aktion: "Topfinhalt nochmals kurz aufkochen und heiß servieren."
+Aktion: "Topfinhalt nochmals kurz aufkochen und sehr heiß servieren."
 
 --Zusatzinformationen--
 Anmerkung: "Anhaltinische Gerichte werden traditionell mit viel Kümmel gewürzt." 
 Tipp: "Für Personen die kein Lammfleisch mögen, Schwein eignet sich genauso gut."
-Tipp: "Sehr heiß servieren."
-Tipp: "Lieber viele kleine Klösse als wenige große bilden."
 Tipp: "Dem Kloßteig ruhig etwas Pfeffer und Kümmel zusetzen damit sie etwas gräulich wirken."
 Anmerkung: "Der Kümmel reduziert mögliche, von der Zwiebel hervorgerufene Blähungen."
 
