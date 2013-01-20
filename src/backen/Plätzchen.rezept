@@ -38,10 +38,90 @@ Urheber: "Huluvu424242".
 
 }
 
+Rezept "KomarKekse" {
+Titel: "Komar Kekse".
+Kategorie: "Backen".
+
+Quelle: übernommen "verändert" aus "dem offiziellen Star Trek Kochbuch, ISBN: 3-89365-796-7, S. 269-270".
+Ausreichend für 2 Personen.
+Letzte Änderung: 20.01.2013.
+Tag: "Plätzchen". Tag: "Kekse".
+
+
+Zutat: "Mehl" Menge: "250" "g".
+Zutat: "Butter" Menge: "125" "g".
+Zutat: "brauner Zucker" Menge: "125" "g".
+Zutat: "Eier" Menge: "3" "Stück".
+Zutat: "Vanillearoma" Menge: "0.5" "Teeloeffel".
+Zutat: "Salz" Menge: "0.25" "Teeloeffel".
+Zutat: "Zimt"  Menge: "1" "Teeloeffel".
+Zutat: "granulierter Zucker" Menge: "1" "Tasse".
+Zutat: "Marmelade"  "nach Bedarf".
+
+Aktion: "Butter im Topf auf kleinster Stufe zergehen lassen und sofort wieder runter vom Herd."
+Aktion: "In die Butter den braunen Zucker eingeben und mittels Schneebesen schaumig schlagen."
+Aktion: "Zu dem Gemisch wird 1 Ei, das Mehl, die Vanille, der Zimt und das Salz gegeben."
+Aktion: "Alles schön verrühren"
+Tipp: "Umso kälter es wird umso eher sieht es wie brauner Rührteig aus."
+Aktion: "Irgendwann sollte der Teig nicht mehr so kleben und sich eine Kugel formen lassen."
+Tipp: "Ich habe hier mit Mehl nachgeholfen damit er nicht mehr so klebte"
+Aktion: "Ist es gelungen den Teig zu einer Kugel zu formen, dann kommt dieser
+15 Minuten in den Kühlschrank."
+Aktion: "In der Zeit des Kühlens kann der Herd auf 200 Grad vorgeheizt werden."
+Aktion: "Das restliche Ei schaumig schlagen und den granulierten Zucker in eine
+Suppentasse oder einen Teller geben."
+Aktion: "Nachdem der Teig 15 Minuten gekühlt hat (er sollte jetzt nicht mehr kleben)
+Stückchen in Keksgröße entnehmen und als Ball rollen. Zunächst im Ei und dann im Zucker
+wälzen und auf ein gefettetes Blech geben."
+Aktion: "Auf dem Blech den Ball so eindrücken, dass eine Kuhle entsteht. In diese
+wird die Marmelade gegeben."
+Aktion: "Die Kekse etwa 10 Minuten backen"
+Tipp: "Nach dem Backen die Kekse erst kühlen lassen, da sie noch
+				nicht fest sind. Stabilität erlangen die Kekse erst beim Kühlen."
+
+--Zusatzinformationen--
+Anmerkung: "Aus meiner Sicht kann es nicht schaden deutlich mehr Mehl zu
+				nehmen oder weniger Butter, aber ich habe es noch nicht probiert wie
+				sich das auswirkt. Ich würde erwarten, dass die Kekse härter werden
+				und nicht mehr so süss sind."
+Anmerkung: "Die Glasur mit dem Ei, dem granulierten Zucker und der
+				Marmelade würde ich weglassen. Stattdessen hilft vielleicht
+				Kokosraspel	aber ob das dann schmeckt muss man testen."
+
+
+}
 
 
 
 
+Rezept "EinfacheKekse" {
+Titel: "Einfache Kekse".
+Kategorie: "Backen".
+
+Quelle: überliefert von "Thomas Schubert".
+Ausreichend für 2 Personen.
+Letzte Änderung: 20.01.2013.
+Tag: "Plätzchen". Tag: "Kekse".
+
+
+Zutat: "Zucker" Menge: "250" "g".
+Zutat: "Butter" Menge: "250" "g".
+Zutat: "Mehl" Menge: "500" "g".
+Zutat: "Eier" Menge: "2" "Stück".
+Zutat: "Vanillezucker" Menge: "2" "Packung(en)".
+
+
+Aktion: "Alle Zutaten vermengen und zu einem Teig verkneten."
+Aktion: "Den Teig ausrollen."
+Aktion: "Kekse ausstechen und auf gefettetes Blech legen."
+Aktion: "10 Minuten backen."
+
+
+
+--Zusatzinformationen--
+
+
+}
 
 
 

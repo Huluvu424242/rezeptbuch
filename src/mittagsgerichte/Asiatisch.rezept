@@ -1,0 +1,40 @@
+Rezeptliste "Asiatisch" ; 
+import produkte "../Commons/ProdukteEdeka.rezept";
+
+Rezept "BahmiGoreng" {
+Titel: "Bahmi Goreng" .
+Untertitel: "Gebackene Nudeln mit Fleisch".
+Kategorie: "Asiatisch".
+Ausreichend für 3 Personen.
+Letzte Änderung: 20.01.2013 .
+
+Tag: "Asiatisch". 
+
+Zutat: "Wan Kwai Mie-Nudeln" Menge: "400" "g".
+Zutat: "Hühner oder Schweinefleisch" Menge: "400" "g".
+Zutat: "gekochten Schinken" Menge: "100" "g". 
+Zutat: "Porree" Menge: "1" "Stange".
+Zutat: "Zwiebeln" Menge: "2" "Stück".
+Zutat: "Rote Paprikatschote" Menge: "1" "Stück".
+Zutat: "Sellerie" Menge: "75" "g".
+
+
+Aktion: "Mie Nudeln nach Packungsanweisung kochen."
+Aktion: "In der Zwischenzeit das Fleisch und den Schinken in Würfel sowie
+Porree und Zwiebeln in Ringe, Paprika und Sellerie in Streifen schneiden."
+Aktion: "Erbsen und Mungbohnenkeime abtropfen lassen."
+Aktion: "Öl in einer Pfanne oder im Wok erhitzen, das Fleisch kurz darin 
+anbraten, nach und nach Schinken, Zwiebeln, Porree, Sellerie und Paprika
+zugeben und mitbraten."
+Aktion: "Zum Schluß die Erbsen und Mungbohnenkeime unterrühren. Das Gemüse
+soll knackig bleiben."
+Aktion: "Mit Knoflookpoeder (Knoblauchpuder), Djahé (gemahlenen Ingwer), Ketjap (süsse Sojasose) und 
+ Sambal (Chili Paste) würzen, die fertig gekochten Nudeln untermischen und alles noch 5 Minuten braten."
+Aktion: "Als Beilage gebratene Eier, gebackener Kroepoek (Krabbenchips) und Atjar Tjampoer (Gemüsesalat)."
+
+
+--Zusatzinformationen--
+
+}
+
+

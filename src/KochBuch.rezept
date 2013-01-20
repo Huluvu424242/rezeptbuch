@@ -7,6 +7,8 @@ RezeptSammlung{
 Buch{
 	import rezepte "./backen/Plätzchen.rezept";
 	import rezepte "./backen/Pudding.rezept";
+	import rezepte "./backen/Glasuren.rezept";
+	import rezepte "./mittagsgerichte/Asiatisch.rezept";
 	import rezepte "./mittagsgerichte/Auflaeufe.rezept";
 	import rezepte "./mittagsgerichte/Pizzas.rezept";
 	import rezepte "./mittagsgerichte/TopfUndPfanne.rezept";
