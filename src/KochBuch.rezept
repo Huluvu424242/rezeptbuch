@@ -3,6 +3,7 @@ RezeptSammlung{
 	artifactId = "kochbuch" ;
 	version = "1.0-SNAPSHOT" ;
 	Media Folder: "src/_fotos";
+	siteURL="http://funthomas424242.github.com/rezeptbuch";
 }
 Buch{
 	import rezepte "./backen/Plätzchen.rezept";
