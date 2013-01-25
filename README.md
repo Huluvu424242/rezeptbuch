@@ -12,3 +12,4 @@ und *webhelp*. Die Resultate für *KochBuch.rezept* finden sie unter:
 
 * [Kochbuch als PDF](http://funthomas424242.github.com/rezeptbuch/kochbuch/book.pdf)
 
+Die Eclipse Plugin für den Editor können von [Bintray](https://bintray.com/pkg/show/general/funthomas424242/eclipse-features/rezept-dsl) heruntergeladen werden.
