@@ -2,7 +2,7 @@ Rezeptliste "Pudding" ;
 import produkte "../Commons/ProdukteEdeka.rezept";
 
 Rezept "Schokopudding"{
-Titel: "Schokoladenpudding".  
+Titel: "Schoko Pudding".  
 Kategorie: "Kochen". 
 Letzte Änderung: 30.12.2012.
 Tag: "Pudding". Diät: "Fruchtzuckerarm-Aufbauphase".

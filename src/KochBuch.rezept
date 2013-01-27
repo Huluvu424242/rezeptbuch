@@ -9,12 +9,13 @@ Buch{
 	import rezepte "./backen/Plätzchen.rezept";
 	import rezepte "./backen/Pudding.rezept";
 	import rezepte "./backen/Glasuren.rezept";
+	import rezepte "./backen/Kuchen.rezept";
 	import rezepte "./mittagsgerichte/Asiatisch.rezept";
 	import rezepte "./mittagsgerichte/Auflaeufe.rezept";
 	import rezepte "./mittagsgerichte/Pizzas.rezept";
 	import rezepte "./mittagsgerichte/TopfUndPfanne.rezept";
 	import rezepte "./mittagsgerichte/Nudeln.rezept";
-	import rezepte "./mittagsgerichte/Vegetarisch.rezept";
+	//import rezepte "./mittagsgerichte/Vegetarisch.rezept";
 	import rezepte "./Serien/BernburgerRezepte.rezept";
 	//import rezepte "./Serien/Strassenkreuzer.rezept";
 	

@@ -4,7 +4,7 @@ import produkte "../Commons/ProdukteMarktkauf.rezept" ;
 
 Rezept "Bauernfrüstück" {
 
-Titel: "Bauernfrühstück".
+Titel: "Bauern Frühstück".
 Kategorie: "Kochen".
 Quelle: übernommen "verändert" aus "http://www.kochbar.de/rezept/anzeigen/druck/id/86049/personen/3".
 Ausreichend für 3 Personen.
