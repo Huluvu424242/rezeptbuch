@@ -1,5 +1,4 @@
 //Auto generated index for searching.
-w["pressen"]="14";
 w["pressrückständ"]="14";
 w["prevail"]="0";
 w["previous"]="0";
@@ -145,7 +144,7 @@ w["schokolad"]="6";
 w["schon"]="15";
 w["schreibt"]="15";
 w["schubert"]="3,11,12,15";
-w["schule"]="15";
+w["schule"]="6,15";
 w["schulen"]="15";
 w["schutz"]="0,15";
 w["schwein"]="8,10,13,14";

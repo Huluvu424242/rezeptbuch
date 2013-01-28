@@ -1,5 +1,4 @@
 //Auto generated index for searching.
-w["freie"]="0";
 w["freien"]="15";
 w["freiheit"]="15";
 w["freizeit"]="15";
@@ -285,7 +284,7 @@ w["kochen"]="4,7,10,11,12,14,15";
 w["kochend"]="4";
 w["kochschinken"]="9";
 w["kocht"]="11,15";
-w["kochunterricht"]="15";
+w["kochunterricht"]="6,15";
 w["kohlrabi"]="13";
 w["kohlrabitopf"]="13,25";
 w["kohrabi"]="13";
@@ -586,4 +585,5 @@ w["precis"]="0";
 w["present"]="0";
 w["preserv"]="0";
 w["press"]="14";
+w["pressen"]="14";
 
