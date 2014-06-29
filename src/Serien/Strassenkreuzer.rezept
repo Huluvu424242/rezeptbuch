@@ -177,8 +177,8 @@ Rezept "KoenigsbergerKlopse" {
  ProduktRef: "Eier" Menge:  "1" mal.
  ProduktRef: "Schweinefleisch" Menge: "1" mal.
  
- Zutat: "Eier"  Menge: "" "Stück".
- Zutat: "Schweinefleisch" Menge: "" "g".
+ Zutat: "Eier"  Menge: "1" "Stück".
+ Zutat: "Schweinefleisch" Menge: "1" "g".
  
  Aktion: "someBeschreibung."
  --Zusatzinformationen--

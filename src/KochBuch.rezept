@@ -9,7 +9,8 @@ Buch{
 	import rezepte "./backen/Plätzchen.rezept";
 	import rezepte "./backen/Pudding.rezept";
 	import rezepte "./backen/Glasuren.rezept";
-	import rezepte "./backen/Kuchen.rezept";
+	import rezepte "./backen/Brownies.rezept";
+	import rezepte "./backen/Apfelkuchen.rezept";
 	import rezepte "./mittagsgerichte/Asiatisch.rezept";
 	import rezepte "./mittagsgerichte/Auflaeufe.rezept";
 	import rezepte "./mittagsgerichte/Pizzas.rezept";

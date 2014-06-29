@@ -1,5 +1,6 @@
 Produktliste "Edeka" ;
 
+
 //Getreide und Korn
 Produkt "Mehl"{
 Verpackung: "Packung".
@@ -8,12 +9,11 @@ Letzte Änderung: 04.08.2012.
 }
 
 
-
 // Fleisch
 
 Produkt "Schweinefleisch" {
 Verpackung: "Packung".
-Menge: "" "g".
+Menge: "1" "g".
 Letzte Änderung: 01.01.2012.
 }
 
@@ -84,7 +84,7 @@ Letzte Änderung: 01.01.2012.
 
 Produkt "Kakao"{
 Verpackung: "Packung".
-Menge: "" "g".
+Menge: "1" "g".
 Letzte Änderung: 01.01.2012.
 }
 
@@ -96,8 +96,18 @@ Letzte Änderung: 01.01.2012.
 
 Produkt "Traubenzucker"{
 Verpackung: "Packung".
-Menge: "" "g".
+Menge: "1" "g".
 Letzte Änderung: 01.01.2012.
+}
+
+Produkt  "Vanillinzucker" {
+Verpackung: "Päckchen".
+Letzte Änderung: 29.06.2014.
+}
+
+Produkt  "Rum Rosinen" {
+Verpackung: "Päckchen".
+Letzte Änderung: 29.06.2014.
 }
 
 Produkt  "Eier" {
@@ -106,7 +116,12 @@ Menge: "10" "Stück".
 Letzte Änderung: 01.01.2012.
 }
 
+//Bakterien, Pilze, Sporen
 
+Produkt "Hefeteig Garant"{
+Verpackung: "Päckchen".
+Letzte Änderung: 29.06.2014.
+}
  
 
 

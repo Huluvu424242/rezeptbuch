@@ -1,0 +1,60 @@
+Rezeptliste "Apfelkuchen" ; 
+import produkte "../Commons/ProdukteEdeka.rezept";
+
+Rezept "Apfelkuchen"{
+Titel: "Apfelkuchen".  
+Untertitel: "Hefeteig auf Blech".
+Kategorie: "Backen". 
+Letzte Änderung: 29.06.2014.
+Tag: "Blech".
+Tag: "Apfel".
+Tag: "Hefe".
+Tag: "Streusel".
+
+ProduktRef: "Hefe" Menge: "1" mal.
+ProduktRef: "Rum Rosinen" Menge: "1" mal.
+ProduktRef: "Milch" Menge: "1" mal.    
+
+Zutat: "Mehl" Menge: "375" "g".
+Zutat: "Hefe"  Menge: "1" "Päckchen".
+Zutat: "Zucker" Menge: "50" "g".
+Zutat: "Vanillezucker" Menge: "1" "Päckchen".
+Zutat: "Salz" Menge: "1" "Prise".
+Zutat: "Milch" Menge: "200" "ml".
+Zutat: "Butter" Menge: "75" "g".
+ 
+Zutat: "Äpfel" Menge: "2" "kg".
+Zutat: "Rosinen" Menge: "1" "Packung".
+
+Zutat: "Mehl" Menge: "300" "g".
+Zutat: "Zucker" Menge: "150" "g".
+Zutat: "Zimt" Menge: "1.5" "TL".
+Zutat: "Butter" Menge: "200" "g".
+Zutat: "Salz" Menge: "1" "Prise".
+ 
+Aktion: "Äpfel schälen und in schmale Spalten schneiden."
+Aktion: "Mehl, Hefe, Zucker, Vanillezucker, Salz und Butter gut vermengen."
+Aktion: "Die Milch dazugeben und zu einem glatten Hefeteig verkneten."
+Tipp: "Wenn der Teig an den Händen klebt weiteres Mehl dazu geben."
+Aktion: "Teig ausrollen und aufs Blech legen. Anschliessend mit einer Gabel kleine Löcher in den Teig stechen."
+Aktion: "Nun die Apfelspalten in den Teig drücken und die Rosinen darüber streuen."
+Aktion: "Jetzt bleiben 15 Minuten bevor der Teig in den Ofen darf, in der Zeit werden die Streusel hergestellt."
+Aktion: "Für die Streusel den 2. Teil aus Mehl, Zucker, Zimt, Butter und Salz gut verkneten. Daraus ergibt sich eine streuselige Masse."
+Aktion: "Die Streusel über den Kuchen schütten und gut verteilen." 
+Tipp: "Die Streusel schützen die Apfelstücken auch vor dem Verbrennen."
+Aktion: "Das Blech im vorgeheizten Backofen auf 180 Grad ca. 20 Minuten backen."
+Tipp: "Fertig ist der Kuchen wenn man eine Metallnadel in den Teig stecken kann und nach dem raussziehen der Nadel kein Teig an ihr haftet."
+Aktion: "Auskühlen lassen und servieren."
+ --Zusatzinformationen--
+
+ 
+}
+
+
+
+
+
+
+
+
+
