@@ -49,7 +49,7 @@
 						</configuration>
 						<executions>
 							<execution>
-								<goals>
+								<goals> 
 									<goal>site</goal>
 								</goals>
 								<phase>site</phase>

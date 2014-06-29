@@ -1,4 +1,4 @@
-Rezeptliste "Apfelkuchen" ; 
+Rezeptliste "Kuchen" ; 
 import produkte "../Commons/ProdukteEdeka.rezept";
 
 Rezept "Apfelkuchen"{
@@ -50,6 +50,44 @@ Aktion: "Auskühlen lassen und servieren."
  
 }
 
+Rezept "BrownieBackmischung" {
+Titel: "Brownie Backmischung".
+Kategorie: "Backen".
+
+Quelle: überliefert von "Kochunterricht in der Schule.".
+Ausreichend für 5 Personen.
+Letzte Änderung: 27.01.2013.
+Tag: "Brownies" .  
+
+
+
+Zutat: "Zucker" Menge: "125" "g".
+Zutat: "Mehl" Menge: "100" "g".
+Zutat: "gehackte Nüsse" Menge: "75" "g".
+Zutat: "leicht gehackte Schokolade" Menge: "50"  "g" .
+Zutat: "Kakaopulver" Menge: "2" "Esslöffel".
+Zutat: "Backpulver" Menge: "1" "Teeloeffel". 
+Zutat: "Salz" Menge: "0.5" "Teeloeffel".
+Zutat: "Oliven" Menge: "20" "Stück".
+Zutat: "Butter" Menge: "90" "g".
+Zutat: "Eier" Menge: "2" "Stück".
+
+
+Aktion: "Alles schichtenweise in ein Glas geben, beschriften, fest verschließen und dunkel und trocken lagern."
+Tipp: "Idealerweise verschraubare Gläser verwenden, dann könnte die Haltbarkeit etwa bei 1-2 Monaten liegen."
+Aktion: "Das Glas mit der Brownie Backmischung aus dem Lager holen und öffnen."
+Aktion: "Brownie Backmischung in eine große Schüssel geben."
+Aktion: "Die Butter und Eier hinzugeben."
+Aktion: "Verrühren bis ein glatter Teig entsteht."
+Aktion: "Den Teig auf einem gefetteten Backblech ca. 2 cm dick ausbringen."
+Aktion: "Bei 175°C etwa 30 Minuten backen."
+Anmerkung: "Im Umluftherd möglicherweise schneller fertig."
+Aktion: "Abkühlen lassen und viereckige Stücken schneiden."
+
+--Zusatzinformationen--
+Anmerkung: "Auf folgender Seite lassen sich auch Beschriftungen für die Gläser anfertigen - der Text muss halt angepasst werden
+http://www.casa-di-falcone.de/products/Aufkleber/Aufkleber-Homemade/Aufkleber-fuer-Backmischungen-Dots.html"
+}
 
 
 

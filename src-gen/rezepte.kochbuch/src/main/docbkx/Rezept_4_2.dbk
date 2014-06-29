@@ -7,7 +7,7 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
-<title>Bahmi Goreng</title>
+<title>Brownie Backmischung</title>
 
 <para>
 	<variablelist>
@@ -15,14 +15,14 @@
         <term>Tags:</term>
 		<listitem>
 	    	<para>
-						Asiatisch
+						Brownies
 			</para>
 		</listitem>
       </varlistentry>
 	  <varlistentry>
 	    <term>Quelle:</term>
 		<listitem><para>
-					nicht angegeben
+							überliefert von Kochunterricht in der Schule.
 		</para></listitem>
 	  </varlistentry>
     </variablelist>
@@ -34,44 +34,62 @@
     <para><itemizedlist>
 		<listitem>
           <para>
-			Wan Kwai Mie-Nudeln 
-						400.0 g
+			Zucker 
+						125.0 g
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Hühner oder Schweinefleisch 
-						400.0 g
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			gekochten Schinken 
+			Mehl 
 						100.0 g
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Porree 
-						1.0 Stange
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Zwiebeln 
-						2.0 Stück
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Rote Paprikatschote 
-						1.0 Stück
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Sellerie 
+			gehackte Nüsse 
 						75.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			leicht gehackte Schokolade 
+						50.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Kakaopulver 
+						2.0 Esslöffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Backpulver 
+						1.0 Teeloeffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Salz 
+						0.5 Teeloeffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Oliven 
+						20.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Butter 
+						90.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Eier 
+						2.0 Stück
 		  </para>
         </listitem>
     </itemizedlist></para>
@@ -83,46 +101,65 @@
     <para><orderedlist>
 		<listitem>
           <para>
-			Mie Nudeln nach Packungsanweisung kochen.
+			Alles schichtenweise in ein Glas geben, beschriften, fest verschließen und dunkel und trocken lagern.
+		  </para>
+		  <note>
+			  <para>
+				Idealerweise verschraubare Gläser verwenden, dann könnte die Haltbarkeit etwa bei 1-2 Monaten liegen.
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Das Glas mit der Brownie Backmischung aus dem Lager holen und öffnen.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			In der Zwischenzeit das Fleisch und den Schinken in Würfel sowie
-Porree und Zwiebeln in Ringe, Paprika und Sellerie in Streifen schneiden.
+			Brownie Backmischung in eine große Schüssel geben.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Erbsen und Mungbohnenkeime abtropfen lassen.
+			Die Butter und Eier hinzugeben.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Öl in einer Pfanne oder im Wok erhitzen, das Fleisch kurz darin 
-anbraten, nach und nach Schinken, Zwiebeln, Porree, Sellerie und Paprika
-zugeben und mitbraten.
+			Verrühren bis ein glatter Teig entsteht.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Zum Schluß die Erbsen und Mungbohnenkeime unterrühren. Das Gemüse
-soll knackig bleiben.
+			Den Teig auf einem gefetteten Backblech ca. 2 cm dick ausbringen.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Mit Knoflookpoeder (Knoblauchpuder), Djahé (gemahlenen Ingwer), Ketjap (süsse Sojasose) und 
- Sambal (Chili Paste) würzen, die fertig gekochten Nudeln untermischen und alles noch 5 Minuten braten.
+			Bei 175°C etwa 30 Minuten backen.
 		  </para>
+		  <note>
+			  <para>
+				Im Umluftherd möglicherweise schneller fertig.
+			  </para>
+		  </note>
         </listitem>
 		<listitem>
           <para>
-			Als Beilage gebratene Eier, gebackener Kroepoek (Krabbenchips) und Atjar Tjampoer (Gemüsesalat).
+			Abkühlen lassen und viereckige Stücken schneiden.
 		  </para>
         </listitem>
     </orderedlist ></para>
 
+		<formalpara>
+	      <title>Hinweise</title>
+		  <para>
+				<note>
+	          		<para>Auf folgender Seite lassen sich auch Beschriftungen für die Gläser anfertigen - der Text muss halt angepasst werden
+http://www.casa-di-falcone.de/products/Aufkleber/Aufkleber-Homemade/Aufkleber-fuer-Backmischungen-Dots.html</para>
+		        </note>
+ 		  </para>
+	    </formalpara>
   </section>
 
   <section>

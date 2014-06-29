@@ -7,7 +7,7 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
-<title>Bahmi Goreng</title>
+<title>Schnitzelauflauf</title>
 
 <para>
 	<variablelist>
@@ -15,14 +15,18 @@
         <term>Tags:</term>
 		<listitem>
 	    	<para>
-						Asiatisch
+						Fruchtzuckerarm-Aufbauphase
+					,
+						Fleisch
+					,
+						Schwein
 			</para>
 		</listitem>
       </varlistentry>
 	  <varlistentry>
 	    <term>Quelle:</term>
 		<listitem><para>
-					nicht angegeben
+							verändert übernommen aus: Studenten WG 'Zur alten Hippe', Reichenbachstr. Dresden.
 		</para></listitem>
 	  </varlistentry>
     </variablelist>
@@ -34,44 +38,38 @@
     <para><itemizedlist>
 		<listitem>
           <para>
-			Wan Kwai Mie-Nudeln 
-						400.0 g
+			Schweineschnitzel 
+						6.0 Stück
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Hühner oder Schweinefleisch 
-						400.0 g
+			Speck 
+						300.0 g
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			gekochten Schinken 
-						100.0 g
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Porree 
-						1.0 Stange
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Zwiebeln 
+			Gemüsezwiebel 
 						2.0 Stück
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Rote Paprikatschote 
-						1.0 Stück
+			Kartoffel 
+						10.0 Stück
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Sellerie 
-						75.0 g
+			Schnittkäse 
+						200.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Schlagsahne 
+						1.0 Becher
 		  </para>
         </listitem>
     </itemizedlist></para>
@@ -83,42 +81,43 @@
     <para><orderedlist>
 		<listitem>
           <para>
-			Mie Nudeln nach Packungsanweisung kochen.
+			Den Boden der Auflaufform vollständig mit Schnitzelfleisch belegen (nur eine Lage - nicht stapeln!).
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			In der Zwischenzeit das Fleisch und den Schinken in Würfel sowie
-Porree und Zwiebeln in Ringe, Paprika und Sellerie in Streifen schneiden.
+			Den Speck in dünne Streifen schneiden und als neue Schicht über den Fleischscheiben verteilen.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Erbsen und Mungbohnenkeime abtropfen lassen.
+			Die Zwiebel in Ringe schneiden und diese über der Speckschicht verteilen.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Öl in einer Pfanne oder im Wok erhitzen, das Fleisch kurz darin 
-anbraten, nach und nach Schinken, Zwiebeln, Porree, Sellerie und Paprika
-zugeben und mitbraten.
+			Die Kartoffeln schälen und waschen. Anschließend in Scheiben scheiden und damit die obere Schicht des Auflaufes bilden.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Zum Schluß die Erbsen und Mungbohnenkeime unterrühren. Das Gemüse
-soll knackig bleiben.
+			Jetzt noch die Schlagsahne über den Auflauf ausgießen und verteilen.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Mit Knoflookpoeder (Knoblauchpuder), Djahé (gemahlenen Ingwer), Ketjap (süsse Sojasose) und 
- Sambal (Chili Paste) würzen, die fertig gekochten Nudeln untermischen und alles noch 5 Minuten braten.
+			Zum Abschluss den gesamten Auflauf mit den Käsescheiben belegen.
 		  </para>
+		  <note>
+			  <para>
+				Da der Käse sehr braun wird, ist es möglicherweise besser diesen erst nach 20 Minuten hinzuzugeben.
+ Wie sich die dabei erzeugte Unterbrechung des Backvorganges auswirkt ist nicht bekannt.
+			  </para>
+		  </note>
         </listitem>
 		<listitem>
           <para>
-			Als Beilage gebratene Eier, gebackener Kroepoek (Krabbenchips) und Atjar Tjampoer (Gemüsesalat).
+			Den Auflauf im Umluftherd 45 Minuten bei 200 °C backen.
 		  </para>
         </listitem>
     </orderedlist ></para>
@@ -128,9 +127,53 @@ soll knackig bleiben.
   <section>
     <title>Einkaufsempfehlung</title>
 
-		<para>
-			Keine verfügbar.
-		</para>
+	    <para><itemizedlist>
+		
+			<listitem>
+	          <para>
+				2.0 x 
+					Packung  5 Minutensteaks vom Schwein
+							400.0 g
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Packung  Bauchspeck vom Schwein
+							300.0 g
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Packung  Emmentaler in Scheiben
+							200.0 g
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Packung  Kartoffeln festkochend
+							2.5 kg
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Netz  Zwiebeln
+							1.0 kg
+			  </para>
+	        </listitem>
+		
+	    </itemizedlist></para>
   </section>
 
 

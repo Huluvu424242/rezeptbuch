@@ -7,7 +7,7 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
-<title>Bauern Frühstück</title>
+<title>Nudeln mit Tomatensosse</title>
 
 <para>
 	<variablelist>
@@ -15,18 +15,14 @@
         <term>Tags:</term>
 		<listitem>
 	    	<para>
-						Schwein
-					,
-						Fleisch
-					,
-						Milch
+						Nudeln
 			</para>
 		</listitem>
       </varlistentry>
 	  <varlistentry>
 	    <term>Quelle:</term>
 		<listitem><para>
-							verändert übernommen aus: http://www.kochbar.de/rezept/anzeigen/druck/id/86049/personen/3
+							überliefert von Thomas Schubert
 		</para></listitem>
 	  </varlistentry>
     </variablelist>
@@ -38,56 +34,56 @@
     <para><itemizedlist>
 		<listitem>
           <para>
-			Kartoffeln 
-						750.0 g
+			Fleischwurst 
+						325.0 g
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Durchwachsener Speck 
-						80.0 g
+			Spaghetti 
+						500.0 g
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Eier 
-						3.0 Stück
+			Gemüsezwiebel 
+						1.0 Stück
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Milch 
+			Tomatenmark 
+						6.0 Esslöffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Geriebener Käse 
+						1.0 Tüte(n)
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Sonnenblumenöl 
 						3.0 Esslöffel
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Schinkenwürfel 
-						125.0 g
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Tomaten 
-						2.0 Stück
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
 						nach Bedarf 
-			Schnittlauch 
+			Spaghetti Gewürz 
 		  </para>
         </listitem>
 		<listitem>
           <para>
-						nach Bedarf 
-			Pfeffer 
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-						nach Bedarf 
 			Salz 
+						1.0 Prise
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Wasser 
+						600.0 ml
 		  </para>
         </listitem>
     </itemizedlist></para>
@@ -99,43 +95,95 @@
     <para><orderedlist>
 		<listitem>
           <para>
-			Kartoffeln kochen und kalt werden lassen.
+			Eine Pfanne mit ein wenig Öl erhitzen (E-Herd Stufe III).
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Kartoffeln in Scheiben schneiden und Speck klein würfeln.
+			In der Zwischenzeit die Fleischwurst in kleine Stifte oder Würfel schneiden.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Speck in der Pfanne anbraten, Kartoffeln dazugeben, salzen und
-hellbraun rösten.
+			Die Zwiebel in Würfeln schneiden.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Eier, Milch und Salz verquirlen und mit den Schinkenwürfeln vermischen.
+			Fleischwurst in die Pfanne geben und braten bis sie eine gold braune
+Färbung annimmt.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Tomaten abziehen, klein schneiden und in die Eiermilch geben.
+			Wenn die Wurst gold braun gebraten ist wird die gewürfelte Zwiebel zugegeben.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Die gesamte Milch-Mischung über die Kartoffeln geben und braten
-bis es fest wird.
+			Nun solange braten bis auch die Zwiebel gold braun ist.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Abschließend mit Schnittlauch verfeinern und servieren.
+			Jetzt geben wir 200 ml Wasser zum ablöschen hinzu.
 		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Anschließend geben wir das Tomatenmark und 400 ml Wasser hinzu, verrühren alles gut und lassen es kurz aufkochen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Ab jetzt die Sosse auf Stufe 1 warmhalten.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Nudeln zubereiten indem wir einen Topf 3/4 mit Wasser füllen, 
+eine Prise Salz zugeben und die Nudeln hineinlegen (E-Herd Stufe 3).
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Nach dem Aufkochen werden die Nudeln weiter auf Stufe 2 gekocht bis sie gar sind.
+		  </para>
+		  <note>
+			  <para>
+				Nudeln sind gar wenn sie gegen eine glatte senkrechte Fläche gewurfen nicht abfallen.
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Nudeln abschrecken. Dazu wird der Topf vom Herd genommen und das Wasser abgegossen
+(dekantieren indem man den Deckel etwas verschiebt). Anschließend Topf und Nudel mit
+kaltem Wasser auffüllen und wieder abgiessen.
+		  </para>
+		  <note>
+			  <para>
+				Einfach nur in den Topf schauen reicht nicht - egal wie man aussieht :)
+			  </para>
+		  </note>
         </listitem>
     </orderedlist ></para>
 
+		<formalpara>
+	      <title>Hinweise</title>
+		  <para>
+				<note>
+	          		<para>Durch Zugabe von Instant Suppenpulver (Gemüsebrühe) erhalten die
+				Nudeln beim Kochen einen würzigeren Geschmack und kleben 
+				nach dem Abschrecken nicht so.</para>
+		        </note>
+				<note>
+	          		<para>Sollten die Nudel zu stark kleben, kann man nach dem Abschrecken
+				etwas Butter hinzugeben. Dadurch wird das weitere Kleben 
+				verhindert.</para>
+		        </note>
+ 		  </para>
+	    </formalpara>
   </section>
 
   <section>

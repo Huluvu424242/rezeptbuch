@@ -171,47 +171,44 @@
 						
 		</chapter>
 		<chapter>
-		    <title>Brownies</title>
+		    <title>Kuchen</title>
 						<xi:include href="Rezept_4_1.dbk" />
 						
-		</chapter>
-		<chapter>
-		    <title>Apfelkuchen</title>
-						<xi:include href="Rezept_5_1.dbk" />
+						<xi:include href="Rezept_4_2.dbk" />
 						
 		</chapter>
 		<chapter>
 		    <title>Asiatisch</title>
-						<xi:include href="Rezept_6_1.dbk" />
+						<xi:include href="Rezept_5_1.dbk" />
 						
 		</chapter>
 		<chapter>
 		    <title>Aufläufe</title>
-						<xi:include href="Rezept_7_1.dbk" />
+						<xi:include href="Rezept_6_1.dbk" />
 						
 		</chapter>
 		<chapter>
 		    <title>Pizza</title>
-						<xi:include href="Rezept_8_1.dbk" />
+						<xi:include href="Rezept_7_1.dbk" />
 						
 		</chapter>
 		<chapter>
 		    <title>Topf und Pfanne</title>
-						<xi:include href="Rezept_9_1.dbk" />
+						<xi:include href="Rezept_8_1.dbk" />
 						
-						<xi:include href="Rezept_9_2.dbk" />
+						<xi:include href="Rezept_8_2.dbk" />
 						
 		</chapter>
 		<chapter>
 		    <title>Nudeln</title>
-						<xi:include href="Rezept_10_1.dbk" />
+						<xi:include href="Rezept_9_1.dbk" />
 						
 		</chapter>
 		<chapter>
 		    <title>Bernburger Rezepte</title>
-						<xi:include href="Rezept_11_1.dbk" />
+						<xi:include href="Rezept_10_1.dbk" />
 						
-						<xi:include href="Rezept_11_2.dbk" />
+						<xi:include href="Rezept_10_2.dbk" />
 						
 		</chapter>
 

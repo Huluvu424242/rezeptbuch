@@ -7,7 +7,7 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
-<title>Nudeln mit Tomatensosse</title>
+<title>Kohlrabitopf mit Rippchen</title>
 
 <para>
 	<variablelist>
@@ -15,14 +15,18 @@
         <term>Tags:</term>
 		<listitem>
 	    	<para>
-						Nudeln
+						Schwein
+					,
+						Fleisch
+					,
+						Suppe
 			</para>
 		</listitem>
       </varlistentry>
 	  <varlistentry>
 	    <term>Quelle:</term>
 		<listitem><para>
-							überliefert von Thomas Schubert
+							verändert übernommen aus: Alte Bernburger und Anhaltiner Küche
 		</para></listitem>
 	  </varlistentry>
     </variablelist>
@@ -34,56 +38,56 @@
     <para><itemizedlist>
 		<listitem>
           <para>
-			Fleischwurst 
-						325.0 g
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Spaghetti 
+			Schweinerippchen 
 						500.0 g
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Gemüsezwiebel 
+			Kohrabi 
+						6.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Kartoffeln 
+						500.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Zwiebel 
 						1.0 Stück
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Tomatenmark 
-						6.0 Esslöffel
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Geriebener Käse 
-						1.0 Tüte(n)
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Sonnenblumenöl 
-						3.0 Esslöffel
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-						nach Bedarf 
-			Spaghetti Gewürz 
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Salz 
-						1.0 Prise
+			Margarine 
+						1.0 Esslöffel
 		  </para>
         </listitem>
 		<listitem>
           <para>
 			Wasser 
-						600.0 ml
+						0.5 L
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Kümmel 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Pfeffer 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Salz 
 		  </para>
         </listitem>
     </itemizedlist></para>
@@ -95,77 +99,39 @@
     <para><orderedlist>
 		<listitem>
           <para>
-			Eine Pfanne mit ein wenig Öl erhitzen (E-Herd Stufe III).
+			Das Fett in einem großen, hohen Topf erhitzen und die Zwiebel wie auch die Rippchen dazugeben.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			In der Zwischenzeit die Fleischwurst in kleine Stifte oder Würfel schneiden.
+			Beides im Fett bräunen.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Die Zwiebel in Würfeln schneiden.
+			Mit 0,5 Liter Wasser löschen und das Fleisch fast gar schmoren lassen.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Fleischwurst in die Pfanne geben und braten bis sie eine gold braune
-Färbung annimmt.
+			In der Zwischenzeit die Kartoffeln und Kohlrabi in Stifte schneiden.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Wenn die Wurst gold braun gebraten ist wird die gewürfelte Zwiebel zugegeben.
+			Die zarten Blätter der Kohlrabi werden klein gehackt und dazu gegeben. Die anderen Blätter werden
+nicht verwendet.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Nun solange braten bis auch die Zwiebel gold braun ist.
+			Wenn das Fleisch fast gar ist werden die Kartoffel- und Kohlrabi Stifte hinzugegeben.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Jetzt geben wir 200 ml Wasser zum ablöschen hinzu.
+			Abschließend alles fertig garen und heiß servieren.
 		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Anschließend geben wir das Tomatenmark und 400 ml Wasser hinzu, verrühren alles gut und lassen es kurz aufkochen.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Ab jetzt die Sosse auf Stufe 1 warmhalten.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Die Nudeln zubereiten indem wir einen Topf 3/4 mit Wasser füllen, 
-eine Prise Salz zugeben und die Nudeln hineinlegen (E-Herd Stufe 3).
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Nach dem Aufkochen werden die Nudeln weiter auf Stufe 2 gekocht bis sie gar sind.
-		  </para>
-		  <note>
-			  <para>
-				Nudeln sind gar wenn sie gegen eine glatte senkrechte Fläche gewurfen nicht abfallen.
-			  </para>
-		  </note>
-        </listitem>
-		<listitem>
-          <para>
-			Nudeln abschrecken. Dazu wird der Topf vom Herd genommen und das Wasser abgegossen
-(dekantieren indem man den Deckel etwas verschiebt). Anschließend Topf und Nudel mit
-kaltem Wasser auffüllen und wieder abgiessen.
-		  </para>
-		  <note>
-			  <para>
-				Einfach nur in den Topf schauen reicht nicht - egal wie man aussieht :)
-			  </para>
-		  </note>
         </listitem>
     </orderedlist ></para>
 
@@ -173,14 +139,7 @@ kaltem Wasser auffüllen und wieder abgiessen.
 	      <title>Hinweise</title>
 		  <para>
 				<note>
-	          		<para>Durch Zugabe von Instant Suppenpulver (Gemüsebrühe) erhalten die
-				Nudeln beim Kochen einen würzigeren Geschmack und kleben 
-				nach dem Abschrecken nicht so.</para>
-		        </note>
-				<note>
-	          		<para>Sollten die Nudel zu stark kleben, kann man nach dem Abschrecken
-				etwas Butter hinzugeben. Dadurch wird das weitere Kleben 
-				verhindert.</para>
+	          		<para>Anhaltinische Gerichte werden traditionell mit viel Kümmel gewürzt.</para>
 		        </note>
  		  </para>
 	    </formalpara>
