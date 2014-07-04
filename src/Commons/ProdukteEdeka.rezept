@@ -102,11 +102,13 @@ Letzte Änderung: 01.01.2012.
 
 Produkt  "Vanillinzucker" {
 Verpackung: "Päckchen".
+Menge: "1" "Päckchen".
 Letzte Änderung: 29.06.2014.
 }
 
 Produkt  "Rum Rosinen" {
 Verpackung: "Päckchen".
+Menge: "1" "Päckchen".
 Letzte Änderung: 29.06.2014.
 }
 
@@ -120,6 +122,7 @@ Letzte Änderung: 01.01.2012.
 
 Produkt "Hefeteig Garant"{
 Verpackung: "Päckchen".
+Menge: "1" "Päckchen".
 Letzte Änderung: 29.06.2014.
 }
  

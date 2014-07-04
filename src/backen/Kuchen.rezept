@@ -13,7 +13,7 @@ Tag: "Apfel".
 Tag: "Hefe".
 Tag: "Streusel".
 
-ProduktRef: "Hefe" Menge: "1" mal.
+ProduktRef: "Hefeteig Garant" Menge: "1" mal.
 ProduktRef: "Rum Rosinen" Menge: "1" mal.
 ProduktRef: "Milch" Menge: "1" mal.    
 
@@ -26,11 +26,11 @@ Zutat: "Milch" Menge: "200" "ml".
 Zutat: "Butter" Menge: "75" "g".
  
 Zutat: "Äpfel" Menge: "2" "kg".
-Zutat: "Rosinen" Menge: "1" "Packung".
+Zutat: "Rum Rosinen" Menge: "1" "Päckchen".
 
 Zutat: "Mehl" Menge: "300" "g".
 Zutat: "Zucker" Menge: "150" "g".
-Zutat: "Zimt" Menge: "1.5" "TL".
+Zutat: "Zimt" Menge: "1.5" "Teeloeffel".
 Zutat: "Butter" Menge: "200" "g".
 Zutat: "Salz" Menge: "1" "Prise".
  
