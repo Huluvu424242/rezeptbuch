@@ -15,6 +15,7 @@ Buch{
 	import rezepte "./mittagsgerichte/Pizzas.rezept";
 	import rezepte "./mittagsgerichte/TopfUndPfanne.rezept";
 	import rezepte "./mittagsgerichte/Nudeln.rezept";
+	import rezepte "./mittagsgerichte/DDR.rezept";
 	//import rezepte "./mittagsgerichte/Vegetarisch.rezept";
 	import rezepte "./Serien/BernburgerRezepte.rezept";
 	//import rezepte "./Serien/Strassenkreuzer.rezept";

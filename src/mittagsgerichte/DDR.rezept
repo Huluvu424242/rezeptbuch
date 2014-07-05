@@ -1,0 +1,57 @@
+Rezeptliste "DDR Gerichte" ; 
+import produkte "../Commons/ProdukteEdeka.rezept" ;
+
+
+
+Rezept "Jägerschnitzel (DDR)" {
+
+Titel: "Jögerschnitzel".
+Untertitel: "nach DDR Art".
+Kategorie: "Kochen".
+Quelle: übernommen "verändert" aus "http://www.kochbar.de/rezept/369345/altes-DDR-Rezept-Jaegerschnitzel.html".
+Ausreichend für 2 Personen.
+Letzte Änderung: 05.07.2014.
+Tag: "Nudeln".
+Tag: "Jagdwurst".
+Tag: "Tomate".
+
+Zutat: "Spirelli (Fussili)" Menge: "1" "Tüte".
+Zutat: "Jagdwurst" Menge: "2" "Scheiben".
+Zutat: "Eier" Menge: "2" "Stück".
+Zutat: "Paniermehl" Menge: "1" "Tüte(n)".
+Zutat: "Tomaten passiert" Menge: "1" "Dose".
+Zutat: "Tomatenmark" Menge: "5" "Esslöffel".
+Zutat: "Zwiebeln" Menge: "3" "Stück".
+Zutat: "Bratenfond" Menge: "200" "ml".
+Zutat: "Sanella" Menge: "1" "Packung".
+
+Aktion: "Die Zwiebeln in feine Stücke hacken."
+Aktion: "Nudeln im Salzwasser zum Kochen aufsetzen."
+Aktion: "Für die Sosse die Zwiebeln in einen Topf geben und mit Sanella goldgelb braten."
+Aktion: "Die Zwiebeln mit den passierten Tomaten ablöschen, den Bratenfond unterrühren,
+ das Tomatenmark zugeben und aufkochen."
+Aktion: "Fleischwurst in die Pfanne geben und braten bis sie eine gold braune
+Färbung annimmt."
+Aktion: "Die Sosse mit Basilikum würzen und auf niedrigster Stufe köcheln lassen."
+Aktion: "Die Jadwurstscheiben panieren und beidseitig braten und servieren 
+(Sie sollten zeitgleich mit den Nudeln fertig werden)."
+--Zusatzinformationen--
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
