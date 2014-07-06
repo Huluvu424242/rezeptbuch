@@ -6,4 +6,4 @@ jdk:
 - openjdk7
 script:
 - cd src-gen/rezepte.kochbuch/;mvn -Pgithub clean site
-- cd ..;cd src-gen/rezepte.fruchtzuckerarm/;mvn -Pgithub clean site
+- cd ../rezepte.fruchtzuckerarm/;mvn -Pgithub clean site
