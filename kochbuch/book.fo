@@ -1062,13 +1062,13 @@ nicht verwendet.
  		  </fo:block></fo:block><fo:block space-before.optimum="1em" space-before.minimum="0.8em" space-before.maximum="1.2em"><fo:inline font-weight="bold" keep-with-next.within-line="always" padding-end="1em">Einkaufsempfehlung. </fo:inline>
 			Keine verfügbar.
 		</fo:block><fo:block space-before.optimum="1em" space-before.minimum="0.8em" space-before.maximum="1.2em"><fo:inline font-weight="bold" keep-with-next.within-line="always" padding-end="1em">Bilder. </fo:inline>
- 	<fo:external-graphic src="url(http://funthomas424242.github.com/rezeptbuch/kochbuch/media/zwiwwlklump/01_zwiwwlklump.jpg)" width="auto" height="auto" content-width="2in" content-height="auto"/>
+ 	<fo:external-graphic src="url(http://funthomas424242.github.io/rezeptbuch/kochbuch/media/zwiwwlklump/01_zwiwwlklump.jpg)" width="auto" height="auto" content-width="2in" content-height="auto"/>
 	<fo:footnote><fo:inline><fo:inline font-family="serif,Symbol,ZapfDingbats" font-size="75%" font-weight="normal" font-style="normal" baseline-shift="super">1</fo:inline></fo:inline><fo:footnote-body font-family="serif,Symbol,ZapfDingbats" font-size="8pt" font-weight="normal" font-style="normal" text-align="justify" start-indent="0pt" text-indent="0pt" hyphenate="true" wrap-option="wrap" linefeed-treatment="treat-as-space"><fo:block><fo:inline font-family="serif,Symbol,ZapfDingbats" font-size="75%" font-weight="normal" font-style="normal" baseline-shift="super">1</fo:inline>
 		<fo:inline font-family="serif">©</fo:inline>
 		Huluvu424242
 		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
 	</fo:block></fo:footnote-body></fo:footnote>
- 	<fo:external-graphic src="url(http://funthomas424242.github.com/rezeptbuch/kochbuch/media/zwiwwlklump/02_fertigserviert.jpg)" width="auto" height="auto" content-width="2in" content-height="auto"/>
+ 	<fo:external-graphic src="url(http://funthomas424242.github.io/rezeptbuch/kochbuch/media/zwiwwlklump/02_fertigserviert.jpg)" width="auto" height="auto" content-width="2in" content-height="auto"/>
 	<fo:footnote><fo:inline><fo:inline font-family="serif,Symbol,ZapfDingbats" font-size="75%" font-weight="normal" font-style="normal" baseline-shift="super">2</fo:inline></fo:inline><fo:footnote-body font-family="serif,Symbol,ZapfDingbats" font-size="8pt" font-weight="normal" font-style="normal" text-align="justify" start-indent="0pt" text-indent="0pt" hyphenate="true" wrap-option="wrap" linefeed-treatment="treat-as-space"><fo:block><fo:inline font-family="serif,Symbol,ZapfDingbats" font-size="75%" font-weight="normal" font-style="normal" baseline-shift="super">2</fo:inline>
 		<fo:inline font-family="serif">©</fo:inline>
 		Huluvu424242
