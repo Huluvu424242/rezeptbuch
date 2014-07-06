@@ -5,5 +5,5 @@ env:
 jdk:
 - openjdk7
 script:
-- mvn -f src-gen/rezepte.kochbuch/pom.xml -Pgithub clean site
-- mvn -f src-gen/rezepte.fruchtzuckerarm/pom.xml -Pgithub clean site
+- cd src-gen/rezepte.kochbuch/;mvn -Pgithub clean site
+- cd src-gen/rezepte.fruchtzuckerarm/;mvn -Pgithub clean site
