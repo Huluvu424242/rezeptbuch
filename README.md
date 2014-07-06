@@ -7,6 +7,7 @@ Aus den Beschreibungen lassen sich *DocBook* Projekte generieren welche über *M
 verschiedene Ausgabe Formate erzeugen können. Zwei mögliche Beispiele sind *pdf*
 und *webhelp*. Die Resultate für *KochBuch.rezept* finden sie unter:
 
+[![Build Status](https://travis-ci.org/FunThomas424242/rezeptbuch.svg?branch=master)](https://travis-ci.org/FunThomas424242/rezeptbuch)
 
 * [Kochbuch als WebHelp (HTML)] (http://funthomas424242.github.io/rezeptbuch/kochbuch/book/content/index.html)
 
