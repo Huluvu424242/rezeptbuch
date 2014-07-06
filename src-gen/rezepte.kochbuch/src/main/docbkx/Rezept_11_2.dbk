@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<section version="5.0" xmlns="http://docbook.org/ns/docbook"
+<chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
          xmlns:xlink="http://www.w3.org/1999/xlink"
          xmlns:xi="http://www.w3.org/2001/XInclude"
          xmlns:ns5="http://www.w3.org/2000/svg"
@@ -35,7 +35,7 @@
     </variablelist>
 </para>
 
-<section>
+<formalpara>
 	<title>Zutaten</title>
 
     <para><itemizedlist>
@@ -88,9 +88,9 @@
 		  </para>
         </listitem>
     </itemizedlist></para>
-  </section>
+  </formalpara>
 
-  <section>
+  <formalpara>
     <title>Arbeitsschritte</title>
 
     <para><orderedlist>
@@ -173,17 +173,17 @@
 		        </note>
  		  </para>
 	    </formalpara>
-  </section>
+  </formalpara>
 
-  <section>
+  <formalpara>
     <title>Einkaufsempfehlung</title>
 
 		<para>
 			Keine verfügbar.
 		</para>
-  </section>
+  </formalpara>
 
-  <section>
+  <formalpara>
     <title>Bilder</title>
 
 	<para>
@@ -247,8 +247,8 @@
 	</para></footnote>
 	</para>
 
-  </section>
+  </formalpara>
 
-</section>
+</chapter>
 
    

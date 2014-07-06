@@ -15,15 +15,17 @@ Tag: "Nudeln".
 Tag: "Jagdwurst".
 Tag: "Tomate".
 
-Zutat: "Spirelli (Fussili)" Menge: "1" "Tüte".
+ProduktRef: "Braten Fond" Menge: "1" mal.
+
+Zutat: "Spirelli (Fussili)" Menge: "1" "Tüte(n)".
 Zutat: "Jagdwurst" Menge: "2" "Scheiben".
 Zutat: "Eier" Menge: "2" "Stück".
 Zutat: "Paniermehl" Menge: "1" "Tüte(n)".
 Zutat: "Tomaten passiert" Menge: "1" "Dose".
 Zutat: "Tomatenmark" Menge: "5" "Esslöffel".
 Zutat: "Zwiebeln" Menge: "3" "Stück".
-Zutat: "Bratenfond" Menge: "200" "ml".
-Zutat: "Sanella" Menge: "1" "Packung".
+Zutat: "Braten Fond" Menge: "200" "ml".
+Zutat: "Sanella" "nach Bedarf".
 
 Aktion: "Die Zwiebeln in feine Stücke hacken."
 Aktion: "Nudeln im Salzwasser zum Kochen aufsetzen."

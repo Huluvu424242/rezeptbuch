@@ -1,11 +1,26 @@
 Produktliste "Edeka" ;
 
 
+// Sossen
+Produkt "Braten Fond"{
+Verpackung: "Glas".
+Menge: "400" "ml".
+Letzte Änderung: 04.07.2014.
+}
+
 //Getreide und Korn
 Produkt "Mehl"{
 Verpackung: "Packung".
 Menge: "500" "g".
 Letzte Änderung: 04.08.2012.
+}
+
+
+// Mehlprodukte
+Produkt "Spirelli (Fussili)"{
+Verpackung: "Tüte".
+Menge: "1" "Tüte(n)".
+Letzte Änderung: 05.07.2014.
 }
 
 
@@ -81,6 +96,12 @@ Letzte Änderung: 01.01.2012.
 
 
 //Backzutaten
+
+Produkt "Sanella"{
+Verpackung: "Becher".
+Menge: "500" "g".
+Letzte Änderung: 04.07.2014.
+}
 
 Produkt "Kakao"{
 Verpackung: "Packung".
