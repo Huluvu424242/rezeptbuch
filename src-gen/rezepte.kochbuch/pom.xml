@@ -22,7 +22,7 @@
 				<github.global.password>${env.gitpassword}</github.global.password>
 				<github.site.repositoryName>rezeptbuch</github.site.repositoryName>
 				<github.site.repositoryOwner>${env.gituser}</github.site.repositoryOwner>
-				<site.img.path>http://funthomas424242.github.com/rezeptbuch/kochbuch/media/</site.img.path>
+				<site.img.path>http://funthomas424242.github.io/rezeptbuch/kochbuch/media/</site.img.path>
 			</properties>
 			<build>
 				<plugins>

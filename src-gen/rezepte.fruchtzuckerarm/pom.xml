@@ -22,7 +22,7 @@
 				<github.global.password>${env.gitpassword}</github.global.password>
 				<github.site.repositoryName>rezeptbuch</github.site.repositoryName>
 				<github.site.repositoryOwner>${env.gituser}</github.site.repositoryOwner>
-				<site.img.path>/fruchtzuckerarm/media/</site.img.path>
+				<site.img.path>http://funthomas424242.github.io/rezeptbuch/fruchtzuckerarm/media/</site.img.path>
 			</properties>
 			<build>
 				<plugins>
@@ -67,7 +67,7 @@
 	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<media.parent>${basedir}/../../src/media</media.parent>
+		<media.parent>${basedir}/../../src/_fotos</media.parent>
 		<draft.mode>no</draft.mode>
 		<testonly>false</testonly>
 		<github.maventools.version>0.9</github.maventools.version>
