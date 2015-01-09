@@ -21,3 +21,7 @@ Beispiel für ein weiteres Kochbuch im gleichen Projekt
 
 
 Die Eclipse Plugin für den Editor können von [Bintray](https://bintray.com/pkg/show/general/funthomas424242/eclipse-features/rezept-dsl) heruntergeladen werden.
+
+
+Zum Abschluß noch ein Beispiel für eine Möglichkeit die Preise der einzelnen Märkte zu vergleichen:
+[Einkaufspreise.ods](https://github.com/FunThomas424242/rezeptbuch/blob/master/EinkaufsPreise.ods)
