@@ -84,3 +84,35 @@ Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 
 Urheber: "Huluvu424242".
 
 }
+
+Rezept "BeamtenStippe" {
+
+Titel: "Beamten Stippe".
+Kategorie: "Kochen".
+Quelle: übernommen "verändert" aus "Mitteldeutsche Küche - So kochen wir in Sachsen-Anhalt ISBN: 3-930383-25-X".
+Ausreichend für 2 Personen.
+Letzte Änderung: 07.02.2017.
+Tag: "Schwein". Tag: "Kartoffel". Tag: "Fleisch". Tag: "Milch".
+
+Zutat: "Hackfleisch gemischt" Menge: "500" "g".
+Zutat: "Zwiebeln" Menge: "1" "Stück".
+Zutat: "Gemüsebrühe" Menge: "400" "ml".
+Zutat: "Dunkle Mehlschwitze" "nach Bedarf".
+Zutat: "Kümmel" "nach Bedarf".
+Zutat: "Pfeffer" "nach Bedarf".
+Zutat: "Salz" "nach Bedarf".
+Zutat: "Kartoffeln (festkochend)" Menge: "500" "g".
+Zutat: "Milch" Menge: "250" "ml".
+Zutat: "Muskat" "etwas".
+
+Aktion: "Kartoffeln kochen, abgießen und mit der Milch zum Kartoffelbrei unter rühren verkochen."
+Aktion: "Muskat nach Belieben unter den Brei heben."
+Aktion: "400 ml Gemüsebrühe zum Kochen bringen."
+Tipp: "Gedacht um Reste einer Brühe zu verarbeiten, mit Instant Brühe geht es aber auch."
+Aktion: "Die Zwiebel würfeln und gemeinsam mit dem Hackfleisch zur Brühe geben."
+Aktion: "Kurz aufkochen bis das Hackfleisch gut durch und grau ist - sollte maximal 5 Minuten dauern."
+Aktion: "Mit Kümmel, Salz und Pfeffer abschmecken."
+Aktion: "Überschüssiges Wasser mit dunkler Mehlschwitze abbinden und erneut aufkochen."
+Aktion: "Servieren."
+--Zusatzinformationen--
+}
