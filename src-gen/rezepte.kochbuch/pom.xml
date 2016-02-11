@@ -70,7 +70,7 @@
 		<media.parent>${basedir}/../../src/_fotos</media.parent>
 		<draft.mode>no</draft.mode>
 		<testonly>false</testonly>
-		<github.maventools.version>0.9</github.maventools.version>
+		<github.maventools.version>0.12</github.maventools.version>
 		<mvn.siteplugin.version>3.3</mvn.siteplugin.version>
 	    <site.img.path>${project.build.directory}/site/${project.artifactId}/media/</site.img.path>
 	</properties>
