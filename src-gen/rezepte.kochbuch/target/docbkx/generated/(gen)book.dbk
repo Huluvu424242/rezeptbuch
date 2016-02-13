@@ -1,0 +1,3776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book version="5.0" xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<info>
+    <title>Freies Open Source Kochbuch</title>
+
+	<authorgroup>
+		    <editor>
+			  <personname>
+		    	  <firstname>Thomas </firstname>
+			      <surname>Schubert</surname>
+			  </personname>
+			      <affiliation>
+					<org>
+		    	    	<orgname>Fellow der Free Software Foundation Europe</orgname>
+					</org>
+		   		  </affiliation>
+	      	  <contrib>2012 Initiale Erstellung</contrib>
+	    	</editor>
+	</authorgroup>
+
+	<pubdate>16.01.2013</pubdate>
+
+	<legalnotice><para>GNU Free Documentation License (GFDL) v1.3 und folgende Versionen</para></legalnotice>
+
+
+ 	
+</info>
+
+	<preface>
+		<title>Vorwort</title>
+	
+	    <para>Herzlich Willkommen beim möglicherweise ersten freien Open Source Kochbuch der Welt in dem es nur um Rezepte geht. Das 
+	Kochbuch versteht sich als Fortsetzung des freien Kochbuches der Wikibooks welches Sie im Netz unter
+	https://de.wikibooks.org/wiki/Kochbuch finden können. Die ursprüngliche Idee war die Rezepte im Kochbuch von Wikibooks
+	abzulegen aber leider ist eine umfangreiche Rezeptsammlung nicht das Ziel der dortigen Community (Betrachten Sie dazu folgenden
+	Ausschnitt aus dem Leitfanden der Wikibooks:
+	https://de.wikibooks.org/wiki/Kochbuch/_Projektideen#Was_sollte_das_Kochbuch_nicht_sein.3F). Somit wurde entschieden ein
+	separates Projekt ins Leben zu rufen welches sich nicht um die Grundlagen des Kochens oder der Bestimmung zugehöriger Begriffe
+	zu kümmern sondern in dem es ausschließlich um die Ablage von Rezepten geht. 
+	</para>
+	<para>
+	Wir beglückwünschen Sie herzlich dazu, dass Sie sich für die Lektüre dieses Kochbuches entschieden haben. Sie halten mit
+	dem Produkt eine Sammlung von Rezepten in den Händen (oder betrachten diese am Bildschirm) welche viele Menschen in ihrer 
+	Freizeit zusammengetragen, sortiert, recherchiert, bearbeitet, ausprobiert und letztlich veröffentlicht haben. Alle Beteiligten
+	haben nach besten Wissen und Gewissen an der Erstellung des Buches gearbeitet und versucht dieses ohne Verletzung von Urheber-
+	oder Markenrechten zu erstellen. Die Begriffe freies Open Source Kochbuch werden im Abschnitt 
+	<emphasis>Rechtliches</emphasis> erläutert.
+	</para>
+	<para>
+	Vielleicht können Sie sich noch an Zeiten erinnern in denen Sie selbst in den Kindergarten gegangen sind und Lieder gesungen
+	haben. Die Erzieherin besaß ein Buch mit Kinderlieder und hatte bereits im Vorfeld die zu singenden Lieder kopiert. Jedes 
+	Kind bekam ein kopiertes Blatt und konnte somit das Lied in der Gruppe mitsingen. Was Sie möglicherweise nicht wissen ist, 
+	dass die Kindergrippen, Kindergärten und Schulen genau für das Kopieren dieser Liedtexte in Deutschland Geld an die GEMA 
+	bezahlen müssen. Es ist eine Pauschale welche die GEMA erhebt, unabhängig davon ob die betreffende Einrichtung tatsächlich 
+	Liedtexte kopiert! 
+	</para>
+	<para>
+	Nun kann man meinen bei Lieder sei es ja etwas anderes aber bei Rezepten ist das ja kein Problem. Doch in Wirtschaftskrisen
+	werden naturgemäß die Unternehmen nicht müde nach neuen Finanzierungsquellen zu suchen. Meist finden sich dann hier und dort 
+	noch ein paar Dinge bei denen sich eine Firma fragt warum sie dafür eigentlich kein Geld verlangen darf. So könnte dies auch
+	mit Koch- und Backrezepten passieren. Dann geht Ihr Kind in die Schule zum Kochunterricht und zu Hause kocht es das Rezept 
+	nach. Damit die Eltern es auch einmal kochen können schreibt das Kind es auf und uuuuppppps schon ist es passiert. Dann werden
+	vielleicht Gebühren fällig oder Ihr Kind bekommt ein Eintrag ins Führungszeugnis, denn es hat möglicherweise ein geschütztes
+	Rezept ohne Einverständnis des Urhebers weitergegeben und gleich an 2 Leute! Gut soweit ist es noch nicht aber wie gesagt in 
+	Wirtschaftskrisen werden Firmen unter dem Schutz der Regierung erfinderisch. Wenn die Großeltern den Kindern die Rezepte nicht 
+	mehr weiter geben dürfen weil diese auf Grund existierender Bücher geschütz wurden, werden wir Zeiten erleben in denen die Armen
+	nicht nur keine Bildung mehr bekommen sondern auch nichts mehr zu Essen haben!	
+	</para>
+	<para>
+	Um genau einer solchen möglichen zukünftigen Entwicklung entgegen zu wirken wurde diese Kochbuch erstellt und auch in Zukunft
+	stets fortgeschrieben werden. Wenn Sie möchten, können Sie selbst auch daran mitarbeiten. Wie das geht erfahren Sie auf den 
+	folgenden Seiten. Doch nun wünschen wir Ihnen zunächst viel Spaß beim Kochen.
+	</para>
+
+					<formalpara><title>Rechtliches</title>
+					<para>Zunächst soll kurz erläutert werden was das überhaupt sein soll ein freies Open Source Kochbuch.
+	Open Source ist schnell erklärt. Das Buch bzw. die Rezepte müssen zunächst in einer fachspezifischen Sprache (genannt rezept)
+	beschrieben werden. Die Eingabe der Texte in dieser Sprache ermöglicht ein Computerprogramm (genannt Editor). 
+	Der Programmkode (also die Vorschrift wie man den Editor nachbauen kann) für dieses Programm ist freizugänglich und kann somit 
+	von jeder Person eingesehen werden um beispielsweise Fehler zu erkennen oder Verbesserungen vorzuschlagen. 
+	Ein weiteres Computerprogramm baut dann aus den beschriebenen Rezepten ein Buch in diversen Formaten (pdf, webhelp, html, ...).
+	Auch der Programmkode dieses Programmes ist jedermann frei zugänglich. Das versteht man unter Open Source.</para>
+					</formalpara>
+					<para>Frei steht hier für das Ziel im Kochbuch nur Rezepte zu veröffentlichen die von jedermann kopiert, verändert und
+	weitergegeben werden dürfen.
+	Dieses Ziel ist relativ einfach zu erreichen, da aktuell Rezepte nicht so strengen Urheberrechten unterliegen wie beispielsweise
+	musikalische Werke. Das liegt an der geringen Schöpfungshöhe von Rezepten. Generell unterscheidet der Gesetzgeber zwischen
+	technischen und schöpferischen Leistungen. Technische Leistungen werden über Patente geschützt. Schöpferische Leistungen
+	können möglicherweise ein Werk darstellen. Werke im Sinne des Gesetzes können nur eigene geistige Schöpfungen sein. Damit etwas den
+	Status eines Werkes erhält muss dann jedoch noch eine bestimmte Schöpfungshöhe erreicht werden, diese ist bei
+	Koch- und Backrezpten allgemein nicht gegeben. Jedenfalls heute nicht und später sind die Rezepte ja durch die Veröffentlichung des
+	vorliegenden Buches geschützt (Absatz: Schutz der Freiheit des Kochbuches).</para>
+					<para>Eine Ausnahme von vorgenannten bilden besondere Rezepturen welche beispielsweise nicht allgemein bekannt sind. Dazu zählen 
+	beispielsweise die genaue Zusammensetzung von Backmischungen wie auch völlig neuartige Rezepturen. Diese werden dann allgemein
+	über Patente geschützt. Die sorgfältige Ausführung und das gewohnte Aroma oder die gewohnte Qualität von Produkten wird 
+	in der Regel über Marken geschützt.
+	</para>
+	<para>
+	Beim Erstellen des Kochbuches können also durchaus Rezepte aus dem Internet oder von Anderen benutzt werden. Hierbei ist jedoch
+	zu beachten:
+	<itemizedlist>
+	<listitem><para>Die Quelle oder Herkunft des Rezeptes ist zu benennen.</para></listitem>
+	<listitem><para>Der Text des Originalrezeptes ist zu verwerfen und alles mit eigenen Worten zu beschreiben.</para></listitem>
+	<listitem><para>Nicht verwendbar sind Rezepte bei denen der Urheber explizit das Kopieren, Verändern 
+	oder die Weitergabe untersagt.</para></listitem>
+	<listitem><para>Es darf kein Markenname benutzt werden und gegen kein Markenrecht verstoßen werden.</para></listitem>
+	<listitem><para>Bei Verweisen auf Marken beispielsweise Produktempfehlungen ist der Markenname zu kennzeichen.</para></listitem>
+	</itemizedlist>
+	</para>
+					<formalpara><title>Schutz der Freiheit des Kochbuches</title>
+					<para>Bei einem freien Kochbuch geht man eigentlich davon aus, dass jede Lizenz die Freiheit schon beschneidet. Doch auch die
+	Freiheit des Kochbuches muss geschützt werden! Ein Beispiel: Wir veröffentlichen dieses Kochbuch weltweit frei. Jeder darf
+	es kopieren, verändern und weitergeben. Letztlich gelangt es in die Hände eines Startup Unternehmens im Catering Bereich.
+	Spontan startet das Unternehmen sein Catering mit einem Angebot welches nur aus Rezepten aus diesem Kochbuch besteht.
+	Nach einer Weile stellt das Unternehmen fest, dass sich mit diesen Rezepten ein riesiger Umsatz machen lässt. Nun lässt es
+	genau diese Rezepte patentieren in Staaten in denen das möglich ist. Damit kann es sicherstellen, dass die Konkurrenz andere
+	Rezepte kochen muss oder aber Gebühren zu entrichten hat. Leider gilt das aber nicht nur für die Konkurrenz sondern auch für
+	uns die wir das Kochbuch als Erste ins Netz gestellt haben. Wir bekommen also einen Mahnbescheid (in der Regel von mehreren
+	Tausend Euro) und müssen zahlen nebst Unterlassungsklage. Das ist natürlich nicht der Sinn der Freiheit die wir unserem
+	Kochbuch geben wollen! Daher schützen wir das Kochbuch mit einer Lizenz, der GFDL (GNU Free Documentation License) ab Version 
+	1.3. Diese sichert allen Nutzern die Rechte zum Kopieren, Verändern und Verteilen und sogar zur kommerziellen Nutzung. 
+	Mit einer ganz wichtigen Einschränkung - das Buch darf nur unter der gleichen Lizenz kopiert, bearbeitet und weitergegeben 
+	werden. Damit brauchen weder wir die Autoren noch Sie die Nutzer Angst vor Abmahnungen haben. 
+	Ja, möglicherweise erscheinen einige rechtliche Vorkehrungen zu kompliziert und überflüssig aber nur mit siesen sind wir
+	auf der sicheren Seite.
+	</para>
+					</formalpara>
+					<formalpara><title>Rücksicht auf andere soziale Vereine</title>
+					<para>Ursprünglich sollte dieses Kochbuch auch Rezepte aus dem Magazin Strassenkreuzer enthalten. Es handelt sich um ein Magazin
+	welches von Arbeits- oder Obdachlosen zusammengestellt und vertrieben wird. Die 'Verkäufer' stehen bei jeder Witterung
+	und versuchen die Magazine zu verkaufen für ein wenig Geld. Sie dürfen die Magazine nicht bewerben und keine Passanten 
+	ansprechen im Gegensatz zu Firmen die uns täglich ungefragt mit Werbung nötigen. Auf den letzten Seiten im Magazin befindet
+	sich meist ein sehr gutes Rezept zum Nachkochen. Rechtlich wäre es kein Problem gewesen diese Rezepte hier ins Kochbuch in 
+	veränderter Form und mit Quellennachweis aufzunehmen. Tatsächlich existieren auch bereits Rezepte aus dem Strassenkreuzer 
+	welche in die Fachsprache <emphasis>rezept</emphasis> übertragen wurden. Diese wurden jedoch absichtlich nicht mit in die 
+	Veröffentlichung eingebunden um nicht den sozial armen Schichten in Deutschland auch noch weitere Einschnitte in ihre
+	Lebensgrundlage zu zu muten. 
+	Dies geschieht also in voller Absicht. Da die Rezepte aus dem Strassenkreuzer aber wirklich köstlich sind sei der Leser auf 
+	den Kauf des Magazins oder der Online Ausgabe unter strassenkreuzer.de verwiesen. Außerdem möchten wir auch zukünftigen 
+	Editoren ans Herz legen, keine Konkurrenz zu sozialen Vereinen aufzubauen.
+		
+	Vielen Dank Thomas Schubert (FunThomas424242) Initiator des Projektes.
+	</para>
+					</formalpara>
+					<formalpara><title> Nachruf </title>
+					<para>An dieser Stelle ein herzliches Beleid an alle Leser und Bekannten von Jochen Banzhaf. Jochen schrieb für das Sozialmagazin
+	'Strassenkreuzer' unter der Rubrik 'Kochen mit Jochen' bis zu seinem frühen Tod im Mai 2013. Seine Rezepte sind über die 
+	Onlinepräzens des Magazins verfügbar unter: <link xlink:href="http://www.strassenkreuzer.info/das-sozialmagazin/kochen-mit-jochen.html" xlink:show="new">
+	http://www.strassenkreuzer.info/das-sozialmagazin/kochen-mit-jochen.html</link>	
+	</para>
+					</formalpara>
+	</preface>
+
+
+
+
+<toc/>
+
+		<part>
+		    <title>Plätzchen</title>
+						<chapter version="5.0" xml:base="Rezept_1_1.dbk" xmlns:ns5="http://www.w3.org/2000/svg" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:ns3="http://www.w3.org/1999/xhtml">
+ 
+<title>Käseplätzchen</title>
+
+<para>
+	<variablelist>
+      <varlistentry>
+        <term>Tags:</term>
+		<listitem>
+	    	<para>
+						Plätzchen
+					,
+						Fruchtzuckerarm-Aufbauphase
+			</para>
+		</listitem>
+      </varlistentry>
+	  <varlistentry>
+	    <term>Quelle:</term>
+		<listitem><para>
+							überliefert von Katharina
+		</para></listitem>
+	  </varlistentry>
+    </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+		<listitem>
+          <para>
+			Mehl 
+						150.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Kaese gerieben 
+						250.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Butter 
+						125.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Pfeffer 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Cayennepfeffer 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Salz 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Paprika 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Oliven 
+						20.0 Stück
+		  </para>
+        </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+		<listitem>
+          <para>
+			Mit Ausnahme der Oliven alle Zutaten zu einem Teig vermengen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Kleine abgeflachte Kugeln formen und mit einer Olive bestücken.
+		  </para>
+		  <note>
+			  <para>
+				Wirklich kleine Kugeln formen, die gehen in die Breite.
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Die Plätzchen bei 180 Grad im Umluftherd etwa 15 - 20 Minuten backen.
+		  </para>
+        </listitem>
+    </orderedlist></para>
+
+  </formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+
+	    <para><itemizedlist>
+		
+			<listitem>
+	          <para>
+				2.0 x 
+					Packung  Emmentaler Reibekäse
+							200.0 g
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Packung  Sanella
+							500.0 g
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Packung  Mehl
+							500.0 g
+			  </para>
+	        </listitem>
+		
+	    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Bilder</title>
+
+	<para>
+ 	<inlinemediaobject>		
+			<alt/>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in" fileref="http://farm8.staticflickr.com/7138/7710590412_edbca996e5.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase/>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class="copyright"/>
+		<author>
+			<personname>
+				<othername>Huluvu424242</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+	</para></footnote>
+	</para>
+
+  </formalpara>
+
+</chapter>
+						
+						<chapter version="5.0" xml:base="Rezept_1_2.dbk" xmlns:ns5="http://www.w3.org/2000/svg" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:ns3="http://www.w3.org/1999/xhtml">
+ 
+<title>Komar Kekse</title>
+
+<para>
+	<variablelist>
+      <varlistentry>
+        <term>Tags:</term>
+		<listitem>
+	    	<para>
+						Plätzchen
+					,
+						Kekse
+			</para>
+		</listitem>
+      </varlistentry>
+	  <varlistentry>
+	    <term>Quelle:</term>
+		<listitem><para>
+							verändert übernommen aus: dem offiziellen Star Trek Kochbuch, ISBN: 3-89365-796-7, S. 269-270
+		</para></listitem>
+	  </varlistentry>
+    </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+		<listitem>
+          <para>
+			Mehl 
+						250.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Butter 
+						125.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			brauner Zucker 
+						125.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Eier 
+						3.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Vanillearoma 
+						0.5 Teeloeffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Salz 
+						0.25 Teeloeffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Zimt 
+						1.0 Teeloeffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			granulierter Zucker 
+						1.0 Tasse
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Marmelade 
+		  </para>
+        </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+		<listitem>
+          <para>
+			Butter im Topf auf kleinster Stufe zergehen lassen und sofort wieder runter vom Herd.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			In die Butter den braunen Zucker eingeben und mittels Schneebesen schaumig schlagen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Zu dem Gemisch wird 1 Ei, das Mehl, die Vanille, der Zimt und das Salz gegeben.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Alles schön verrühren
+		  </para>
+		  <note>
+			  <para>
+				Umso kälter es wird umso eher sieht es wie brauner Rührteig aus.
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Irgendwann sollte der Teig nicht mehr so kleben und sich eine Kugel formen lassen.
+		  </para>
+		  <note>
+			  <para>
+				Ich habe hier mit Mehl nachgeholfen damit er nicht mehr so klebte
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Ist es gelungen den Teig zu einer Kugel zu formen, dann kommt dieser
+15 Minuten in den Kühlschrank.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			In der Zeit des Kühlens kann der Herd auf 200 Grad vorgeheizt werden.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Das restliche Ei schaumig schlagen und den granulierten Zucker in eine
+Suppentasse oder einen Teller geben.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Nachdem der Teig 15 Minuten gekühlt hat (er sollte jetzt nicht mehr kleben)
+Stückchen in Keksgröße entnehmen und als Ball rollen. Zunächst im Ei und dann im Zucker
+wälzen und auf ein gefettetes Blech geben.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Auf dem Blech den Ball so eindrücken, dass eine Kuhle entsteht. In diese
+wird die Marmelade gegeben.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Kekse etwa 10 Minuten backen
+		  </para>
+		  <note>
+			  <para>
+				Nach dem Backen die Kekse erst kühlen lassen, da sie noch
+				nicht fest sind. Stabilität erlangen die Kekse erst beim Kühlen.
+			  </para>
+		  </note>
+        </listitem>
+    </orderedlist></para>
+
+		<formalpara>
+	      <title>Hinweise</title>
+		  <para>
+				<note>
+	          		<para>Aus meiner Sicht kann es nicht schaden deutlich mehr Mehl zu
+				nehmen oder weniger Butter, aber ich habe es noch nicht probiert wie
+				sich das auswirkt. Ich würde erwarten, dass die Kekse härter werden
+				und nicht mehr so süss sind.</para>
+		        </note>
+				<note>
+	          		<para>Die Glasur mit dem Ei, dem granulierten Zucker und der
+				Marmelade würde ich weglassen. Stattdessen hilft vielleicht
+				Kokosraspel	aber ob das dann schmeckt muss man testen.</para>
+		        </note>
+ 		  </para>
+	    </formalpara>
+  </formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+
+		<para>
+			Keine verfügbar.
+		</para>
+  </formalpara>
+
+
+</chapter>
+						
+						<chapter version="5.0" xml:base="Rezept_1_3.dbk" xmlns:ns5="http://www.w3.org/2000/svg" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:ns3="http://www.w3.org/1999/xhtml">
+ 
+<title>Einfache Kekse</title>
+
+<para>
+	<variablelist>
+      <varlistentry>
+        <term>Tags:</term>
+		<listitem>
+	    	<para>
+						Plätzchen
+					,
+						Kekse
+			</para>
+		</listitem>
+      </varlistentry>
+	  <varlistentry>
+	    <term>Quelle:</term>
+		<listitem><para>
+							überliefert von Thomas Schubert
+		</para></listitem>
+	  </varlistentry>
+    </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+		<listitem>
+          <para>
+			Zucker 
+						250.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Butter 
+						250.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Mehl 
+						500.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Eier 
+						2.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Vanillezucker 
+						2.0 Packung(en)
+		  </para>
+        </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+		<listitem>
+          <para>
+			Alle Zutaten vermengen und zu einem Teig verkneten.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Den Teig ausrollen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Kekse ausstechen und auf gefettetes Blech legen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			10 Minuten backen.
+		  </para>
+        </listitem>
+    </orderedlist></para>
+
+  </formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+
+		<para>
+			Keine verfügbar.
+		</para>
+  </formalpara>
+
+
+</chapter>
+						
+		</part>
+		<part>
+		    <title>Pudding</title>
+						<chapter version="5.0" xml:base="Rezept_2_1.dbk" xmlns:ns5="http://www.w3.org/2000/svg" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:ns3="http://www.w3.org/1999/xhtml">
+ 
+<title>Schoko Pudding</title>
+
+<para>
+	<variablelist>
+      <varlistentry>
+        <term>Tags:</term>
+		<listitem>
+	    	<para>
+						Pudding
+					,
+						Fruchtzuckerarm-Aufbauphase
+			</para>
+		</listitem>
+      </varlistentry>
+	  <varlistentry>
+	    <term>Quelle:</term>
+		<listitem><para>
+					nicht angegeben
+		</para></listitem>
+	  </varlistentry>
+    </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+		<listitem>
+          <para>
+			Milch 
+						800.0 ml
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Traubenzucker 
+						7.0 Esslöffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Salz 
+						1.0 Prise
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Stärke 
+						4.0 Esslöffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Kakao 
+						4.0 Esslöffel
+		  </para>
+        </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+		<listitem>
+          <para>
+			Zunächst geben wir 600 ml Milch in einen hochrandigen Topf. Wichtig ist, dass genug Platz zwischen
+der Milchoberfläche und dem Topfrand besteht da sonst die Milch zu leicht überkocht.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Dann rühren wir mittels Schneebesen in die Milch den Traubenzucker und den Kakao ein.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Abschliessend geben wir noch ein Prise Salz zum Topfinhalt hinzu.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Jetzt können wir beginnen den Topfinhalt unter häufigen Rühren zum kochen zu bringen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Zeitgleich messen wir die verbleibenden 200 ml Milch in einem Becher ab und lösen die Stärke darin.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Topf- und Becherinhalt werden nun durch Rühren möglichst konstant in Bewegung gehalten, bis der
+ Topfinhalt aufkocht.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Jetzt den Topfinhalt etwas (ca. 1 Minute) aufkochen lassen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Nun rühren wir mittels Schneebesen den Becherinhalt unter. Hierbei verdickt sich die Masse zu einer 
+ Puddingartigen Substanz.
+		  </para>
+		  <note>
+			  <para>
+				Sollte der Pudding zu flüssig werden einfach am kochen halten und etwas Stärke in einem separaten
+Becher mit kalter Milch anrühren. Dieser kann dann noch untergerührt werden.Bitte niemals Stärke in die
+kochende Masse geben - diese bildet sofort unlösbare Klumpen!
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Ist alles untergerührt und gut durchmischt wird der Topf vom Herd genommen. Jetzt kann der Pudding
+ serviert werden oder in separate Gefäße zum erkalten umgelfüllt werden.
+		  </para>
+        </listitem>
+    </orderedlist></para>
+
+  </formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+
+	    <para><itemizedlist>
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Packung  Milch
+							1.0 L
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Packung  Stärke
+							250.0 g
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Packung  Traubenzucker
+							1.0 g
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Packung  Salz
+							500.0 g
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Packung  Kakao
+							1.0 g
+			  </para>
+	        </listitem>
+		
+	    </itemizedlist></para>
+  </formalpara>
+
+
+</chapter>
+						
+		</part>
+		<part>
+		    <title>Glasuren</title>
+						<chapter version="5.0" xml:base="Rezept_3_1.dbk" xmlns:ns5="http://www.w3.org/2000/svg" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:ns3="http://www.w3.org/1999/xhtml">
+ 
+<title>Schokoglasur</title>
+
+<para>
+	<variablelist>
+      <varlistentry>
+        <term>Tags:</term>
+		<listitem>
+	    	<para>
+						Glasur
+			</para>
+		</listitem>
+      </varlistentry>
+	  <varlistentry>
+	    <term>Quelle:</term>
+		<listitem><para>
+							verändert übernommen aus: Packung für Gloria Schoko Kuchen
+		</para></listitem>
+	  </varlistentry>
+    </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+		<listitem>
+          <para>
+			Puderzucker 
+						150.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Kakao 
+						2.0 Esslöffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Wasser 
+						3.0 Esslöffel
+		  </para>
+        </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+		<listitem>
+          <para>
+			Puderzucker und Kakao mischen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Mischung mit heißen Wasser glatt rühren.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Mit einem Messer die Glasur auf dem Kuchen verteilen.
+		  </para>
+        </listitem>
+    </orderedlist></para>
+
+  </formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+
+		<para>
+			Keine verfügbar.
+		</para>
+  </formalpara>
+
+
+</chapter>
+						
+		</part>
+		<part>
+		    <title>Kuchen</title>
+						<chapter version="5.0" xml:base="Rezept_4_1.dbk" xmlns:ns5="http://www.w3.org/2000/svg" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:ns3="http://www.w3.org/1999/xhtml">
+ 
+<title>Apfelkuchen</title>
+
+<para>
+	<variablelist>
+      <varlistentry>
+        <term>Tags:</term>
+		<listitem>
+	    	<para>
+						Blech
+					,
+						Apfel
+					,
+						Hefe
+					,
+						Streusel
+			</para>
+		</listitem>
+      </varlistentry>
+	  <varlistentry>
+	    <term>Quelle:</term>
+		<listitem><para>
+							verändert übernommen aus: http://www.kochbar.de/rezept/478099/Apfelkuchen-mit-Streusel-vom-Blech.html
+		</para></listitem>
+	  </varlistentry>
+    </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+		<listitem>
+          <para>
+			Mehl 
+						375.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Hefe 
+						1.0 Päckchen
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Zucker 
+						50.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Vanillezucker 
+						1.0 Päckchen
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Salz 
+						1.0 Prise
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Milch 
+						200.0 ml
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Butter 
+						75.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Äpfel 
+						2.0 kg
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Rum Rosinen 
+						1.0 Päckchen
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Mehl 
+						300.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Zucker 
+						150.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Zimt 
+						1.5 Teeloeffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Butter 
+						200.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Salz 
+						1.0 Prise
+		  </para>
+        </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+		<listitem>
+          <para>
+			Äpfel schälen und in schmale Spalten schneiden.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Mehl, Hefe, Zucker, Vanillezucker, Salz und Butter gut vermengen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Milch dazugeben und zu einem glatten Hefeteig verkneten.
+		  </para>
+		  <note>
+			  <para>
+				Wenn der Teig an den Händen klebt weiteres Mehl dazu geben.
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Teig ausrollen und aufs Blech legen. Anschliessend mit einer Gabel kleine Löcher in den Teig stechen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Nun die Apfelspalten in den Teig drücken und die Rosinen darüber streuen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Jetzt bleiben 15 Minuten bevor der Teig in den Ofen darf, in der Zeit werden die Streusel hergestellt.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Für die Streusel den 2. Teil aus Mehl, Zucker, Zimt, Butter und Salz gut verkneten. Daraus ergibt sich eine streuselige Masse.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Streusel über den Kuchen schütten und gut verteilen.
+		  </para>
+		  <note>
+			  <para>
+				Die Streusel schützen die Apfelstücken auch vor dem Verbrennen.
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Das Blech im vorgeheizten Backofen auf 180 Grad ca. 20 Minuten backen.
+		  </para>
+		  <note>
+			  <para>
+				Fertig ist der Kuchen wenn man eine Metallnadel in den Teig stecken kann und nach dem raussziehen der Nadel kein Teig an ihr haftet.
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Auskühlen lassen und servieren.
+		  </para>
+        </listitem>
+    </orderedlist></para>
+
+  </formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+
+	    <para><itemizedlist>
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Päckchen  Hefeteig Garant
+							1.0 Päckchen
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Päckchen  Rum Rosinen
+							1.0 Päckchen
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Packung  Milch
+							1.0 L
+			  </para>
+	        </listitem>
+		
+	    </itemizedlist></para>
+  </formalpara>
+
+
+</chapter>
+						
+						<chapter version="5.0" xml:base="Rezept_4_2.dbk" xmlns:ns5="http://www.w3.org/2000/svg" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:ns3="http://www.w3.org/1999/xhtml">
+ 
+<title>Brownie Backmischung</title>
+
+<para>
+	<variablelist>
+      <varlistentry>
+        <term>Tags:</term>
+		<listitem>
+	    	<para>
+						Brownies
+			</para>
+		</listitem>
+      </varlistentry>
+	  <varlistentry>
+	    <term>Quelle:</term>
+		<listitem><para>
+							überliefert von Kochunterricht in der Schule.
+		</para></listitem>
+	  </varlistentry>
+    </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+		<listitem>
+          <para>
+			Zucker 
+						125.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Mehl 
+						100.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			gehackte Nüsse 
+						75.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			leicht gehackte Schokolade 
+						50.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Kakaopulver 
+						2.0 Esslöffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Backpulver 
+						1.0 Teeloeffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Salz 
+						0.5 Teeloeffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Oliven 
+						20.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Butter 
+						90.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Eier 
+						2.0 Stück
+		  </para>
+        </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+		<listitem>
+          <para>
+			Alles schichtenweise in ein Glas geben, beschriften, fest verschließen und dunkel und trocken lagern.
+		  </para>
+		  <note>
+			  <para>
+				Idealerweise verschraubare Gläser verwenden, dann könnte die Haltbarkeit etwa bei 1-2 Monaten liegen.
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Das Glas mit der Brownie Backmischung aus dem Lager holen und öffnen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Brownie Backmischung in eine große Schüssel geben.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Butter und Eier hinzugeben.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Verrühren bis ein glatter Teig entsteht.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Den Teig auf einem gefetteten Backblech ca. 2 cm dick ausbringen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Bei 175°C etwa 30 Minuten backen.
+		  </para>
+		  <note>
+			  <para>
+				Im Umluftherd möglicherweise schneller fertig.
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Abkühlen lassen und viereckige Stücken schneiden.
+		  </para>
+        </listitem>
+    </orderedlist></para>
+
+		<formalpara>
+	      <title>Hinweise</title>
+		  <para>
+				<note>
+	          		<para>Auf folgender Seite lassen sich auch Beschriftungen für die Gläser anfertigen - der Text muss halt angepasst werden
+http://www.casa-di-falcone.de/products/Aufkleber/Aufkleber-Homemade/Aufkleber-fuer-Backmischungen-Dots.html</para>
+		        </note>
+ 		  </para>
+	    </formalpara>
+  </formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+
+		<para>
+			Keine verfügbar.
+		</para>
+  </formalpara>
+
+
+</chapter>
+						
+		</part>
+		<part>
+		    <title>Asiatisch</title>
+						<chapter version="5.0" xml:base="Rezept_5_1.dbk" xmlns:ns5="http://www.w3.org/2000/svg" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:ns3="http://www.w3.org/1999/xhtml">
+ 
+<title>Bahmi Goreng</title>
+
+<para>
+	<variablelist>
+      <varlistentry>
+        <term>Tags:</term>
+		<listitem>
+	    	<para>
+						Asiatisch
+			</para>
+		</listitem>
+      </varlistentry>
+	  <varlistentry>
+	    <term>Quelle:</term>
+		<listitem><para>
+					nicht angegeben
+		</para></listitem>
+	  </varlistentry>
+    </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+		<listitem>
+          <para>
+			Wan Kwai Mie-Nudeln 
+						400.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Hühner oder Schweinefleisch 
+						400.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			gekochten Schinken 
+						100.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Porree 
+						1.0 Stange
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Zwiebeln 
+						2.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Rote Paprikatschote 
+						1.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Sellerie 
+						75.0 g
+		  </para>
+        </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+		<listitem>
+          <para>
+			Mie Nudeln nach Packungsanweisung kochen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			In der Zwischenzeit das Fleisch und den Schinken in Würfel sowie
+Porree und Zwiebeln in Ringe, Paprika und Sellerie in Streifen schneiden.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Erbsen und Mungbohnenkeime abtropfen lassen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Öl in einer Pfanne oder im Wok erhitzen, das Fleisch kurz darin 
+anbraten, nach und nach Schinken, Zwiebeln, Porree, Sellerie und Paprika
+zugeben und mitbraten.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Zum Schluß die Erbsen und Mungbohnenkeime unterrühren. Das Gemüse
+soll knackig bleiben.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Mit Knoflookpoeder (Knoblauchpuder), Djahé (gemahlenen Ingwer), Ketjap (süsse Sojasose) und 
+ Sambal (Chili Paste) würzen, die fertig gekochten Nudeln untermischen und alles noch 5 Minuten braten.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Als Beilage gebratene Eier, gebackener Kroepoek (Krabbenchips) und Atjar Tjampoer (Gemüsesalat).
+		  </para>
+        </listitem>
+    </orderedlist></para>
+
+  </formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+
+		<para>
+			Keine verfügbar.
+		</para>
+  </formalpara>
+
+
+</chapter>
+						
+		</part>
+		<part>
+		    <title>Aufläufe</title>
+						<chapter version="5.0" xml:base="Rezept_6_1.dbk" xmlns:ns5="http://www.w3.org/2000/svg" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:ns3="http://www.w3.org/1999/xhtml">
+ 
+<title>Schnitzelauflauf</title>
+
+<para>
+	<variablelist>
+      <varlistentry>
+        <term>Tags:</term>
+		<listitem>
+	    	<para>
+						Fruchtzuckerarm-Aufbauphase
+					,
+						Fleisch
+					,
+						Schwein
+			</para>
+		</listitem>
+      </varlistentry>
+	  <varlistentry>
+	    <term>Quelle:</term>
+		<listitem><para>
+							verändert übernommen aus: Studenten WG 'Zur alten Hippe', Reichenbachstr. Dresden.
+		</para></listitem>
+	  </varlistentry>
+    </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+		<listitem>
+          <para>
+			Schweineschnitzel 
+						6.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Speck 
+						300.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Gemüsezwiebel 
+						2.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Kartoffel 
+						10.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Schnittkäse 
+						200.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Schlagsahne 
+						1.0 Becher
+		  </para>
+        </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+		<listitem>
+          <para>
+			Den Boden der Auflaufform vollständig mit Schnitzelfleisch belegen (nur eine Lage - nicht stapeln!).
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Den Speck in dünne Streifen schneiden und als neue Schicht über den Fleischscheiben verteilen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Zwiebel in Ringe schneiden und diese über der Speckschicht verteilen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Kartoffeln schälen und waschen. Anschließend in Scheiben scheiden und damit die obere Schicht des Auflaufes bilden.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Jetzt noch die Schlagsahne über den Auflauf ausgießen und verteilen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Zum Abschluss den gesamten Auflauf mit den Käsescheiben belegen.
+		  </para>
+		  <note>
+			  <para>
+				Da der Käse sehr braun wird, ist es möglicherweise besser diesen erst nach 20 Minuten hinzuzugeben.
+ Wie sich die dabei erzeugte Unterbrechung des Backvorganges auswirkt ist nicht bekannt.
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Den Auflauf im Umluftherd 45 Minuten bei 200 °C backen.
+		  </para>
+        </listitem>
+    </orderedlist></para>
+
+  </formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+
+	    <para><itemizedlist>
+		
+			<listitem>
+	          <para>
+				2.0 x 
+					Packung  5 Minutensteaks vom Schwein
+							400.0 g
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Packung  Bauchspeck vom Schwein
+							300.0 g
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Packung  Emmentaler in Scheiben
+							200.0 g
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Packung  Kartoffeln festkochend
+							2.5 kg
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Netz  Zwiebeln
+							1.0 kg
+			  </para>
+	        </listitem>
+		
+	    </itemizedlist></para>
+  </formalpara>
+
+
+</chapter>
+						
+		</part>
+		<part>
+		    <title>Pizza</title>
+						<chapter version="5.0" xml:base="Rezept_7_1.dbk" xmlns:ns5="http://www.w3.org/2000/svg" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:ns3="http://www.w3.org/1999/xhtml">
+ 
+<title>Pizza Teig einfach und italienisch</title>
+
+<para>
+	<variablelist>
+      <varlistentry>
+        <term>Tags:</term>
+		<listitem>
+	    	<para>
+						Fruchtzuckerarm-Aufbauphase
+					,
+						Pizza
+			</para>
+		</listitem>
+      </varlistentry>
+	  <varlistentry>
+	    <term>Quelle:</term>
+		<listitem><para>
+					nicht angegeben
+		</para></listitem>
+	  </varlistentry>
+    </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+		<listitem>
+          <para>
+			Mehl 
+						500.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Hefe 
+						20.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			lauwarmes Wasser 
+						200.0 ml
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Olivenöl 
+						2.0 Esslöffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Salz 
+						1.0 Teeloeffel
+		  </para>
+        </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+		<listitem>
+          <para>
+			Mehl in Rührschüssel schütten.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Im Mehl eine Kuhle schaffen und das Salz hineingeben. Anschließend die Hefe in die Kuhle brökeln.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Kuhle vorsichtig mit dem Wasser füllen. Dabei das trockene Mehl so anhäufeln, dass das Wasser in der 
+Kuhle verbleibt.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Kuhle mit dem verbleibenden Mehl abdecken und verschliessen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Rührschüssel mit einem Geschirrtuch abdecken und an einem warmen Ort 15 Minuten gehen lassen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Jetzt sollten sich auf dem Mehl Risse gebildet haben. So können wir das Olivenöl hinzugeben und einkneten.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Nun wird alles 10 Minuten lang durchgeknetet so dass ein elastischer Teig entsteht.
+		  </para>
+		  <note>
+			  <para>
+				Wenn der Teig beim ersten Kneten zu fest erscheint noch einen Esslöfel Olivenöl hinzugeben. 
+Sollte der Teig zu flüssig erscheinen, dann etwas Mehl hinzugeben und weiter kneten.
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Der elastische Teig wird erneut abgedeckt und an einem warmen Ort 30 Minuten gehen gelassen, bis sich das Volumen etwa verdoppel hat.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Den Teig auf gemehlter Unterlage (z.B. Tisch) ausrollen und auf ein Backblech ausbringen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			In den Teig mit einer Gabel gleichmäßig Löcher einbringen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die ganze Teigfläche mit Ketchup bestreichen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Gewünschten Pizzabelag aufbringen (z.B. Oliven, Salami, Kochschinken, Perperonie, Paprikastücken, geschnittene Champinions, Artischoken).
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Belag mit Oregano würzen und mit einer Schicht Reibekäse bedecken.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Bei 200°C im Herd backen bis der Käse vollständig zerlaufen ist (etwa 20 - 30 Minuten).
+		  </para>
+        </listitem>
+    </orderedlist></para>
+
+  </formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+
+		<para>
+			Keine verfügbar.
+		</para>
+  </formalpara>
+
+  <formalpara>
+    <title>Bilder</title>
+
+	<para>
+ 	<inlinemediaobject>		
+			<alt>Die Zutaten für den Belag</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in" fileref="http://farm9.staticflickr.com/8311/8005391466_a6600886b2.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Die Zutaten für den Belag</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class="copyright"/>
+		<author>
+			<personname>
+				<othername>Huluvu424242</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+	</para></footnote>
+ 	<inlinemediaobject>		
+			<alt>Der Teig</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in" fileref="http://farm9.staticflickr.com/8034/8005391084_42db2f23a6.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Der Teig</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class="copyright"/>
+		<author>
+			<personname>
+				<othername>Huluvu424242</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+	</para></footnote>
+ 	<inlinemediaobject>		
+			<alt>Ausrollen des Teiges</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in" fileref="http://farm9.staticflickr.com/8314/8005390800_639a12e53b.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Ausrollen des Teiges</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class="copyright"/>
+		<author>
+			<personname>
+				<othername>Huluvu424242</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+	</para></footnote>
+ 	<inlinemediaobject>		
+			<alt>Teig anstechen</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in" fileref="http://farm9.staticflickr.com/8038/8005390456_d2b69d23a6.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Teig anstechen</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class="copyright"/>
+		<author>
+			<personname>
+				<othername>Huluvu424242</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+	</para></footnote>
+ 	<inlinemediaobject>		
+			<alt>Belegen des Teiges</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in" fileref="http://farm9.staticflickr.com/8295/8005390094_42fa377104.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Belegen des Teiges</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class="copyright"/>
+		<author>
+			<personname>
+				<othername>Huluvu424242</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+	</para></footnote>
+ 	<inlinemediaobject>		
+			<alt>Belegte Pizza</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in" fileref="http://farm9.staticflickr.com/8309/8005386713_9d0823548d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Belegte Pizza</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class="copyright"/>
+		<author>
+			<personname>
+				<othername>Huluvu424242</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+	</para></footnote>
+ 	<inlinemediaobject>		
+			<alt>Servierfertig</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in" fileref="http://farm9.staticflickr.com/8035/8005386393_425ac77ebd.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Servierfertig</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class="copyright"/>
+		<author>
+			<personname>
+				<othername>Huluvu424242</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+	</para></footnote>
+	</para>
+
+  </formalpara>
+
+</chapter>
+						
+		</part>
+		<part>
+		    <title>Topf und Pfanne</title>
+						<chapter version="5.0" xml:base="Rezept_8_1.dbk" xmlns:ns5="http://www.w3.org/2000/svg" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:ns3="http://www.w3.org/1999/xhtml">
+ 
+<title>Bauern Frühstück</title>
+
+<para>
+	<variablelist>
+      <varlistentry>
+        <term>Tags:</term>
+		<listitem>
+	    	<para>
+						Schwein
+					,
+						Fleisch
+					,
+						Milch
+			</para>
+		</listitem>
+      </varlistentry>
+	  <varlistentry>
+	    <term>Quelle:</term>
+		<listitem><para>
+							verändert übernommen aus: http://www.kochbar.de/rezept/anzeigen/druck/id/86049/personen/3
+		</para></listitem>
+	  </varlistentry>
+    </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+		<listitem>
+          <para>
+			Kartoffeln 
+						750.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Durchwachsener Speck 
+						80.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Eier 
+						3.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Milch 
+						3.0 Esslöffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Schinkenwürfel 
+						125.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Tomaten 
+						2.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Schnittlauch 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Pfeffer 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Salz 
+		  </para>
+        </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+		<listitem>
+          <para>
+			Kartoffeln kochen und kalt werden lassen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Kartoffeln in Scheiben schneiden und Speck klein würfeln.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Speck in der Pfanne anbraten, Kartoffeln dazugeben, salzen und
+hellbraun rösten.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Eier, Milch und Salz verquirlen und mit den Schinkenwürfeln vermischen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Tomaten abziehen, klein schneiden und in die Eiermilch geben.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die gesamte Milch-Mischung über die Kartoffeln geben und braten
+bis es fest wird.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Abschließend mit Schnittlauch verfeinern und servieren.
+		  </para>
+        </listitem>
+    </orderedlist></para>
+
+  </formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+
+		<para>
+			Keine verfügbar.
+		</para>
+  </formalpara>
+
+
+</chapter>
+						
+						<chapter version="5.0" xml:base="Rezept_8_2.dbk" xmlns:ns5="http://www.w3.org/2000/svg" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:ns3="http://www.w3.org/1999/xhtml">
+ 
+<title>Kartoffelbrei mit Bulette</title>
+
+<para>
+	<variablelist>
+      <varlistentry>
+        <term>Tags:</term>
+		<listitem>
+	    	<para>
+						Fleisch
+					,
+						Milch
+			</para>
+		</listitem>
+      </varlistentry>
+	  <varlistentry>
+	    <term>Quelle:</term>
+		<listitem><para>
+							überliefert von Thomas Schubert
+		</para></listitem>
+	  </varlistentry>
+    </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+		<listitem>
+          <para>
+			Milch 
+						0.5 L
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Butter (Rama) 
+						1.0 Esslöffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Kartoffelpüree 
+						2.0 Tüte(n)
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Wasser 
+						1.0 L
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Buletten 
+						4.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Zigeunersosse 
+						500.0 ml
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Salz 
+						1.0 Prise
+		  </para>
+        </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+		<listitem>
+          <para>
+			Die fertige Zigeunersosse in einen kleinen Topf geben.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Buletten zur Sosse geben und den Topf auf Stufe 1 (E-Herd) ca. 
+30 Minuten erwärmen, so dass die Buletten auch innen warm sind.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Das Wasser mit einer Prise Salz in einen Topf geben und zum Kochen 
+bringen (E-Herd Stufe III).
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Wenn das Wasser kocht, vom Herd nehmen. Dann Milch, Butter und die 
+das Kartoffelpüree einrühren. Kurz durchrühren bis alles glatt ist.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Servieren.
+		  </para>
+        </listitem>
+    </orderedlist></para>
+
+  </formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+
+		<para>
+			Keine verfügbar.
+		</para>
+  </formalpara>
+
+
+</chapter>
+						
+		</part>
+		<part>
+		    <title>Nudeln</title>
+						<chapter version="5.0" xml:base="Rezept_9_1.dbk" xmlns:ns5="http://www.w3.org/2000/svg" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:ns3="http://www.w3.org/1999/xhtml">
+ 
+<title>Nudeln mit Tomatensosse</title>
+
+<para>
+	<variablelist>
+      <varlistentry>
+        <term>Tags:</term>
+		<listitem>
+	    	<para>
+						Nudeln
+			</para>
+		</listitem>
+      </varlistentry>
+	  <varlistentry>
+	    <term>Quelle:</term>
+		<listitem><para>
+							überliefert von Thomas Schubert
+		</para></listitem>
+	  </varlistentry>
+    </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+		<listitem>
+          <para>
+			Fleischwurst 
+						325.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Spaghetti 
+						500.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Gemüsezwiebel 
+						1.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Tomatenmark 
+						6.0 Esslöffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Geriebener Käse 
+						1.0 Tüte(n)
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Sonnenblumenöl 
+						3.0 Esslöffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Spaghetti Gewürz 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Salz 
+						1.0 Prise
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Wasser 
+						600.0 ml
+		  </para>
+        </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+		<listitem>
+          <para>
+			Eine Pfanne mit ein wenig Öl erhitzen (E-Herd Stufe III).
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			In der Zwischenzeit die Fleischwurst in kleine Stifte oder Würfel schneiden.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Zwiebel in Würfeln schneiden.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Fleischwurst in die Pfanne geben und braten bis sie eine gold braune
+Färbung annimmt.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Wenn die Wurst gold braun gebraten ist wird die gewürfelte Zwiebel zugegeben.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Nun solange braten bis auch die Zwiebel gold braun ist.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Jetzt geben wir 200 ml Wasser zum ablöschen hinzu.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Anschließend geben wir das Tomatenmark und 400 ml Wasser hinzu, verrühren alles gut und lassen es kurz aufkochen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Ab jetzt die Sosse auf Stufe 1 warmhalten.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Nudeln zubereiten indem wir einen Topf 3/4 mit Wasser füllen, 
+eine Prise Salz zugeben und die Nudeln hineinlegen (E-Herd Stufe 3).
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Nach dem Aufkochen werden die Nudeln weiter auf Stufe 2 gekocht bis sie gar sind.
+		  </para>
+		  <note>
+			  <para>
+				Nudeln sind gar wenn sie gegen eine glatte senkrechte Fläche gewurfen nicht abfallen.
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Nudeln abschrecken. Dazu wird der Topf vom Herd genommen und das Wasser abgegossen
+(dekantieren indem man den Deckel etwas verschiebt). Anschließend Topf und Nudel mit
+kaltem Wasser auffüllen und wieder abgiessen.
+		  </para>
+		  <note>
+			  <para>
+				Einfach nur in den Topf schauen reicht nicht - egal wie man aussieht :)
+			  </para>
+		  </note>
+        </listitem>
+    </orderedlist></para>
+
+		<formalpara>
+	      <title>Hinweise</title>
+		  <para>
+				<note>
+	          		<para>Durch Zugabe von Instant Suppenpulver (Gemüsebrühe) erhalten die
+				Nudeln beim Kochen einen würzigeren Geschmack und kleben 
+				nach dem Abschrecken nicht so.</para>
+		        </note>
+				<note>
+	          		<para>Sollten die Nudel zu stark kleben, kann man nach dem Abschrecken
+				etwas Butter hinzugeben. Dadurch wird das weitere Kleben 
+				verhindert.</para>
+		        </note>
+ 		  </para>
+	    </formalpara>
+  </formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+
+		<para>
+			Keine verfügbar.
+		</para>
+  </formalpara>
+
+
+</chapter>
+						
+		</part>
+		<part>
+		    <title>DDR Gerichte</title>
+						<chapter version="5.0" xml:base="Rezept_10_1.dbk" xmlns:ns5="http://www.w3.org/2000/svg" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:ns3="http://www.w3.org/1999/xhtml">
+ 
+<title>Jägerschnitzel</title>
+
+<para>
+	<variablelist>
+      <varlistentry>
+        <term>Tags:</term>
+		<listitem>
+	    	<para>
+						Nudeln
+					,
+						Jagdwurst
+					,
+						Tomate
+			</para>
+		</listitem>
+      </varlistentry>
+	  <varlistentry>
+	    <term>Quelle:</term>
+		<listitem><para>
+							verändert übernommen aus: http://www.kochbar.de/rezept/369345/altes-DDR-Rezept-Jaegerschnitzel.html
+		</para></listitem>
+	  </varlistentry>
+    </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+		<listitem>
+          <para>
+			Spirelli (Fussili) 
+						1.0 Tüte(n)
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Jagdwurst 
+						2.0 Scheiben
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Eier 
+						2.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Paniermehl 
+						1.0 Tüte(n)
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Tomaten passiert 
+						1.0 Dose
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Tomatenmark 
+						5.0 Esslöffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Zwiebeln 
+						3.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Braten Fond 
+						200.0 ml
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Sanella 
+		  </para>
+        </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+		<listitem>
+          <para>
+			Die Zwiebeln in feine Stücke hacken.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Nudeln im Salzwasser zum Kochen aufsetzen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Für die Sosse die Zwiebeln in einen Topf geben und mit Sanella goldgelb braten.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Zwiebeln mit den passierten Tomaten ablöschen, den Bratenfond unterrühren,
+ das Tomatenmark zugeben und aufkochen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Fleischwurst in die Pfanne geben und braten bis sie eine gold braune
+Färbung annimmt.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Sosse mit Basilikum würzen und auf niedrigster Stufe köcheln lassen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Jadwurstscheiben panieren und beidseitig braten und servieren 
+(Sie sollten zeitgleich mit den Nudeln fertig werden).
+		  </para>
+        </listitem>
+    </orderedlist></para>
+
+  </formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+
+	    <para><itemizedlist>
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Glas  Braten Fond
+							400.0 ml
+			  </para>
+	        </listitem>
+		
+	    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Bilder</title>
+
+	<para>
+ 	<inlinemediaobject>		
+			<alt>Vorbereitung</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242 (Thomas Schubert)</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in" fileref="https://farm6.staticflickr.com/5513/10244038744_47054da933_b_d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Vorbereitung</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class="copyright"/>
+		<author>
+			<personname>
+				<othername>Huluvu424242 (Thomas Schubert)</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
+	</para></footnote>
+ 	<inlinemediaobject>		
+			<alt>Panieren</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242 (Thomas Schubert)</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in" fileref="https://farm8.staticflickr.com/7438/10244134525_a2e714e832_b_d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Panieren</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class="copyright"/>
+		<author>
+			<personname>
+				<othername>Huluvu424242 (Thomas Schubert)</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
+	</para></footnote>
+ 	<inlinemediaobject>		
+			<alt>Gerade angesetzt</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242 (Thomas Schubert)</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in" fileref="https://farm4.staticflickr.com/3803/10244237373_2b3ac9d171_b_d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Gerade angesetzt</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class="copyright"/>
+		<author>
+			<personname>
+				<othername>Huluvu424242 (Thomas Schubert)</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
+	</para></footnote>
+ 	<inlinemediaobject>		
+			<alt>Fast fertig</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242 (Thomas Schubert)</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in" fileref="https://farm9.staticflickr.com/8120/10244048554_91d6230590_b_d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Fast fertig</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class="copyright"/>
+		<author>
+			<personname>
+				<othername>Huluvu424242 (Thomas Schubert)</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
+	</para></footnote>
+ 	<inlinemediaobject>		
+			<alt>Servieren</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242 (Thomas Schubert)</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in" fileref="https://farm6.staticflickr.com/5495/10244139385_9066ebb4e8_b_d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Servieren</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class="copyright"/>
+		<author>
+			<personname>
+				<othername>Huluvu424242 (Thomas Schubert)</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
+	</para></footnote>
+	</para>
+
+  </formalpara>
+
+</chapter>
+						
+		</part>
+		<part>
+		    <title>Bernburger Rezepte</title>
+						<chapter version="5.0" xml:base="Rezept_11_1.dbk" xmlns:ns5="http://www.w3.org/2000/svg" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:ns3="http://www.w3.org/1999/xhtml">
+ 
+<title>Kohlrabitopf mit Rippchen</title>
+
+<para>
+	<variablelist>
+      <varlistentry>
+        <term>Tags:</term>
+		<listitem>
+	    	<para>
+						Schwein
+					,
+						Fleisch
+					,
+						Suppe
+			</para>
+		</listitem>
+      </varlistentry>
+	  <varlistentry>
+	    <term>Quelle:</term>
+		<listitem><para>
+							verändert übernommen aus: Alte Bernburger und Anhaltiner Küche
+		</para></listitem>
+	  </varlistentry>
+    </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+		<listitem>
+          <para>
+			Schweinerippchen 
+						500.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Kohrabi 
+						6.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Kartoffeln 
+						500.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Zwiebel 
+						1.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Margarine 
+						1.0 Esslöffel
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Wasser 
+						0.5 L
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Kümmel 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Pfeffer 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Salz 
+		  </para>
+        </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+		<listitem>
+          <para>
+			Das Fett in einem großen, hohen Topf erhitzen und die Zwiebel wie auch die Rippchen dazugeben.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Beides im Fett bräunen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Mit 0,5 Liter Wasser löschen und das Fleisch fast gar schmoren lassen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			In der Zwischenzeit die Kartoffeln und Kohlrabi in Stifte schneiden.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die zarten Blätter der Kohlrabi werden klein gehackt und dazu gegeben. Die anderen Blätter werden
+nicht verwendet.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Wenn das Fleisch fast gar ist werden die Kartoffel- und Kohlrabi Stifte hinzugegeben.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Abschließend alles fertig garen und heiß servieren.
+		  </para>
+        </listitem>
+    </orderedlist></para>
+
+		<formalpara>
+	      <title>Hinweise</title>
+		  <para>
+				<note>
+	          		<para>Anhaltinische Gerichte werden traditionell mit viel Kümmel gewürzt.</para>
+		        </note>
+ 		  </para>
+	    </formalpara>
+  </formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+
+		<para>
+			Keine verfügbar.
+		</para>
+  </formalpara>
+
+
+</chapter>
+						
+						<chapter version="5.0" xml:base="Rezept_11_2.dbk" xmlns:ns5="http://www.w3.org/2000/svg" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:ns3="http://www.w3.org/1999/xhtml">
+ 
+<title>Bernburger Zwiwwlklump</title>
+
+<para>
+	<variablelist>
+      <varlistentry>
+        <term>Tags:</term>
+		<listitem>
+	    	<para>
+						Schwein
+					,
+						Hammel
+					,
+						Fleisch
+					,
+						Suppe
+			</para>
+		</listitem>
+      </varlistentry>
+	  <varlistentry>
+	    <term>Quelle:</term>
+		<listitem><para>
+							verändert übernommen aus: Internetforum gepostet von<link xlink:href="http://www.chefkoch.de/forum/2,1,192997/Bernburger-Zwiebelklump.html" xlink:show="new">Mairose13</link>
+		</para></listitem>
+	  </varlistentry>
+    </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+		<listitem>
+          <para>
+			Hammelfleisch 
+						1.0 kg
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Zwiebeln 
+						1.0 kg
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Knoblauch 
+						1.0 Knolle
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Klossteig für Rohe Kösse 
+						1.0 kg
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Wasser 
+						4.0 L
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Kümmel 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Pfeffer 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Salz 
+		  </para>
+        </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+		<listitem>
+          <para>
+			Das Fleisch waschen und mit dem Wasser in einem großen, hohen Topf zum kochen ansetzen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Zwiebeln schälen, längs in Streifen schneiden und zum Topf hinzugeben.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Zehen der Knoblauch Knolle mit der Presse direkt in den Topf pressen auch die verbleibenden Pressrückstände hinzufügen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Viel Kümmel und einigen Pfeffer sowie etwas Salz nach Geschmack in den Topf geben.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Nach dem Aufkochen auf mittlere Stufe zugedeckt etwa 1 Stunde kochen lassen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			In der Zwischenzeit die rohen Klösse herstellen und formen.
+		  </para>
+		  <note>
+			  <para>
+				Kleine Kösse formen
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Nach der Garzeit den Topf von der Platte ziehen und das Fleisch herausnehmen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Klösse in den Topf geben und ca. 30 Minuten im offenen Topf ziehen lassen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Das Fleisch in mundgerechte Stücken schneiden.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Nach dem die Klösse durchgezogen sind, das geschnittene Fleisch wieder in den Topf geben.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Topfinhalt nochmals kurz aufkochen und sehr heiß servieren.
+		  </para>
+        </listitem>
+    </orderedlist></para>
+
+		<formalpara>
+	      <title>Hinweise</title>
+		  <para>
+				<note>
+	          		<para>Anhaltinische Gerichte werden traditionell mit viel Kümmel gewürzt.</para>
+		        </note>
+				<note>
+	          		<para>Für Personen die kein Lammfleisch mögen, Schwein eignet sich genauso gut.</para>
+		        </note>
+				<note>
+	          		<para>Dem Kloßteig ruhig etwas Pfeffer und Kümmel zusetzen damit sie etwas gräulich wirken.</para>
+		        </note>
+				<note>
+	          		<para>Der Kümmel reduziert mögliche, von der Zwiebel hervorgerufene Blähungen.</para>
+		        </note>
+ 		  </para>
+	    </formalpara>
+  </formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+
+		<para>
+			Keine verfügbar.
+		</para>
+  </formalpara>
+
+  <formalpara>
+    <title>Bilder</title>
+
+	<para>
+ 	<inlinemediaobject>		
+			<alt>Zwiebelklump im Topf beim erneuten Aufkochen</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in" fileref="zwiwwlklump/01_zwiwwlklump.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Zwiebelklump im Topf beim erneuten Aufkochen</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class="copyright"/>
+		<author>
+			<personname>
+				<othername>Huluvu424242</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+	</para></footnote>
+ 	<inlinemediaobject>		
+			<alt>Fertig zum Servieren</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in" fileref="zwiwwlklump/02_fertigserviert.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Fertig zum Servieren</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class="copyright"/>
+		<author>
+			<personname>
+				<othername>Huluvu424242</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+	</para></footnote>
+	</para>
+
+  </formalpara>
+
+</chapter>
+						
+						<chapter version="5.0" xml:base="Rezept_11_3.dbk" xmlns:ns5="http://www.w3.org/2000/svg" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:ns3="http://www.w3.org/1999/xhtml">
+ 
+<title>Beamten Stippe</title>
+
+<para>
+	<variablelist>
+      <varlistentry>
+        <term>Tags:</term>
+		<listitem>
+	    	<para>
+						Schwein
+					,
+						Kartoffel
+					,
+						Fleisch
+					,
+						Milch
+			</para>
+		</listitem>
+      </varlistentry>
+	  <varlistentry>
+	    <term>Quelle:</term>
+		<listitem><para>
+							verändert übernommen aus: Mitteldeutsche Küche - So kochen wir in Sachsen-Anhalt ISBN: 3-930383-25-X
+		</para></listitem>
+	  </varlistentry>
+    </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+		<listitem>
+          <para>
+			Hackfleisch gemischt 
+						500.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Zwiebeln 
+						1.0 Stück
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Gemüsebrühe 
+						400.0 ml
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Dunkle Mehlschwitze 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Kümmel 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Pfeffer 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Salz 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Kartoffeln (festkochend) 
+						500.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Milch 
+						250.0 ml
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						etwas 
+			Muskat 
+		  </para>
+        </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+		<listitem>
+          <para>
+			Kartoffeln kochen, abgießen und mit der Milch zum Kartoffelbrei unter rühren verkochen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Muskat nach Belieben unter den Brei heben.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			400 ml Gemüsebrühe zum Kochen bringen.
+		  </para>
+		  <note>
+			  <para>
+				Gedacht um Reste einer Brühe zu verarbeiten, mit Instant Brühe geht es aber auch.
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Die Zwiebel würfeln und gemeinsam mit dem Hackfleisch zur Brühe geben.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Kurz aufkochen bis das Hackfleisch gut durch und grau ist - sollte maximal 5 Minuten dauern.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Mit Kümmel, Salz und Pfeffer abschmecken.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Überschüssiges Wasser mit dunkler Mehlschwitze abbinden und erneut aufkochen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Servieren.
+		  </para>
+        </listitem>
+    </orderedlist></para>
+
+  </formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+
+		<para>
+			Keine verfügbar.
+		</para>
+  </formalpara>
+
+
+</chapter>
+						
+		</part>
+
+
+  <appendix>
+    <title>Lizenz</title>
+
+    <para>Das Buch steht unter dem Schutz der GNU Free Documentation License.
+    Damit wird jedem Menschen das Recht auf freie Vervielfältigung,
+    Veränderung und Weitergabe des Buches eingeräumt. Mit jedem Exemplar ist
+    jedoch auch ein Hinweis auf den Schutz des Werkes durch die GFDL
+    anzubringen (hiermit geschehen). Bei Veränderungen am Werk bitte den Namen
+    des Änderes in der Autorenliste aufnehmen. Der vollständige Originaltext
+    der Lizenz kann auf folgenden Seiten nachgelesen werden.</para>
+
+    <programlisting>
+                GNU Free Documentation License
+                 Version 1.3, 3 November 2008
+
+
+ Copyright (C) 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc.
+     &lt;http://fsf.org/&gt;
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+0. PREAMBLE
+
+The purpose of this License is to make a manual, textbook, or other
+functional and useful document "free" in the sense of freedom: to
+assure everyone the effective freedom to copy and redistribute it,
+with or without modifying it, either commercially or noncommercially.
+Secondarily, this License preserves for the author and publisher a way
+to get credit for their work, while not being considered responsible
+for modifications made by others.
+
+This License is a kind of "copyleft", which means that derivative
+works of the document must themselves be free in the same sense.  It
+complements the GNU General Public License, which is a copyleft
+license designed for free software.
+
+We have designed this License in order to use it for manuals for free
+software, because free software needs free documentation: a free
+program should come with manuals providing the same freedoms that the
+software does.  But this License is not limited to software manuals;
+it can be used for any textual work, regardless of subject matter or
+whether it is published as a printed book.  We recommend this License
+principally for works whose purpose is instruction or reference.
+
+
+1. APPLICABILITY AND DEFINITIONS
+
+This License applies to any manual or other work, in any medium, that
+contains a notice placed by the copyright holder saying it can be
+distributed under the terms of this License.  Such a notice grants a
+world-wide, royalty-free license, unlimited in duration, to use that
+work under the conditions stated herein.  The "Document", below,
+refers to any such manual or work.  Any member of the public is a
+licensee, and is addressed as "you".  You accept the license if you
+copy, modify or distribute the work in a way requiring permission
+under copyright law.
+
+A "Modified Version" of the Document means any work containing the
+Document or a portion of it, either copied verbatim, or with
+modifications and/or translated into another language.
+
+A "Secondary Section" is a named appendix or a front-matter section of
+the Document that deals exclusively with the relationship of the
+publishers or authors of the Document to the Document's overall
+subject (or to related matters) and contains nothing that could fall
+directly within that overall subject.  (Thus, if the Document is in
+part a textbook of mathematics, a Secondary Section may not explain
+any mathematics.)  The relationship could be a matter of historical
+connection with the subject or with related matters, or of legal,
+commercial, philosophical, ethical or political position regarding
+them.
+
+The "Invariant Sections" are certain Secondary Sections whose titles
+are designated, as being those of Invariant Sections, in the notice
+that says that the Document is released under this License.  If a
+section does not fit the above definition of Secondary then it is not
+allowed to be designated as Invariant.  The Document may contain zero
+Invariant Sections.  If the Document does not identify any Invariant
+Sections then there are none.
+
+The "Cover Texts" are certain short passages of text that are listed,
+as Front-Cover Texts or Back-Cover Texts, in the notice that says that
+the Document is released under this License.  A Front-Cover Text may
+be at most 5 words, and a Back-Cover Text may be at most 25 words.
+
+A "Transparent" copy of the Document means a machine-readable copy,
+represented in a format whose specification is available to the
+general public, that is suitable for revising the document
+straightforwardly with generic text editors or (for images composed of
+pixels) generic paint programs or (for drawings) some widely available
+drawing editor, and that is suitable for input to text formatters or
+for automatic translation to a variety of formats suitable for input
+to text formatters.  A copy made in an otherwise Transparent file
+format whose markup, or absence of markup, has been arranged to thwart
+or discourage subsequent modification by readers is not Transparent.
+An image format is not Transparent if used for any substantial amount
+of text.  A copy that is not "Transparent" is called "Opaque".
+
+Examples of suitable formats for Transparent copies include plain
+ASCII without markup, Texinfo input format, LaTeX input format, SGML
+or XML using a publicly available DTD, and standard-conforming simple
+HTML, PostScript or PDF designed for human modification.  Examples of
+transparent image formats include PNG, XCF and JPG.  Opaque formats
+include proprietary formats that can be read and edited only by
+proprietary word processors, SGML or XML for which the DTD and/or
+processing tools are not generally available, and the
+machine-generated HTML, PostScript or PDF produced by some word
+processors for output purposes only.
+
+The "Title Page" means, for a printed book, the title page itself,
+plus such following pages as are needed to hold, legibly, the material
+this License requires to appear in the title page.  For works in
+formats which do not have any title page as such, "Title Page" means
+the text near the most prominent appearance of the work's title,
+preceding the beginning of the body of the text.
+
+The "publisher" means any person or entity that distributes copies of
+the Document to the public.
+
+A section "Entitled XYZ" means a named subunit of the Document whose
+title either is precisely XYZ or contains XYZ in parentheses following
+text that translates XYZ in another language.  (Here XYZ stands for a
+specific section name mentioned below, such as "Acknowledgements",
+"Dedications", "Endorsements", or "History".)  To "Preserve the Title"
+of such a section when you modify the Document means that it remains a
+section "Entitled XYZ" according to this definition.
+
+The Document may include Warranty Disclaimers next to the notice which
+states that this License applies to the Document.  These Warranty
+Disclaimers are considered to be included by reference in this
+License, but only as regards disclaiming warranties: any other
+implication that these Warranty Disclaimers may have is void and has
+no effect on the meaning of this License.
+
+2. VERBATIM COPYING
+
+You may copy and distribute the Document in any medium, either
+commercially or noncommercially, provided that this License, the
+copyright notices, and the license notice saying this License applies
+to the Document are reproduced in all copies, and that you add no
+other conditions whatsoever to those of this License.  You may not use
+technical measures to obstruct or control the reading or further
+copying of the copies you make or distribute.  However, you may accept
+compensation in exchange for copies.  If you distribute a large enough
+number of copies you must also follow the conditions in section 3.
+
+You may also lend copies, under the same conditions stated above, and
+you may publicly display copies.
+
+
+3. COPYING IN QUANTITY
+
+If you publish printed copies (or copies in media that commonly have
+printed covers) of the Document, numbering more than 100, and the
+Document's license notice requires Cover Texts, you must enclose the
+copies in covers that carry, clearly and legibly, all these Cover
+Texts: Front-Cover Texts on the front cover, and Back-Cover Texts on
+the back cover.  Both covers must also clearly and legibly identify
+you as the publisher of these copies.  The front cover must present
+the full title with all words of the title equally prominent and
+visible.  You may add other material on the covers in addition.
+Copying with changes limited to the covers, as long as they preserve
+the title of the Document and satisfy these conditions, can be treated
+as verbatim copying in other respects.
+
+If the required texts for either cover are too voluminous to fit
+legibly, you should put the first ones listed (as many as fit
+reasonably) on the actual cover, and continue the rest onto adjacent
+pages.
+
+If you publish or distribute Opaque copies of the Document numbering
+more than 100, you must either include a machine-readable Transparent
+copy along with each Opaque copy, or state in or with each Opaque copy
+a computer-network location from which the general network-using
+public has access to download using public-standard network protocols
+a complete Transparent copy of the Document, free of added material.
+If you use the latter option, you must take reasonably prudent steps,
+when you begin distribution of Opaque copies in quantity, to ensure
+that this Transparent copy will remain thus accessible at the stated
+location until at least one year after the last time you distribute an
+Opaque copy (directly or through your agents or retailers) of that
+edition to the public.
+
+It is requested, but not required, that you contact the authors of the
+Document well before redistributing any large number of copies, to
+give them a chance to provide you with an updated version of the
+Document.
+
+
+4. MODIFICATIONS
+
+You may copy and distribute a Modified Version of the Document under
+the conditions of sections 2 and 3 above, provided that you release
+the Modified Version under precisely this License, with the Modified
+Version filling the role of the Document, thus licensing distribution
+and modification of the Modified Version to whoever possesses a copy
+of it.  In addition, you must do these things in the Modified Version:
+
+A. Use in the Title Page (and on the covers, if any) a title distinct
+   from that of the Document, and from those of previous versions
+   (which should, if there were any, be listed in the History section
+   of the Document).  You may use the same title as a previous version
+   if the original publisher of that version gives permission.
+B. List on the Title Page, as authors, one or more persons or entities
+   responsible for authorship of the modifications in the Modified
+   Version, together with at least five of the principal authors of the
+   Document (all of its principal authors, if it has fewer than five),
+   unless they release you from this requirement.
+C. State on the Title page the name of the publisher of the
+   Modified Version, as the publisher.
+D. Preserve all the copyright notices of the Document.
+E. Add an appropriate copyright notice for your modifications
+   adjacent to the other copyright notices.
+F. Include, immediately after the copyright notices, a license notice
+   giving the public permission to use the Modified Version under the
+   terms of this License, in the form shown in the Addendum below.
+G. Preserve in that license notice the full lists of Invariant Sections
+   and required Cover Texts given in the Document's license notice.
+H. Include an unaltered copy of this License.
+I. Preserve the section Entitled "History", Preserve its Title, and add
+   to it an item stating at least the title, year, new authors, and
+   publisher of the Modified Version as given on the Title Page.  If
+   there is no section Entitled "History" in the Document, create one
+   stating the title, year, authors, and publisher of the Document as
+   given on its Title Page, then add an item describing the Modified
+   Version as stated in the previous sentence.
+J. Preserve the network location, if any, given in the Document for
+   public access to a Transparent copy of the Document, and likewise
+   the network locations given in the Document for previous versions
+   it was based on.  These may be placed in the "History" section.
+   You may omit a network location for a work that was published at
+   least four years before the Document itself, or if the original
+   publisher of the version it refers to gives permission.
+K. For any section Entitled "Acknowledgements" or "Dedications",
+   Preserve the Title of the section, and preserve in the section all
+   the substance and tone of each of the contributor acknowledgements
+   and/or dedications given therein.
+L. Preserve all the Invariant Sections of the Document,
+   unaltered in their text and in their titles.  Section numbers
+   or the equivalent are not considered part of the section titles.
+M. Delete any section Entitled "Endorsements".  Such a section
+   may not be included in the Modified Version.
+N. Do not retitle any existing section to be Entitled "Endorsements"
+   or to conflict in title with any Invariant Section.
+O. Preserve any Warranty Disclaimers.
+
+If the Modified Version includes new front-matter sections or
+appendices that qualify as Secondary Sections and contain no material
+copied from the Document, you may at your option designate some or all
+of these sections as invariant.  To do this, add their titles to the
+list of Invariant Sections in the Modified Version's license notice.
+These titles must be distinct from any other section titles.
+
+You may add a section Entitled "Endorsements", provided it contains
+nothing but endorsements of your Modified Version by various
+parties--for example, statements of peer review or that the text has
+been approved by an organization as the authoritative definition of a
+standard.
+
+You may add a passage of up to five words as a Front-Cover Text, and a
+passage of up to 25 words as a Back-Cover Text, to the end of the list
+of Cover Texts in the Modified Version.  Only one passage of
+Front-Cover Text and one of Back-Cover Text may be added by (or
+through arrangements made by) any one entity.  If the Document already
+includes a cover text for the same cover, previously added by you or
+by arrangement made by the same entity you are acting on behalf of,
+you may not add another; but you may replace the old one, on explicit
+permission from the previous publisher that added the old one.
+
+The author(s) and publisher(s) of the Document do not by this License
+give permission to use their names for publicity for or to assert or
+imply endorsement of any Modified Version.
+
+
+5. COMBINING DOCUMENTS
+
+You may combine the Document with other documents released under this
+License, under the terms defined in section 4 above for modified
+versions, provided that you include in the combination all of the
+Invariant Sections of all of the original documents, unmodified, and
+list them all as Invariant Sections of your combined work in its
+license notice, and that you preserve all their Warranty Disclaimers.
+
+The combined work need only contain one copy of this License, and
+multiple identical Invariant Sections may be replaced with a single
+copy.  If there are multiple Invariant Sections with the same name but
+different contents, make the title of each such section unique by
+adding at the end of it, in parentheses, the name of the original
+author or publisher of that section if known, or else a unique number.
+Make the same adjustment to the section titles in the list of
+Invariant Sections in the license notice of the combined work.
+
+In the combination, you must combine any sections Entitled "History"
+in the various original documents, forming one section Entitled
+"History"; likewise combine any sections Entitled "Acknowledgements",
+and any sections Entitled "Dedications".  You must delete all sections
+Entitled "Endorsements".
+
+
+6. COLLECTIONS OF DOCUMENTS
+
+You may make a collection consisting of the Document and other
+documents released under this License, and replace the individual
+copies of this License in the various documents with a single copy
+that is included in the collection, provided that you follow the rules
+of this License for verbatim copying of each of the documents in all
+other respects.
+
+You may extract a single document from such a collection, and
+distribute it individually under this License, provided you insert a
+copy of this License into the extracted document, and follow this
+License in all other respects regarding verbatim copying of that
+document.
+
+
+7. AGGREGATION WITH INDEPENDENT WORKS
+
+A compilation of the Document or its derivatives with other separate
+and independent documents or works, in or on a volume of a storage or
+distribution medium, is called an "aggregate" if the copyright
+resulting from the compilation is not used to limit the legal rights
+of the compilation's users beyond what the individual works permit.
+When the Document is included in an aggregate, this License does not
+apply to the other works in the aggregate which are not themselves
+derivative works of the Document.
+
+If the Cover Text requirement of section 3 is applicable to these
+copies of the Document, then if the Document is less than one half of
+the entire aggregate, the Document's Cover Texts may be placed on
+covers that bracket the Document within the aggregate, or the
+electronic equivalent of covers if the Document is in electronic form.
+Otherwise they must appear on printed covers that bracket the whole
+aggregate.
+
+
+8. TRANSLATION
+
+Translation is considered a kind of modification, so you may
+distribute translations of the Document under the terms of section 4.
+Replacing Invariant Sections with translations requires special
+permission from their copyright holders, but you may include
+translations of some or all Invariant Sections in addition to the
+original versions of these Invariant Sections.  You may include a
+translation of this License, and all the license notices in the
+Document, and any Warranty Disclaimers, provided that you also include
+the original English version of this License and the original versions
+of those notices and disclaimers.  In case of a disagreement between
+the translation and the original version of this License or a notice
+or disclaimer, the original version will prevail.
+
+If a section in the Document is Entitled "Acknowledgements",
+"Dedications", or "History", the requirement (section 4) to Preserve
+its Title (section 1) will typically require changing the actual
+title.
+
+
+9. TERMINATION
+
+You may not copy, modify, sublicense, or distribute the Document
+except as expressly provided under this License.  Any attempt
+otherwise to copy, modify, sublicense, or distribute it is void, and
+will automatically terminate your rights under this License.
+
+However, if you cease all violation of this License, then your license
+from a particular copyright holder is reinstated (a) provisionally,
+unless and until the copyright holder explicitly and finally
+terminates your license, and (b) permanently, if the copyright holder
+fails to notify you of the violation by some reasonable means prior to
+60 days after the cessation.
+
+Moreover, your license from a particular copyright holder is
+reinstated permanently if the copyright holder notifies you of the
+violation by some reasonable means, this is the first time you have
+received notice of violation of this License (for any work) from that
+copyright holder, and you cure the violation prior to 30 days after
+your receipt of the notice.
+
+Termination of your rights under this section does not terminate the
+licenses of parties who have received copies or rights from you under
+this License.  If your rights have been terminated and not permanently
+reinstated, receipt of a copy of some or all of the same material does
+not give you any rights to use it.
+
+
+10. FUTURE REVISIONS OF THIS LICENSE
+
+The Free Software Foundation may publish new, revised versions of the
+GNU Free Documentation License from time to time.  Such new versions
+will be similar in spirit to the present version, but may differ in
+detail to address new problems or concerns.  See
+http://www.gnu.org/copyleft/.
+
+Each version of the License is given a distinguishing version number.
+If the Document specifies that a particular numbered version of this
+License "or any later version" applies to it, you have the option of
+following the terms and conditions either of that specified version or
+of any later version that has been published (not as a draft) by the
+Free Software Foundation.  If the Document does not specify a version
+number of this License, you may choose any version ever published (not
+as a draft) by the Free Software Foundation.  If the Document
+specifies that a proxy can decide which future versions of this
+License can be used, that proxy's public statement of acceptance of a
+version permanently authorizes you to choose that version for the
+Document.
+
+11. RELICENSING
+
+"Massive Multiauthor Collaboration Site" (or "MMC Site") means any
+World Wide Web server that publishes copyrightable works and also
+provides prominent facilities for anybody to edit those works.  A
+public wiki that anybody can edit is an example of such a server.  A
+"Massive Multiauthor Collaboration" (or "MMC") contained in the site
+means any set of copyrightable works thus published on the MMC site.
+
+"CC-BY-SA" means the Creative Commons Attribution-Share Alike 3.0 
+license published by Creative Commons Corporation, a not-for-profit 
+corporation with a principal place of business in San Francisco, 
+California, as well as future copyleft versions of that license 
+published by that same organization.
+
+"Incorporate" means to publish or republish a Document, in whole or in 
+part, as part of another Document.
+
+An MMC is "eligible for relicensing" if it is licensed under this 
+License, and if all works that were first published under this License 
+somewhere other than this MMC, and subsequently incorporated in whole or 
+in part into the MMC, (1) had no cover texts or invariant sections, and 
+(2) were thus incorporated prior to November 1, 2008.
+
+The operator of an MMC Site may republish an MMC contained in the site
+under CC-BY-SA on the same site at any time before August 1, 2009,
+provided the MMC is eligible for relicensing.
+
+
+ADDENDUM: How to use this License for your documents
+
+To use this License in a document you have written, include a copy of
+the License in the document and put the following copyright and
+license notices just after the title page:
+
+    Copyright (c)  YEAR  YOUR NAME.
+    Permission is granted to copy, distribute and/or modify this document
+    under the terms of the GNU Free Documentation License, Version 1.3
+    or any later version published by the Free Software Foundation;
+    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+    A copy of the license is included in the section entitled "GNU
+    Free Documentation License".
+
+If you have Invariant Sections, Front-Cover Texts and Back-Cover Texts,
+replace the "with...Texts." line with this:
+
+    with the Invariant Sections being LIST THEIR TITLES, with the
+    Front-Cover Texts being LIST, and with the Back-Cover Texts being LIST.
+
+If you have Invariant Sections without Cover Texts, or some other
+combination of the three, merge those two alternatives to suit the
+situation.
+
+If your document contains nontrivial examples of program code, we
+recommend releasing these examples in parallel under your choice of
+free software license, such as the GNU General Public License,
+to permit their use in free software.
+</programlisting>
+  </appendix>
+  
+</book>

@@ -61,16 +61,40 @@ bringen (E-Herd Stufe III)."
 Aktion: "Wenn das Wasser kocht, vom Herd nehmen. Dann Milch, Butter und die 
 das Kartoffelpüree einrühren. Kurz durchrühren bis alles glatt ist."
 Aktion: "Servieren."
-
-
-
 --Zusatzinformationen--
-
-
 }
 
+Rezept "GeflügelstreifenMitGemüse" {
+Titel: "Geflügelstreifen mit Gemüse und Reis".
+Kategorie: "Kochen".
+Letzte Änderung: 13.02.2016.
+Tag: "Geflügel". Tag: "Zwiebel".
 
+Zutat: "Reis" Menge: "50" "g".
+Zutat: "Putenbrustfilet" Menge: "200" "g".
+Zutat: "Öl" "etwas".
+Zutat: "Frühglingszwiebeln" Menge: "2" "Stück".
+Zutat: "Ingwerknolle" Menge: "1" "Stück".
+Zutat: "Knoblauch" Menge: "1" "Zehe". 
+Zutat: "Tomaten" Menge: "2" "Stück".
+Zutat: "Broccoliröschen" Menge: "250" "g".
+Zutat: "Gemüsebrühe" Menge: "200" "ml".
+Zutat: "Sojasauce" "etwas".
+Zutat: "Paprikapulver" "etwas".
+Zutat: "Currypulver" "etwas".
+Zutat: "Salz" "etwas".
 
+Aktion: "Den trockenen Reis nach Packungsanweisung in Salzwasser garen."
+Aktion: "Die Putenfilets in Streifen schneiden und mit 1 TL Öl knusprig anbraten."
+Aktion: "Die Frühlingszwiebeln klein schneiden."
+Aktion: "Etwas Ingwer abschälen und fein würfeln."
+Aktion: "Beides zusammen mit der gepressten Knoblauchzehe zum Geflügel geben und andünsten."
+Aktion: "Die Tomaten würfeln."
+Aktion: "Die Gemüsebrühe mit den Broccoliröschen dazugeben."
+Aktion: "Alles garen und mit Sojasauce, Paprika- und Currypulver abschmecken."
+Aktion: "Reis als Beilage servieren."
+--Zusatzinformationen--
+}
 
 
 
