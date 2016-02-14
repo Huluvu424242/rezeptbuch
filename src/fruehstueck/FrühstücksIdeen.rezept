@@ -1,4 +1,4 @@
-Rezeptliste "FrühstücksIdeen" ; 
+Rezeptliste "Frühstücks Ideen" ; 
 import produkte "../Commons/ProdukteEdeka.rezept" ;
 
 
