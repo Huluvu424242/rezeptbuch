@@ -7,7 +7,7 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
-<title>Bauern Frühstück</title>
+<title>Pizza Teig einfach und italienisch</title>
 
 <para>
 	<variablelist>
@@ -15,18 +15,16 @@
         <term>Tags:</term>
 		<listitem>
 	    	<para>
-						Schwein
+						Fruchtzuckerarm-Aufbauphase
 					,
-						Fleisch
-					,
-						Milch
+						Pizza
 			</para>
 		</listitem>
       </varlistentry>
 	  <varlistentry>
 	    <term>Quelle:</term>
 		<listitem><para>
-							verändert übernommen aus: http://www.kochbar.de/rezept/anzeigen/druck/id/86049/personen/3
+					nicht angegeben
 		</para></listitem>
 	  </varlistentry>
     </variablelist>
@@ -38,56 +36,32 @@
     <para><itemizedlist>
 		<listitem>
           <para>
-			Kartoffeln 
-						750.0 g
+			Mehl 
+						500.0 g
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Durchwachsener Speck 
-						80.0 g
+			Hefe 
+						20.0 g
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Eier 
-						3.0 Stück
+			lauwarmes Wasser 
+						200.0 ml
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Milch 
-						3.0 Esslöffel
+			Olivenöl 
+						2.0 Esslöffel
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Schinkenwürfel 
-						125.0 g
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Tomaten 
-						2.0 Stück
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-						nach Bedarf 
-			Schnittlauch 
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-						nach Bedarf 
-			Pfeffer 
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-						nach Bedarf 
 			Salz 
+						1.0 Teeloeffel
 		  </para>
         </listitem>
     </itemizedlist></para>
@@ -99,39 +73,79 @@
     <para><orderedlist>
 		<listitem>
           <para>
-			Kartoffeln kochen und kalt werden lassen.
+			Mehl in Rührschüssel schütten.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Kartoffeln in Scheiben schneiden und Speck klein würfeln.
+			Im Mehl eine Kuhle schaffen und das Salz hineingeben. Anschließend die Hefe in die Kuhle brökeln.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Speck in der Pfanne anbraten, Kartoffeln dazugeben, salzen und
-hellbraun rösten.
+			Die Kuhle vorsichtig mit dem Wasser füllen. Dabei das trockene Mehl so anhäufeln, dass das Wasser in der 
+Kuhle verbleibt.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Eier, Milch und Salz verquirlen und mit den Schinkenwürfeln vermischen.
+			Die Kuhle mit dem verbleibenden Mehl abdecken und verschliessen.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Tomaten abziehen, klein schneiden und in die Eiermilch geben.
+			Rührschüssel mit einem Geschirrtuch abdecken und an einem warmen Ort 15 Minuten gehen lassen.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Die gesamte Milch-Mischung über die Kartoffeln geben und braten
-bis es fest wird.
+			Jetzt sollten sich auf dem Mehl Risse gebildet haben. So können wir das Olivenöl hinzugeben und einkneten.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Abschließend mit Schnittlauch verfeinern und servieren.
+			Nun wird alles 10 Minuten lang durchgeknetet so dass ein elastischer Teig entsteht.
+		  </para>
+		  <note>
+			  <para>
+				Wenn der Teig beim ersten Kneten zu fest erscheint noch einen Esslöfel Olivenöl hinzugeben. 
+Sollte der Teig zu flüssig erscheinen, dann etwas Mehl hinzugeben und weiter kneten.
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Der elastische Teig wird erneut abgedeckt und an einem warmen Ort 30 Minuten gehen gelassen, bis sich das Volumen etwa verdoppel hat.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Den Teig auf gemehlter Unterlage (z.B. Tisch) ausrollen und auf ein Backblech ausbringen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			In den Teig mit einer Gabel gleichmäßig Löcher einbringen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die ganze Teigfläche mit Ketchup bestreichen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Gewünschten Pizzabelag aufbringen (z.B. Oliven, Salami, Kochschinken, Perperonie, Paprikastücken, geschnittene Champinions, Artischoken).
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Belag mit Oregano würzen und mit einer Schicht Reibekäse bedecken.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Bei 200°C im Herd backen bis der Käse vollständig zerlaufen ist (etwa 20 - 30 Minuten).
 		  </para>
         </listitem>
     </orderedlist ></para>
@@ -146,6 +160,216 @@ bis es fest wird.
 		</para>
   </formalpara>
 
+  <formalpara>
+    <title>Bilder</title>
+
+	<para>
+ 	<inlinemediaobject>		
+			<alt>Die Zutaten für den Belag</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in"
+								fileref="http://farm9.staticflickr.com/8311/8005391466_a6600886b2.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Die Zutaten für den Belag</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class='copyright'/>
+		<author>
+			<personname>
+				<othername>Huluvu424242</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+	</para></footnote>
+ 	<inlinemediaobject>		
+			<alt>Der Teig</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in"
+								fileref="http://farm9.staticflickr.com/8034/8005391084_42db2f23a6.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Der Teig</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class='copyright'/>
+		<author>
+			<personname>
+				<othername>Huluvu424242</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+	</para></footnote>
+ 	<inlinemediaobject>		
+			<alt>Ausrollen des Teiges</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in"
+								fileref="http://farm9.staticflickr.com/8314/8005390800_639a12e53b.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Ausrollen des Teiges</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class='copyright'/>
+		<author>
+			<personname>
+				<othername>Huluvu424242</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+	</para></footnote>
+ 	<inlinemediaobject>		
+			<alt>Teig anstechen</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in"
+								fileref="http://farm9.staticflickr.com/8038/8005390456_d2b69d23a6.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Teig anstechen</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class='copyright'/>
+		<author>
+			<personname>
+				<othername>Huluvu424242</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+	</para></footnote>
+ 	<inlinemediaobject>		
+			<alt>Belegen des Teiges</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in"
+								fileref="http://farm9.staticflickr.com/8295/8005390094_42fa377104.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Belegen des Teiges</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class='copyright'/>
+		<author>
+			<personname>
+				<othername>Huluvu424242</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+	</para></footnote>
+ 	<inlinemediaobject>		
+			<alt>Belegte Pizza</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in"
+								fileref="http://farm9.staticflickr.com/8309/8005386713_9d0823548d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Belegte Pizza</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class='copyright'/>
+		<author>
+			<personname>
+				<othername>Huluvu424242</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+	</para></footnote>
+ 	<inlinemediaobject>		
+			<alt>Servierfertig</alt>	
+	        <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+  							<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+		  		</info>
+				<imagedata contentwidth="2in"
+								fileref="http://farm9.staticflickr.com/8035/8005386393_425ac77ebd.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Servierfertig</phrase>
+			</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class='copyright'/>
+		<author>
+			<personname>
+				<othername>Huluvu424242</othername>
+			</personname>
+		</author>
+		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+	</para></footnote>
+	</para>
+
+  </formalpara>
 
 </chapter>
 

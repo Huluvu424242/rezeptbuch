@@ -1,0 +1,60 @@
+Rezeptliste "FrühstücksIdeen" ; 
+import produkte "../Commons/ProdukteEdeka.rezept" ;
+
+
+
+Rezept "KrabbenRührei" {
+
+Titel: "Krabben Rührei".
+Kategorie: "Kochen".
+Quelle: übernommen "verändert" aus "Weight Watchers".
+Letzte Änderung: 14.02.2016.
+Tag: "Ei". 
+
+Zutat: "Tomaten" Menge: "2" "Stück".
+Zutat: "Krabben" Menge: "100" "g".
+Zutat: "Eier" Menge: "2" "Stück".
+Zutat: "Schnittlauch" Menge: "5" "Stück".
+Zutat: "Blattsalat" "etwas".
+Zutat: "Cocktail Tomaten" "etwas".
+Zutat: "Gemüsebrühe" Menge: "50" "ml".
+Zutat: "Senf" Menge: "0.5" "Teeloeffel".
+Zutat: "Essig" Menge: "2" "Teeloeffel".
+Zutat: "Gemischte Kräuter" Menge: "1" "Teeloeffel".
+Zutat: "Öl" Menge: "1" "Teeloeffel".
+Zutat: "Salz" Menge: "1" "Prise".
+Zutat: "Pfeffer" Menge: "1" "Prise".
+Zutat: "Zucker" Menge: "1" "Prise".
+Zutat: "Schwarzbrot" Menge: "1" "Scheibe".
+Zutat: "Kiwi" Menge: "1" "Stück".
+Zutat: "Magermilchjoghurt" Menge: "150" "g".
+
+Aktion: "Die Tomaten würfeln und mit den Krabben und 1 Teelöffel Öl andünsten."
+Aktion: "Die Eier mit etwas Wasser verquirlen, dazu geben und zu einem Rührei stocken lassen."
+Aktion: "Den geschnittenen Schnittlauch darüber streuen und mit Salz und Pfeffer abschmecken."
+Aktion: "Den Blatsalat in mundgerechte Stücke zupfen."
+Aktion: "Die Cocktailtomaten halbieren."
+Aktion: "Aus der Gemüsebrühe (1 Prise Instantpulver) zusammen mit Senf, Essig, gemischten Kräutern, Salz, Pfeffer und der Prise Zucker ein Dressing anrühren."
+Aktion: "Das fertige Dressing zum Salat geben und vermengen."
+Aktion: "Die Kiwi abschälen, würfeln und mit dem Youghurt vermischen."
+Aktion: "Alles zusammen mit einer Scheibe Schwarzbrot servieren."
+--Zusatzinformationen--
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

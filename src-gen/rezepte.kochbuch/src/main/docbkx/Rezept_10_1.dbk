@@ -7,7 +7,7 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
-<title>Jägerschnitzel</title>
+<title>Nudeln mit Tomatensosse</title>
 
 <para>
 	<variablelist>
@@ -16,17 +16,13 @@
 		<listitem>
 	    	<para>
 						Nudeln
-					,
-						Jagdwurst
-					,
-						Tomate
 			</para>
 		</listitem>
       </varlistentry>
 	  <varlistentry>
 	    <term>Quelle:</term>
 		<listitem><para>
-							verändert übernommen aus: http://www.kochbar.de/rezept/369345/altes-DDR-Rezept-Jaegerschnitzel.html
+							überliefert von Thomas Schubert
 		</para></listitem>
 	  </varlistentry>
     </variablelist>
@@ -38,56 +34,56 @@
     <para><itemizedlist>
 		<listitem>
           <para>
-			Spirelli (Fussili) 
-						1.0 Tüte(n)
+			Fleischwurst 
+						325.0 g
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Jagdwurst 
-						2.0 Scheiben
+			Spaghetti 
+						500.0 g
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Eier 
-						2.0 Stück
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Paniermehl 
-						1.0 Tüte(n)
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Tomaten passiert 
-						1.0 Dose
+			Gemüsezwiebel 
+						1.0 Stück
 		  </para>
         </listitem>
 		<listitem>
           <para>
 			Tomatenmark 
-						5.0 Esslöffel
+						6.0 Esslöffel
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Zwiebeln 
-						3.0 Stück
+			Geriebener Käse 
+						1.0 Tüte(n)
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Braten Fond 
-						200.0 ml
+			Sonnenblumenöl 
+						3.0 Esslöffel
 		  </para>
         </listitem>
 		<listitem>
           <para>
 						nach Bedarf 
-			Sanella 
+			Spaghetti Gewürz 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Salz 
+						1.0 Prise
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Wasser 
+						600.0 ml
 		  </para>
         </listitem>
     </itemizedlist></para>
@@ -99,23 +95,17 @@
     <para><orderedlist>
 		<listitem>
           <para>
-			Die Zwiebeln in feine Stücke hacken.
+			Eine Pfanne mit ein wenig Öl erhitzen (E-Herd Stufe III).
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Nudeln im Salzwasser zum Kochen aufsetzen.
+			In der Zwischenzeit die Fleischwurst in kleine Stifte oder Würfel schneiden.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Für die Sosse die Zwiebeln in einen Topf geben und mit Sanella goldgelb braten.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Die Zwiebeln mit den passierten Tomaten ablöschen, den Bratenfond unterrühren,
- das Tomatenmark zugeben und aufkochen.
+			Die Zwiebel in Würfeln schneiden.
 		  </para>
         </listitem>
 		<listitem>
@@ -126,187 +116,84 @@ Färbung annimmt.
         </listitem>
 		<listitem>
           <para>
-			Die Sosse mit Basilikum würzen und auf niedrigster Stufe köcheln lassen.
+			Wenn die Wurst gold braun gebraten ist wird die gewürfelte Zwiebel zugegeben.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Die Jadwurstscheiben panieren und beidseitig braten und servieren 
-(Sie sollten zeitgleich mit den Nudeln fertig werden).
+			Nun solange braten bis auch die Zwiebel gold braun ist.
 		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Jetzt geben wir 200 ml Wasser zum ablöschen hinzu.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Anschließend geben wir das Tomatenmark und 400 ml Wasser hinzu, verrühren alles gut und lassen es kurz aufkochen.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Ab jetzt die Sosse auf Stufe 1 warmhalten.
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Die Nudeln zubereiten indem wir einen Topf 3/4 mit Wasser füllen, 
+eine Prise Salz zugeben und die Nudeln hineinlegen (E-Herd Stufe 3).
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Nach dem Aufkochen werden die Nudeln weiter auf Stufe 2 gekocht bis sie gar sind.
+		  </para>
+		  <note>
+			  <para>
+				Nudeln sind gar wenn sie gegen eine glatte senkrechte Fläche gewurfen nicht abfallen.
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Nudeln abschrecken. Dazu wird der Topf vom Herd genommen und das Wasser abgegossen
+(dekantieren indem man den Deckel etwas verschiebt). Anschließend Topf und Nudel mit
+kaltem Wasser auffüllen und wieder abgiessen.
+		  </para>
+		  <note>
+			  <para>
+				Einfach nur in den Topf schauen reicht nicht - egal wie man aussieht :)
+			  </para>
+		  </note>
         </listitem>
     </orderedlist ></para>
 
+		<formalpara>
+	      <title>Hinweise</title>
+		  <para>
+				<note>
+	          		<para>Durch Zugabe von Instant Suppenpulver (Gemüsebrühe) erhalten die
+				Nudeln beim Kochen einen würzigeren Geschmack und kleben 
+				nach dem Abschrecken nicht so.</para>
+		        </note>
+				<note>
+	          		<para>Sollten die Nudel zu stark kleben, kann man nach dem Abschrecken
+				etwas Butter hinzugeben. Dadurch wird das weitere Kleben 
+				verhindert.</para>
+		        </note>
+ 		  </para>
+	    </formalpara>
   </formalpara>
 
   <formalpara>
     <title>Einkaufsempfehlung</title>
 
-	    <para><itemizedlist>
-		
-			<listitem>
-	          <para>
-				1.0 x 
-					Glas  Braten Fond
-							400.0 ml
-			  </para>
-	        </listitem>
-		
-	    </itemizedlist></para>
+		<para>
+			Keine verfügbar.
+		</para>
   </formalpara>
 
-  <formalpara>
-    <title>Bilder</title>
-
-	<para>
- 	<inlinemediaobject>		
-			<alt>Vorbereitung</alt>	
-	        <imageobject>
-				<info>
-					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
-					<author>
-						<personname>
-  							<othername>Huluvu424242 (Thomas Schubert)</othername>
-						</personname>
-					</author>
-		  		</info>
-				<imagedata contentwidth="2in"
-								fileref="https://farm6.staticflickr.com/5513/10244038744_47054da933_b_d.jpg">
-				</imagedata>
-			</imageobject>
-			<!-- alternative beschreibung auf rein textbasierten Systemen -->
-			<textobject>
-				<phrase>Vorbereitung</phrase>
-			</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242 (Thomas Schubert)</othername>
-			</personname>
-		</author>
-		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
-	</para></footnote>
- 	<inlinemediaobject>		
-			<alt>Panieren</alt>	
-	        <imageobject>
-				<info>
-					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
-					<author>
-						<personname>
-  							<othername>Huluvu424242 (Thomas Schubert)</othername>
-						</personname>
-					</author>
-		  		</info>
-				<imagedata contentwidth="2in"
-								fileref="https://farm8.staticflickr.com/7438/10244134525_a2e714e832_b_d.jpg">
-				</imagedata>
-			</imageobject>
-			<!-- alternative beschreibung auf rein textbasierten Systemen -->
-			<textobject>
-				<phrase>Panieren</phrase>
-			</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242 (Thomas Schubert)</othername>
-			</personname>
-		</author>
-		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
-	</para></footnote>
- 	<inlinemediaobject>		
-			<alt>Gerade angesetzt</alt>	
-	        <imageobject>
-				<info>
-					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
-					<author>
-						<personname>
-  							<othername>Huluvu424242 (Thomas Schubert)</othername>
-						</personname>
-					</author>
-		  		</info>
-				<imagedata contentwidth="2in"
-								fileref="https://farm4.staticflickr.com/3803/10244237373_2b3ac9d171_b_d.jpg">
-				</imagedata>
-			</imageobject>
-			<!-- alternative beschreibung auf rein textbasierten Systemen -->
-			<textobject>
-				<phrase>Gerade angesetzt</phrase>
-			</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242 (Thomas Schubert)</othername>
-			</personname>
-		</author>
-		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
-	</para></footnote>
- 	<inlinemediaobject>		
-			<alt>Fast fertig</alt>	
-	        <imageobject>
-				<info>
-					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
-					<author>
-						<personname>
-  							<othername>Huluvu424242 (Thomas Schubert)</othername>
-						</personname>
-					</author>
-		  		</info>
-				<imagedata contentwidth="2in"
-								fileref="https://farm9.staticflickr.com/8120/10244048554_91d6230590_b_d.jpg">
-				</imagedata>
-			</imageobject>
-			<!-- alternative beschreibung auf rein textbasierten Systemen -->
-			<textobject>
-				<phrase>Fast fertig</phrase>
-			</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242 (Thomas Schubert)</othername>
-			</personname>
-		</author>
-		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
-	</para></footnote>
- 	<inlinemediaobject>		
-			<alt>Servieren</alt>	
-	        <imageobject>
-				<info>
-					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
-					<author>
-						<personname>
-  							<othername>Huluvu424242 (Thomas Schubert)</othername>
-						</personname>
-					</author>
-		  		</info>
-				<imagedata contentwidth="2in"
-								fileref="https://farm6.staticflickr.com/5495/10244139385_9066ebb4e8_b_d.jpg">
-				</imagedata>
-			</imageobject>
-			<!-- alternative beschreibung auf rein textbasierten Systemen -->
-			<textobject>
-				<phrase>Servieren</phrase>
-			</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242 (Thomas Schubert)</othername>
-			</personname>
-		</author>
-		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
-	</para></footnote>
-	</para>
-
-  </formalpara>
 
 </chapter>
 

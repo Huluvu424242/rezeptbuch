@@ -7,7 +7,7 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
-<title>Pizza Teig einfach und italienisch</title>
+<title>Schnitzelauflauf</title>
 
 <para>
 	<variablelist>
@@ -17,14 +17,16 @@
 	    	<para>
 						Fruchtzuckerarm-Aufbauphase
 					,
-						Pizza
+						Fleisch
+					,
+						Schwein
 			</para>
 		</listitem>
       </varlistentry>
 	  <varlistentry>
 	    <term>Quelle:</term>
 		<listitem><para>
-					nicht angegeben
+							verändert übernommen aus: Studenten WG 'Zur alten Hippe', Reichenbachstr. Dresden.
 		</para></listitem>
 	  </varlistentry>
     </variablelist>
@@ -36,32 +38,38 @@
     <para><itemizedlist>
 		<listitem>
           <para>
-			Mehl 
-						500.0 g
+			Schweineschnitzel 
+						6.0 Stück
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Hefe 
-						20.0 g
+			Speck 
+						300.0 g
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			lauwarmes Wasser 
-						200.0 ml
+			Gemüsezwiebel 
+						2.0 Stück
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Olivenöl 
-						2.0 Esslöffel
+			Kartoffel 
+						10.0 Stück
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Salz 
-						1.0 Teeloeffel
+			Schnittkäse 
+						200.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Schlagsahne 
+						1.0 Becher
 		  </para>
         </listitem>
     </itemizedlist></para>
@@ -73,79 +81,43 @@
     <para><orderedlist>
 		<listitem>
           <para>
-			Mehl in Rührschüssel schütten.
+			Den Boden der Auflaufform vollständig mit Schnitzelfleisch belegen (nur eine Lage - nicht stapeln!).
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Im Mehl eine Kuhle schaffen und das Salz hineingeben. Anschließend die Hefe in die Kuhle brökeln.
+			Den Speck in dünne Streifen schneiden und als neue Schicht über den Fleischscheiben verteilen.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Die Kuhle vorsichtig mit dem Wasser füllen. Dabei das trockene Mehl so anhäufeln, dass das Wasser in der 
-Kuhle verbleibt.
+			Die Zwiebel in Ringe schneiden und diese über der Speckschicht verteilen.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Die Kuhle mit dem verbleibenden Mehl abdecken und verschliessen.
+			Die Kartoffeln schälen und waschen. Anschließend in Scheiben scheiden und damit die obere Schicht des Auflaufes bilden.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Rührschüssel mit einem Geschirrtuch abdecken und an einem warmen Ort 15 Minuten gehen lassen.
+			Jetzt noch die Schlagsahne über den Auflauf ausgießen und verteilen.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Jetzt sollten sich auf dem Mehl Risse gebildet haben. So können wir das Olivenöl hinzugeben und einkneten.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Nun wird alles 10 Minuten lang durchgeknetet so dass ein elastischer Teig entsteht.
+			Zum Abschluss den gesamten Auflauf mit den Käsescheiben belegen.
 		  </para>
 		  <note>
 			  <para>
-				Wenn der Teig beim ersten Kneten zu fest erscheint noch einen Esslöfel Olivenöl hinzugeben. 
-Sollte der Teig zu flüssig erscheinen, dann etwas Mehl hinzugeben und weiter kneten.
+				Da der Käse sehr braun wird, ist es möglicherweise besser diesen erst nach 20 Minuten hinzuzugeben.
+ Wie sich die dabei erzeugte Unterbrechung des Backvorganges auswirkt ist nicht bekannt.
 			  </para>
 		  </note>
         </listitem>
 		<listitem>
           <para>
-			Der elastische Teig wird erneut abgedeckt und an einem warmen Ort 30 Minuten gehen gelassen, bis sich das Volumen etwa verdoppel hat.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Den Teig auf gemehlter Unterlage (z.B. Tisch) ausrollen und auf ein Backblech ausbringen.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			In den Teig mit einer Gabel gleichmäßig Löcher einbringen.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Die ganze Teigfläche mit Ketchup bestreichen.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Gewünschten Pizzabelag aufbringen (z.B. Oliven, Salami, Kochschinken, Perperonie, Paprikastücken, geschnittene Champinions, Artischoken).
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Belag mit Oregano würzen und mit einer Schicht Reibekäse bedecken.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Bei 200°C im Herd backen bis der Käse vollständig zerlaufen ist (etwa 20 - 30 Minuten).
+			Den Auflauf im Umluftherd 45 Minuten bei 200 °C backen.
 		  </para>
         </listitem>
     </orderedlist ></para>
@@ -155,221 +127,55 @@ Sollte der Teig zu flüssig erscheinen, dann etwas Mehl hinzugeben und weiter kn
   <formalpara>
     <title>Einkaufsempfehlung</title>
 
-		<para>
-			Keine verfügbar.
-		</para>
+	    <para><itemizedlist>
+		
+			<listitem>
+	          <para>
+				2.0 x 
+					Packung  5 Minutensteaks vom Schwein
+							400.0 g
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Packung  Bauchspeck vom Schwein
+							300.0 g
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Packung  Emmentaler in Scheiben
+							200.0 g
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Packung  Kartoffeln festkochend
+							2.5 kg
+			  </para>
+	        </listitem>
+		
+		
+			<listitem>
+	          <para>
+				1.0 x 
+					Netz  Zwiebeln
+							1.0 kg
+			  </para>
+	        </listitem>
+		
+	    </itemizedlist></para>
   </formalpara>
 
-  <formalpara>
-    <title>Bilder</title>
-
-	<para>
- 	<inlinemediaobject>		
-			<alt>Die Zutaten für den Belag</alt>	
-	        <imageobject>
-				<info>
-					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-					<author>
-						<personname>
-  							<othername>Huluvu424242</othername>
-						</personname>
-					</author>
-		  		</info>
-				<imagedata contentwidth="2in"
-								fileref="http://farm9.staticflickr.com/8311/8005391466_a6600886b2.jpg">
-				</imagedata>
-			</imageobject>
-			<!-- alternative beschreibung auf rein textbasierten Systemen -->
-			<textobject>
-				<phrase>Die Zutaten für den Belag</phrase>
-			</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
- 	<inlinemediaobject>		
-			<alt>Der Teig</alt>	
-	        <imageobject>
-				<info>
-					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-					<author>
-						<personname>
-  							<othername>Huluvu424242</othername>
-						</personname>
-					</author>
-		  		</info>
-				<imagedata contentwidth="2in"
-								fileref="http://farm9.staticflickr.com/8034/8005391084_42db2f23a6.jpg">
-				</imagedata>
-			</imageobject>
-			<!-- alternative beschreibung auf rein textbasierten Systemen -->
-			<textobject>
-				<phrase>Der Teig</phrase>
-			</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
- 	<inlinemediaobject>		
-			<alt>Ausrollen des Teiges</alt>	
-	        <imageobject>
-				<info>
-					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-					<author>
-						<personname>
-  							<othername>Huluvu424242</othername>
-						</personname>
-					</author>
-		  		</info>
-				<imagedata contentwidth="2in"
-								fileref="http://farm9.staticflickr.com/8314/8005390800_639a12e53b.jpg">
-				</imagedata>
-			</imageobject>
-			<!-- alternative beschreibung auf rein textbasierten Systemen -->
-			<textobject>
-				<phrase>Ausrollen des Teiges</phrase>
-			</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
- 	<inlinemediaobject>		
-			<alt>Teig anstechen</alt>	
-	        <imageobject>
-				<info>
-					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-					<author>
-						<personname>
-  							<othername>Huluvu424242</othername>
-						</personname>
-					</author>
-		  		</info>
-				<imagedata contentwidth="2in"
-								fileref="http://farm9.staticflickr.com/8038/8005390456_d2b69d23a6.jpg">
-				</imagedata>
-			</imageobject>
-			<!-- alternative beschreibung auf rein textbasierten Systemen -->
-			<textobject>
-				<phrase>Teig anstechen</phrase>
-			</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
- 	<inlinemediaobject>		
-			<alt>Belegen des Teiges</alt>	
-	        <imageobject>
-				<info>
-					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-					<author>
-						<personname>
-  							<othername>Huluvu424242</othername>
-						</personname>
-					</author>
-		  		</info>
-				<imagedata contentwidth="2in"
-								fileref="http://farm9.staticflickr.com/8295/8005390094_42fa377104.jpg">
-				</imagedata>
-			</imageobject>
-			<!-- alternative beschreibung auf rein textbasierten Systemen -->
-			<textobject>
-				<phrase>Belegen des Teiges</phrase>
-			</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
- 	<inlinemediaobject>		
-			<alt>Belegte Pizza</alt>	
-	        <imageobject>
-				<info>
-					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-					<author>
-						<personname>
-  							<othername>Huluvu424242</othername>
-						</personname>
-					</author>
-		  		</info>
-				<imagedata contentwidth="2in"
-								fileref="http://farm9.staticflickr.com/8309/8005386713_9d0823548d.jpg">
-				</imagedata>
-			</imageobject>
-			<!-- alternative beschreibung auf rein textbasierten Systemen -->
-			<textobject>
-				<phrase>Belegte Pizza</phrase>
-			</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
- 	<inlinemediaobject>		
-			<alt>Servierfertig</alt>	
-	        <imageobject>
-				<info>
-					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-					<author>
-						<personname>
-  							<othername>Huluvu424242</othername>
-						</personname>
-					</author>
-		  		</info>
-				<imagedata contentwidth="2in"
-								fileref="http://farm9.staticflickr.com/8035/8005386393_425ac77ebd.jpg">
-				</imagedata>
-			</imageobject>
-			<!-- alternative beschreibung auf rein textbasierten Systemen -->
-			<textobject>
-				<phrase>Servierfertig</phrase>
-			</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch:  Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
-	</para>
-
-  </formalpara>
 
 </chapter>
 

@@ -7,7 +7,7 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
-<title>Krabben Rührei</title>
+<title>Beamten Stippe</title>
 
 <para>
 	<variablelist>
@@ -15,14 +15,20 @@
         <term>Tags:</term>
 		<listitem>
 	    	<para>
-						Ei
+						Schwein
+					,
+						Kartoffel
+					,
+						Fleisch
+					,
+						Milch
 			</para>
 		</listitem>
       </varlistentry>
 	  <varlistentry>
 	    <term>Quelle:</term>
 		<listitem><para>
-							verändert übernommen aus: Weight Watchers
+							verändert übernommen aus: Mitteldeutsche Küche - So kochen wir in Sachsen-Anhalt ISBN: 3-930383-25-X
 		</para></listitem>
 	  </varlistentry>
     </variablelist>
@@ -34,104 +40,62 @@
     <para><itemizedlist>
 		<listitem>
           <para>
-			Tomaten 
-						2.0 Stück
+			Hackfleisch gemischt 
+						500.0 g
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Krabben 
-						100.0 g
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Eier 
-						2.0 Stück
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Schnittlauch 
-						5.0 Stück
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-						etwas 
-			Blattsalat 
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-						etwas 
-			Cocktail Tomaten 
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Gemüsebrühe 
-						50.0 ml
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Senf 
-						0.5 Teeloeffel
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Essig 
-						2.0 Teeloeffel
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Gemischte Kräuter 
-						1.0 Teeloeffel
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Öl 
-						1.0 Teeloeffel
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Salz 
-						1.0 Prise
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Pfeffer 
-						1.0 Prise
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Zucker 
-						1.0 Prise
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Schwarzbrot 
-						1.0 Scheibe
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Kiwi 
+			Zwiebeln 
 						1.0 Stück
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Magermilchjoghurt 
-						150.0 g
+			Gemüsebrühe 
+						400.0 ml
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Dunkle Mehlschwitze 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Kümmel 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Pfeffer 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						nach Bedarf 
+			Salz 
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Kartoffeln (festkochend) 
+						500.0 g
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+			Milch 
+						250.0 ml
+		  </para>
+        </listitem>
+		<listitem>
+          <para>
+						etwas 
+			Muskat 
 		  </para>
         </listitem>
     </itemizedlist></para>
@@ -143,47 +107,47 @@
     <para><orderedlist>
 		<listitem>
           <para>
-			Die Tomaten würfeln und mit den Krabben und 1 Teelöffel Öl andünsten.
+			Kartoffeln kochen, abgießen und mit der Milch zum Kartoffelbrei unter rühren verkochen.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Die Eier mit etwas Wasser verquirlen, dazu geben und zu einem Rührei stocken lassen.
+			Muskat nach Belieben unter den Brei heben.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Den geschnittenen Schnittlauch darüber streuen und mit Salz und Pfeffer abschmecken.
+			400 ml Gemüsebrühe zum Kochen bringen.
+		  </para>
+		  <note>
+			  <para>
+				Gedacht um Reste einer Brühe zu verarbeiten, mit Instant Brühe geht es aber auch.
+			  </para>
+		  </note>
+        </listitem>
+		<listitem>
+          <para>
+			Die Zwiebel würfeln und gemeinsam mit dem Hackfleisch zur Brühe geben.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Den Blatsalat in mundgerechte Stücke zupfen.
+			Kurz aufkochen bis das Hackfleisch gut durch und grau ist - sollte maximal 5 Minuten dauern.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Die Cocktailtomaten halbieren.
+			Mit Kümmel, Salz und Pfeffer abschmecken.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Aus der Gemüsebrühe (1 Prise Instantpulver) zusammen mit Senf, Essig, gemischten Kräutern, Salz, Pfeffer und der Prise Zucker ein Dressing anrühren.
+			Überschüssiges Wasser mit dunkler Mehlschwitze abbinden und erneut aufkochen.
 		  </para>
         </listitem>
 		<listitem>
           <para>
-			Das fertige Dressing zum Salat geben und vermengen.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Die Kiwi abschälen, würfeln und mit dem Youghurt vermischen.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Alles zusammen mit einer Scheibe Schwarzbrot servieren.
+			Servieren.
 		  </para>
         </listitem>
     </orderedlist ></para>

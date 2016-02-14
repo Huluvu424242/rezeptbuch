@@ -187,46 +187,51 @@
 						
 		</part>
 		<part>
-		    <title>Asiatisch</title>
+		    <title>FrühstücksIdeen</title>
 						<xi:include href="Rezept_5_1.dbk" />
 						
 		</part>
 		<part>
-		    <title>Aufläufe</title>
+		    <title>Asiatisch</title>
 						<xi:include href="Rezept_6_1.dbk" />
 						
 		</part>
 		<part>
-		    <title>Pizza</title>
+		    <title>Aufläufe</title>
 						<xi:include href="Rezept_7_1.dbk" />
 						
 		</part>
 		<part>
-		    <title>Topf und Pfanne</title>
+		    <title>Pizza</title>
 						<xi:include href="Rezept_8_1.dbk" />
 						
-						<xi:include href="Rezept_8_2.dbk" />
+		</part>
+		<part>
+		    <title>Topf und Pfanne</title>
+						<xi:include href="Rezept_9_1.dbk" />
 						
-						<xi:include href="Rezept_8_3.dbk" />
+						<xi:include href="Rezept_9_2.dbk" />
+						
+						<xi:include href="Rezept_9_3.dbk" />
 						
 		</part>
 		<part>
 		    <title>Nudeln</title>
-						<xi:include href="Rezept_9_1.dbk" />
-						
-		</part>
-		<part>
-		    <title>DDR Gerichte</title>
 						<xi:include href="Rezept_10_1.dbk" />
 						
 		</part>
 		<part>
-		    <title>Bernburger Rezepte</title>
+		    <title>DDR Gerichte</title>
 						<xi:include href="Rezept_11_1.dbk" />
 						
-						<xi:include href="Rezept_11_2.dbk" />
+		</part>
+		<part>
+		    <title>Bernburger Rezepte</title>
+						<xi:include href="Rezept_12_1.dbk" />
 						
-						<xi:include href="Rezept_11_3.dbk" />
+						<xi:include href="Rezept_12_2.dbk" />
+						
+						<xi:include href="Rezept_12_3.dbk" />
 						
 		</part>
 
