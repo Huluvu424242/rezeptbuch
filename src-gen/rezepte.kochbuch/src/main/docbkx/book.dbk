@@ -224,6 +224,8 @@
 		    <title>DDR Gerichte</title>
 						<xi:include href="Rezept_11_1.dbk" />
 						
+						<xi:include href="Rezept_11_2.dbk" />
+						
 		</part>
 		<part>
 		    <title>Bernburger Rezepte</title>
