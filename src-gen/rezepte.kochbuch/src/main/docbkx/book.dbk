@@ -9,6 +9,18 @@
 	<authorgroup>
 		    <editor>
 			  <personname>
+		    	  <firstname>Sylvia </firstname>
+			      <surname>Schubert</surname>
+			  </personname>
+			      <affiliation>
+					<org>
+		    	    	<orgname>Ich koche einfach gern</orgname>
+					</org>
+		   		  </affiliation>
+	      	  <contrib>2012 Initiale Erstellung</contrib>
+	    	</editor>
+		    <editor>
+			  <personname>
 		    	  <firstname>Thomas </firstname>
 			      <surname>Schubert</surname>
 			  </personname>
@@ -199,6 +211,8 @@
 		<part>
 		    <title>Aufläufe</title>
 						<xi:include href="Rezept_7_1.dbk" />
+						
+						<xi:include href="Rezept_7_2.dbk" />
 						
 		</part>
 		<part>

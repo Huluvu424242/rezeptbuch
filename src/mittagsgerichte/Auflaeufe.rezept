@@ -39,6 +39,75 @@ Aktion: "Den Auflauf im Umluftherd 45 Minuten bei 200 °C backen."
 
 }
 
+Rezept "Schupfnudelauflauf" {
+Titel: "Überbackener Schupfnudelauflauf".
+Untertitel: "mit frischem Thymian und bunten Gemüse".
+Kategorie: "Auflauf".
+Quelle: übernommen "verändert" aus "Rezeptsammlung HelloFresh".
+Ausreichend für 4 Personen.
+Letzte Änderung: 16.04.2016.
+//Diät: "Fleischlos". 
+Tag: "Gemüse".
+
+Zutat: "Porree" Menge: "2" "Stück".
+Zutat: "Broccoli" Menge: "500" "g".
+Zutat: "Champignons" Menge: "400" "g".
+Zutat: "Knoblauch" Menge: "4" "Zehen".
+Zutat: "Thymian" Menge: "10" "g".
+Zutat: "Schupfnudeln" Menge: "1" "kg".
+Zutat: "Milch" Menge: "200" "ml".
+Zutat: "Reibekäse" Menge: "200" "g".
+Zutat: "Fleischtomate" Menge: "2" "Stück".
+Zutat: "Mehl" Menge: "2" "Teeloeffel".
+Zutat: "Öl" "etwas".
+
+
+Aktion: "Den Porree waschen und die weißen und hellgrünen Teile in Ringe schneiden."
+Aktion: "Broccoli waschen und in feine Rösschen teilen."
+Aktion: "Die Pilze putzen und in Scheiben schneiden."
+Aktion: "Knoblauch putzen und fein hacken."
+Aktion: "Tomaten waschen und in feine Würfel schneiden."
+Aktion: "Den Ofen auf 200 Grad vorheizen."
+
+Aktion: "Die Schupfnudeln mit etwas Öl und Butter in der Pfanne anbraten bis diese etwas bräunen. Dannach in eine Schüssel geben."
+Aktion: "Porree und Knoblauch mit etwas Öl kurz glasig dünsten."
+Aktion: "Broccoli, Pilze, Tomaten und den Thymian hinzugeben und weitere 8 Minuten dünsten."
+Aktion: "Gemüse mit Salz und Pfeffer abschmecken und dann zu den Nudeln in die Schüsseln geben und gut vermengen."
+Aktion: "Eine Mehlschwitze herstellen indem 2 Teelöffel gescholzene Butter mit 2 Teelöffel Mehl zu einer glatten Masse vermengt werden und 
+langsam unter ständigem Rühren und auf kleiner Flamme die Milch dazu gegeben wird."
+Aktion: "Gemüse, Schwitze und Schupfnudeln miteinander vermengen und in eine Auflaufform geben."
+Aktion: "Den Auflauf mit Reibekäse bestreuen und 20 Minuten im Ofen backen."
+--Zusatzinformationen--
+
+Bild: URL: "https://c2.staticflickr.com/2/1455/26466253755_1c7ce2d603_b_d.jpg" Text: "Gemüse schneiden"
+Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+Urheber: "Huluvu424242".
+
+Bild: URL: "https://c2.staticflickr.com/2/1685/26193395250_b39526659b_b_d.jpg" Text: "Schupfnudeln anbraten"
+Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+Urheber: "Huluvu424242".
+
+Bild: URL: "https://c2.staticflickr.com/2/1460/26373935022_8f7ec73f11_b_d.jpg" Text: "Lauch dünsten"
+Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+Urheber: "Huluvu424242".
+
+Bild: URL: "https://c2.staticflickr.com/2/1493/26373919372_60053db75b_b_d.jpg" Text: "Alles sammeln"
+Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+Urheber: "Huluvu424242".
+
+Bild: URL: "https://c2.staticflickr.com/2/1711/26400072301_d9167483fa_b_d.jpg" Text: "Auflauf vorbereiten"
+Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+Urheber: "Huluvu424242".
+
+Bild: URL: "https://c2.staticflickr.com/2/1689/26400067951_799a5c6b53_o_d.jpg" Text: "Auflauf serviert"
+Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+Urheber: "Huluvu424242".
+
+Bild: URL: "https://c2.staticflickr.com/2/1606/26466230245_47ca0d201a_b_d.jpg" Text: "Auflauf Querschnitt"
+Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+Urheber: "Huluvu424242".
+
+}
 
 
 

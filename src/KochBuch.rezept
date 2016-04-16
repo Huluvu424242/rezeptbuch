@@ -22,6 +22,7 @@ Buch{
 	//import rezepte "./Serien/Strassenkreuzer.rezept";
 	
 	Titel: "Freies Open Source Kochbuch";
+	Autor: {Vorname: "Sylvia" Nachname: "Schubert" Organisation: "Ich koche einfach gern" ModifikationsNotiz: "2012 Initiale Erstellung"}
 	Autor: {Vorname: "Thomas" Nachname: "Schubert" Organisation: "Fellow der Free Software Foundation Europe" ModifikationsNotiz: "2012 Initiale Erstellung"} 
 	Vorwort: 
 	"Herzlich Willkommen beim möglicherweise ersten freien Open Source Kochbuch der Welt in dem es nur um Rezepte geht. Das 
