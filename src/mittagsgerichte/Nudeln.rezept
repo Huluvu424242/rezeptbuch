@@ -1,5 +1,5 @@
 Rezeptliste "Nudeln" ; 
-import produkte "../Commons/ProdukteEdeka.rezept" ;
+import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
 
 
 

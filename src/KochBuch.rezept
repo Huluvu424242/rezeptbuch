@@ -5,7 +5,7 @@ RezeptSammlung{
 	Media Folder: "src/_fotos";
 	siteURL="http://funthomas424242.github.io/rezeptbuch";
 }
-Buch{
+Buch{ 
 	import rezepte "./backen/Plätzchen.rezept";
 	import rezepte "./backen/Pudding.rezept";
 	import rezepte "./backen/Glasuren.rezept";

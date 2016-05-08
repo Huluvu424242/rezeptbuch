@@ -1,6 +1,6 @@
 Rezeptliste "Strassenkreuzer" ;
-import produkte "../Commons/ProdukteEdeka.rezept";
-import produkte "../Commons/ProdukteMarktkauf.rezept" ;
+import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
+import produkte "../Commons/ProdukteMarktkauf.rezept" alias "Kaufmarkt" ;
 
 
 Rezept "Niergengulasch" {
@@ -18,13 +18,13 @@ Zutat: "Schweinenieren (geputzt vom Metzger)" Menge: "800" "g".
 Zutat: "Gemüsezwiebel" Menge: "200" "g".
 Zutat: "Essiggurken" Menge: "2" "Stück".
 Zutat: "kleiner Apfel" Menge: "1" "Stück".
-Zutat: "Kümmel (gestossen oder gemahlen)" Menge: "1" "Messerspitze".
+Zutat: "Kümmel (gestossen oder gemahlen)" Menge: "1" "Messerspitze(n)".
 Zutat: "Majoran" Menge: "1" "Esslöffel". 
-Zutat: "Paprika scharf" Menge: "1" "Teeloeffel".
+Zutat: "Paprika scharf" Menge: "1" "Teelöffel".
 Zutat: "Paprika süß" Menge: "2" "Esslöffel".
 Zutat: "Zitronenschale" "etwas".
 Zutat: "Sahne" Menge: "1" "Becher".
-Zutat: "Brühe" Menge: "1" "Tasse".
+Zutat: "Brühe" Menge: "1" "Tasse(n)".
 Zutat: "Butterschmalz oder Öl" "etwas".
 Zutat: "Salz" "nach Bedarf".
 Zutat: "Peffer" "nach Bedarf".
@@ -63,7 +63,7 @@ Tag: "Fleisch".
 
 Zutat: "Gemüsezwiebel" Menge: "1" "kg".
 Zutat: "Gehacktes" Menge: "500" "g".
-Zutat: "Bauchspeck" Menge: "4" "dünne" "Scheiben".
+Zutat: "Bauchspeck" Menge: "4" "dünne" "Scheibe(n)".
 Zutat: "Eier" Menge: "2" "Stück".
 Zutat: "Semmelbrösel" Menge: "50" "g".
 Zutat: "Salz" "nach Bedarf".
@@ -102,23 +102,23 @@ Ausreichend für 4 Personen.
 Letzte Änderung: 02.01.2012.
 Tag: "Suppe". Tag: "Fleisch". Tag: "Schwein".
 
-ProduktRef: "Schulter vom Schwein" Menge: "1" mal.
-ProduktRef: "Kohlrabi" Menge: "3" mal.
-ProduktRef: "Möhren" Menge: "1" mal.
-ProduktRef: "Gemüsezwiebel" Menge: "1" mal.
-ProduktRef: "Sellerie" Menge: "1" mal.
-ProduktRef: "Porree" Menge: "1" mal.
-ProduktRef: "Lorbeerblätter" Menge: "1" mal.
-ProduktRef: "Gewürznelken" Menge: "1" mal.
-ProduktRef: "Pimentkörner" Menge: "1" mal.
+ProduktRef: "Kaufmarkt.Schulter vom Schwein" Menge: "1" mal.
+ProduktRef: "Kaufmarkt.Kohlrabi" Menge: "3" mal.
+ProduktRef: "Kaufmarkt.Möhren" Menge: "1" mal.
+ProduktRef: "Kaufmarkt.Gemüsezwiebel" Menge: "1" mal.
+ProduktRef: "Kaufmarkt.Sellerie" Menge: "1" mal.
+ProduktRef: "Kaufmarkt.Porree" Menge: "1" mal.
+ProduktRef: "Kaufmarkt.Lorbeerblätter" Menge: "1" mal.
+ProduktRef: "Kaufmarkt.Gewürznelken" Menge: "1" mal.
+ProduktRef: "Kaufmarkt.Pimentkörner" Menge: "1" mal.
 
 
 Zutat: "Schulter vom Schwein" Menge: "1" "kg".
 Zutat: "Kohlrabi" Menge: "3" "mittlere" "Stück".
 Zutat: "Möhren" Menge: "5" "Stück".
 Zutat: "Gemüsezwiebel" Menge: "1" "Stück".
-Zutat: "Sellerie" Menge: "1" "kleine" "Knolle".
-Zutat: "Porree" Menge: "1" "Stange". 
+Zutat: "Sellerie" Menge: "1" "kleine" "Knolle(n)".
+Zutat: "Porree" Menge: "1" "Stange(n)". 
 Zutat: "Salz" "nach Bedarf".
 Zutat: "Lorbeerblätter" Menge: "2" "Stück".
 Zutat: "Gewürznelken" Menge: "2" "Stück".
@@ -174,8 +174,8 @@ Rezept "KoenigsbergerKlopse" {
  Letzte Änderung: 30.12.2012.
  Tag: "Schwein". Tag: "Strassenkreuzer".
  
- ProduktRef: "Eier" Menge:  "1" mal.
- ProduktRef: "Schweinefleisch" Menge: "1" mal.
+ ProduktRef: "Edeka.Eier" Menge:  "1" mal.
+ ProduktRef: "Edeka.Schweinefleisch" Menge: "1" mal.
  
  Zutat: "Eier"  Menge: "1" "Stück".
  Zutat: "Schweinefleisch" Menge: "1" "g".

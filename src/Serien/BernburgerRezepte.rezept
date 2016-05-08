@@ -1,5 +1,5 @@
 Rezeptliste "Bernburger Rezepte" ;
-import produkte "../Commons/ProdukteEdeka.rezept";
+import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
 
 Rezept "KohlrabitopfMitRippchen" {
 
@@ -47,7 +47,7 @@ Tag: "Schwein". Tag: "Hammel". Tag: "Fleisch". Tag: "Suppe".
 
 Zutat: "Hammelfleisch" Menge: "1" "kg".
 Zutat: "Zwiebeln" Menge: "1" "kg".
-Zutat: "Knoblauch" Menge: "1" "Knolle".
+Zutat: "Knoblauch" Menge: "1" "Knolle(n)".
 Zutat: "Klossteig für Rohe Kösse" Menge: "1" "kg".
 Zutat: "Wasser" Menge: "4" "L".
 Zutat: "Kümmel" "nach Bedarf".

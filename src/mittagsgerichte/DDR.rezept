@@ -1,5 +1,5 @@
 Rezeptliste "DDR Gerichte" ; 
-import produkte "../Commons/ProdukteEdeka.rezept" ;
+import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
 
 
 
@@ -15,13 +15,13 @@ Tag: "Nudeln".
 Tag: "Jagdwurst".
 Tag: "Tomate".
 
-ProduktRef: "Braten Fond" Menge: "1" mal.
+ProduktRef: "Edeka.Braten Fond" Menge: "1" mal.
 
 Zutat: "Spirelli (Fussili)" Menge: "1" "Tüte(n)".
-Zutat: "Jagdwurst" Menge: "2" "Scheiben".
+Zutat: "Jagdwurst" Menge: "2" "Scheibe(n)".
 Zutat: "Eier" Menge: "2" "Stück".
 Zutat: "Paniermehl" Menge: "1" "Tüte(n)".
-Zutat: "Tomaten passiert" Menge: "1" "Dose".
+Zutat: "Tomaten passiert" Menge: "1" "Dose(n)".
 Zutat: "Tomatenmark" Menge: "5" "Esslöffel".
 Zutat: "Zwiebeln" Menge: "3" "Stück".
 Zutat: "Braten Fond" Menge: "200" "ml".

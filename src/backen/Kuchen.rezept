@@ -1,5 +1,5 @@
 Rezeptliste "Kuchen" ; 
-import produkte "../Commons/ProdukteEdeka.rezept";
+import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
 
 Rezept "Apfelkuchen"{
 Titel: "Apfelkuchen".  
@@ -13,9 +13,9 @@ Tag: "Apfel".
 Tag: "Hefe".
 Tag: "Streusel".
 
-ProduktRef: "Hefeteig Garant" Menge: "1" mal.
-ProduktRef: "Rum Rosinen" Menge: "1" mal.
-ProduktRef: "Milch" Menge: "1" mal.    
+ProduktRef: "Edeka.Hefeteig Garant" Menge: "1" mal.
+ProduktRef: "Edeka.Rum Rosinen" Menge: "1" mal.
+ProduktRef: "Edeka.Milch" Menge: "1" mal.    
 
 Zutat: "Mehl" Menge: "375" "g".
 Zutat: "Hefe"  Menge: "1" "Päckchen".
@@ -30,7 +30,7 @@ Zutat: "Rum Rosinen" Menge: "1" "Päckchen".
 
 Zutat: "Mehl" Menge: "300" "g".
 Zutat: "Zucker" Menge: "150" "g".
-Zutat: "Zimt" Menge: "1.5" "Teeloeffel".
+Zutat: "Zimt" Menge: "1.5" "Teelöffel".
 Zutat: "Butter" Menge: "200" "g".
 Zutat: "Salz" Menge: "1" "Prise".
  
@@ -68,8 +68,8 @@ Zutat: "Mehl" Menge: "100" "g".
 Zutat: "gehackte Nüsse" Menge: "75" "g".
 Zutat: "leicht gehackte Schokolade" Menge: "50"  "g" .
 Zutat: "Kakaopulver" Menge: "2" "Esslöffel".
-Zutat: "Backpulver" Menge: "1" "Teeloeffel". 
-Zutat: "Salz" Menge: "0.5" "Teeloeffel".
+Zutat: "Backpulver" Menge: "1" "Teelöffel". 
+Zutat: "Salz" Menge: "0.5" "Teelöffel".
 Zutat: "Oliven" Menge: "20" "Stück".
 Zutat: "Butter" Menge: "90" "g".
 Zutat: "Eier" Menge: "2" "Stück".

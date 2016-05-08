@@ -1,6 +1,6 @@
 Rezeptliste "Topf und Pfanne" ; 
-import produkte "../Commons/ProdukteEdeka.rezept" ;
-import produkte "../Commons/ProdukteMarktkauf.rezept" ;
+import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
+import produkte "../Commons/ProdukteMarktkauf.rezept" alias "Kaufmarkt";
 
 Rezept "Bauernfrüstück" {
 
@@ -75,7 +75,7 @@ Zutat: "Putenbrustfilet" Menge: "200" "g".
 Zutat: "Öl" "etwas".
 Zutat: "Frühglingszwiebeln" Menge: "2" "Stück".
 Zutat: "Ingwerknolle" Menge: "1" "Stück".
-Zutat: "Knoblauch" Menge: "1" "Zehe". 
+Zutat: "Knoblauch" Menge: "1" "Zehe(n)". 
 Zutat: "Tomaten" Menge: "2" "Stück".
 Zutat: "Broccoliröschen" Menge: "250" "g".
 Zutat: "Gemüsebrühe" Menge: "200" "ml".

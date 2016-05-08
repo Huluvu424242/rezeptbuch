@@ -1,5 +1,5 @@
 Rezeptliste "Aufläufe" ; 
-import produkte "../Commons/ProdukteEdeka.rezept" ;
+import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
 
 
 Rezept "Schnitzelauflauf" {
@@ -11,11 +11,11 @@ Ausreichend für 4 Personen.
 Letzte Änderung: 08.03.2012.
 Diät: "Fruchtzuckerarm-Aufbauphase". Stoff: "Fleisch". Tag: "Schwein".
 
-ProduktRef: "5 Minutensteaks vom Schwein" Menge: "2" mal.
-ProduktRef: "Bauchspeck vom Schwein" Menge: "1" mal.
-ProduktRef: "Emmentaler in Scheiben" Menge: "1" mal.
-ProduktRef: "Kartoffeln festkochend" Menge: "1" mal.
-ProduktRef: "Zwiebeln" Menge: "1" mal.
+ProduktRef: "Edeka.5 Minutensteaks vom Schwein" Menge: "2" mal.
+ProduktRef: "Edeka.Bauchspeck vom Schwein" Menge: "1" mal.
+ProduktRef: "Edeka.Emmentaler in Scheiben" Menge: "1" mal.
+ProduktRef: "Edeka.Kartoffeln festkochend" Menge: "1" mal.
+ProduktRef: "Edeka.Zwiebeln" Menge: "1" mal.
 
 Zutat: "Schweineschnitzel" Menge: "6" "Stück".
 Zutat: "Speck" Menge: "300" "g".
@@ -52,13 +52,13 @@ Tag: "Gemüse".
 Zutat: "Porree" Menge: "2" "Stück".
 Zutat: "Broccoli" Menge: "500" "g".
 Zutat: "Champignons" Menge: "400" "g".
-Zutat: "Knoblauch" Menge: "4" "Zehen".
+Zutat: "Knoblauch" Menge: "4" "Zehe(n)".
 Zutat: "Thymian" Menge: "10" "g".
 Zutat: "Schupfnudeln" Menge: "1" "kg".
 Zutat: "Milch" Menge: "200" "ml".
 Zutat: "Reibekäse" Menge: "200" "g".
 Zutat: "Fleischtomate" Menge: "2" "Stück".
-Zutat: "Mehl" Menge: "2" "Teeloeffel".
+Zutat: "Mehl" Menge: "2" "Teelöffel".
 Zutat: "Öl" "etwas".
 
 

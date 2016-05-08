@@ -1,5 +1,5 @@
 Rezeptliste "Asiatisch" ; 
-import produkte "../Commons/ProdukteEdeka.rezept";
+import produkte "../Commons/ProdukteEdeka.rezept" alias  "Edeka";
 
 Rezept "BahmiGoreng" {
 Titel: "Bahmi Goreng" .
@@ -13,7 +13,7 @@ Tag: "Asiatisch".
 Zutat: "Wan Kwai Mie-Nudeln" Menge: "400" "g".
 Zutat: "Hühner oder Schweinefleisch" Menge: "400" "g".
 Zutat: "gekochten Schinken" Menge: "100" "g". 
-Zutat: "Porree" Menge: "1" "Stange".
+Zutat: "Porree" Menge: "1" "Stange(n)".
 Zutat: "Zwiebeln" Menge: "2" "Stück".
 Zutat: "Rote Paprikatschote" Menge: "1" "Stück".
 Zutat: "Sellerie" Menge: "75" "g".

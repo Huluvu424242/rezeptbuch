@@ -1,5 +1,5 @@
 Rezeptliste "Plätzchen" ; 
-import produkte "../Commons/ProdukteEdeka.rezept";
+import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
 
 
 Rezept "Käseplätzchen" {
@@ -11,9 +11,9 @@ Ausreichend für 2 Personen.
 Letzte Änderung: 04.08.2012.
 Tag: "Plätzchen" . Diät: "Fruchtzuckerarm-Aufbauphase". 
 
-ProduktRef: "Emmentaler Reibekäse" Menge: "2" mal.
-ProduktRef: "Sanella" Menge: "1" mal.
-ProduktRef: "Mehl" Menge: "1" mal.
+ProduktRef: "Edeka.Emmentaler Reibekäse" Menge: "2" mal.
+ProduktRef: "Edeka.Sanella" Menge: "1" mal.
+ProduktRef: "Edeka.Mehl" Menge: "1" mal.
 
 Zutat: "Mehl" Menge: "150" "g".
 Zutat: "Kaese gerieben" Menge: "250" "g".
@@ -52,10 +52,10 @@ Zutat: "Mehl" Menge: "250" "g".
 Zutat: "Butter" Menge: "125" "g".
 Zutat: "brauner Zucker" Menge: "125" "g".
 Zutat: "Eier" Menge: "3" "Stück".
-Zutat: "Vanillearoma" Menge: "0.5" "Teeloeffel".
-Zutat: "Salz" Menge: "0.25" "Teeloeffel".
-Zutat: "Zimt"  Menge: "1" "Teeloeffel".
-Zutat: "granulierter Zucker" Menge: "1" "Tasse".
+Zutat: "Vanillearoma" Menge: "0.5" "Teelöffel".
+Zutat: "Salz" Menge: "0.25" "Teelöffel".
+Zutat: "Zimt"  Menge: "1" "Teelöffel".
+Zutat: "granulierter Zucker" Menge: "1" "Tasse(n)".
 Zutat: "Marmelade"  "nach Bedarf".
 
 Aktion: "Butter im Topf auf kleinster Stufe zergehen lassen und sofort wieder runter vom Herd."

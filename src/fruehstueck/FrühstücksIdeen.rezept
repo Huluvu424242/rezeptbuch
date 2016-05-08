@@ -1,5 +1,5 @@
 Rezeptliste "Frühstücks Ideen" ; 
-import produkte "../Commons/ProdukteEdeka.rezept" ;
+import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
 
 
 
@@ -18,14 +18,14 @@ Zutat: "Schnittlauch" Menge: "5" "Stück".
 Zutat: "Blattsalat" "etwas".
 Zutat: "Cocktail Tomaten" "etwas".
 Zutat: "Gemüsebrühe" Menge: "50" "ml".
-Zutat: "Senf" Menge: "0.5" "Teeloeffel".
-Zutat: "Essig" Menge: "2" "Teeloeffel".
-Zutat: "Gemischte Kräuter" Menge: "1" "Teeloeffel".
-Zutat: "Öl" Menge: "1" "Teeloeffel".
+Zutat: "Senf" Menge: "0.5" "Teelöffel".
+Zutat: "Essig" Menge: "2" "Teelöffel".
+Zutat: "Gemischte Kräuter" Menge: "1" "Teelöffel".
+Zutat: "Öl" Menge: "1" "Teelöffel".
 Zutat: "Salz" Menge: "1" "Prise".
 Zutat: "Pfeffer" Menge: "1" "Prise".
 Zutat: "Zucker" Menge: "1" "Prise".
-Zutat: "Schwarzbrot" Menge: "1" "Scheibe".
+Zutat: "Schwarzbrot" Menge: "1" "Scheibe(n)".
 Zutat: "Kiwi" Menge: "1" "Stück".
 Zutat: "Magermilchjoghurt" Menge: "150" "g".
 
