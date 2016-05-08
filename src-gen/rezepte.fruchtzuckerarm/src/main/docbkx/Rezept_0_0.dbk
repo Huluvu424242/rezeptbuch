@@ -7,7 +7,7 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
-<title>Brownie Backmischung</title>
+<title>Schnitzelauflauf</title>
 
 <para>
 	<variablelist>
@@ -15,14 +15,18 @@
 	       <term>Tags:</term>
 		<listitem>
 		   	<para>
-Brownies
+Fruchtzuckerarm-Aufbauphase
+,
+Fleisch
+,
+Schwein
 	</para>
 	</listitem>
 	    </varlistentry>
 	 <varlistentry>
 	   <term>Quelle:</term>
 	<listitem><para>
-			überliefert von Kochunterricht in der Schule.
+			"verändert" übernommen aus: Studenten WG 'Zur alten Hippe', Reichenbachstr. Dresden.
 		</para></listitem>
 		 </varlistentry>
 		  </variablelist>
@@ -34,72 +38,44 @@ Brownies
     <para><itemizedlist>
 <listitem>
     <para>
-Zucker
-	"125"
+Schweineschnitzel
+	"6"
+	"Stück"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Speck
+	"300"
 	"g"
 </para>
     </listitem>
 <listitem>
     <para>
-Mehl
-	"100"
-	"g"
-</para>
-    </listitem>
-<listitem>
-    <para>
-gehackte Nüsse
-	"75"
-	"g"
-</para>
-    </listitem>
-<listitem>
-    <para>
-leicht gehackte Schokolade
-	"50"
-	"g"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Kakaopulver
+Gemüsezwiebel
 	"2"
-	"Esslöffel"
+	"Stück"
 </para>
     </listitem>
 <listitem>
     <para>
-Backpulver
+Kartoffel
+	"10"
+	"Stück"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Schnittkäse
+	"200"
+	"g"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Schlagsahne
 	"1"
-	"Teelöffel"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Salz
-	"0.5"
-	"Teelöffel"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Oliven
-	"20"
-	"Stück"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Butter
-	"90"
-	"g"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Eier
-	"2"
-	"Stück"
+	"Becher"
 </para>
     </listitem>
     </itemizedlist></para>
@@ -111,69 +87,87 @@ Eier
     <para><orderedlist>
 <listitem>
    	<para>
-Alles schichtenweise in ein Glas geben, beschriften, fest verschließen und dunkel und trocken lagern.
+Den Boden der Auflaufform vollständig mit Schnitzelfleisch belegen (nur eine Lage - nicht stapeln!).
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Den Speck in dünne Streifen schneiden und als neue Schicht über den Fleischscheiben verteilen.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Die Zwiebel in Ringe schneiden und diese über der Speckschicht verteilen.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Die Kartoffeln schälen und waschen. Anschließend in Scheiben scheiden und damit die obere Schicht des Auflaufes bilden.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Jetzt noch die Schlagsahne über den Auflauf ausgießen und verteilen.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Zum Abschluss den gesamten Auflauf mit den Käsescheiben belegen.
  </para>
  <note>
   <para>
- Idealerweise verschraubare Gläser verwenden, dann könnte die Haltbarkeit etwa bei 1-2 Monaten liegen.
+ Da der Käse sehr braun wird, ist es möglicherweise besser diesen erst nach 20 Minuten hinzuzugeben.
+  Wie sich die dabei erzeugte Unterbrechung des Backvorganges auswirkt ist nicht bekannt.
   </para>
  </note>
  </listitem>
 <listitem>
    	<para>
-Das Glas mit der Brownie Backmischung aus dem Lager holen und öffnen.
- </para>
- </listitem>
-<listitem>
-   	<para>
-Brownie Backmischung in eine große Schüssel geben.
- </para>
- </listitem>
-<listitem>
-   	<para>
-Die Butter und Eier hinzugeben.
- </para>
- </listitem>
-<listitem>
-   	<para>
-Verrühren bis ein glatter Teig entsteht.
- </para>
- </listitem>
-<listitem>
-   	<para>
-Den Teig auf einem gefetteten Backblech ca. 2 cm dick ausbringen.
- </para>
- </listitem>
-<listitem>
-   	<para>
-Bei 175°C etwa 30 Minuten backen.
- </para>
- <note>
-  <para>
- Im Umluftherd möglicherweise schneller fertig.
-  </para>
- </note>
- </listitem>
-<listitem>
-   	<para>
-Abkühlen lassen und viereckige Stücken schneiden.
+Den Auflauf im Umluftherd 45 Minuten bei 200 °C backen.
  </para>
  </listitem>
 </orderedlist ></para>
-<formalpara>
-     <title>Hinweise</title>
-<para>
-<note>
-	<para>Auf folgender Seite lassen sich auch Beschriftungen für die Gläser anfertigen - der Text muss halt angepasst werden
-	http://www.casa-di-falcone.de/products/Aufkleber/Aufkleber-Homemade/Aufkleber-fuer-Backmischungen-Dots.html</para>
-</note>
-</para>
-</formalpara>
 	</formalpara>
 
   <formalpara>
     <title>Einkaufsempfehlung</title>
 	<para><itemizedlist>
+	<listitem>
+	        <para>
+	"2" x
+		5 Minutensteaks vom Schwein 
+		"400" "g"
+	</para>
+	 </listitem>
+	<listitem>
+	        <para>
+	"1" x
+		Bauchspeck vom Schwein 
+		"300" "g"
+	</para>
+	 </listitem>
+	<listitem>
+	        <para>
+	"1" x
+		Emmentaler in Scheiben 
+		"200" "g"
+	</para>
+	 </listitem>
+	<listitem>
+	        <para>
+	"1" x
+		Kartoffeln festkochend 
+		"2.5" "kg"
+	</para>
+	 </listitem>
+	<listitem>
+	        <para>
+	"1" x
+		"Netz"
+		Zwiebeln 
+		"1.0" "kg"
+	</para>
+	 </listitem>
 	</itemizedlist></para>
 	</formalpara>
 

@@ -7,7 +7,7 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
-<title>Geflügelstreifen mit Gemüse und Reis</title>
+<title>Apfelkuchen</title>
 
 <para>
 	<variablelist>
@@ -15,16 +15,20 @@
 	       <term>Tags:</term>
 		<listitem>
 		   	<para>
-Geflügel
+Blech
 ,
-Zwiebel
+Apfel
+,
+Hefe
+,
+Streusel
 	</para>
 	</listitem>
 	    </varlistentry>
 	 <varlistentry>
 	   <term>Quelle:</term>
 	<listitem><para>
-			nicht angegeben
+			"verändert" übernommen aus: http://www.kochbar.de/rezept/478099/Apfelkuchen-mit-Streusel-vom-Blech.html
 		</para></listitem>
 		 </varlistentry>
 		  </variablelist>
@@ -36,88 +40,100 @@ Zwiebel
     <para><itemizedlist>
 <listitem>
     <para>
-Reis
+Mehl
+	"375"
+	"g"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Hefe
+	"1"
+	"Päckchen"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Zucker
 	"50"
 	"g"
 </para>
     </listitem>
 <listitem>
     <para>
-Putenbrustfilet
-	"200"
-	"g"
-</para>
-    </listitem>
-<listitem>
-    <para>
-	"etwas"
-Öl
-</para>
-    </listitem>
-<listitem>
-    <para>
-Frühglingszwiebeln
-	"2"
-	"Stück"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Ingwerknolle
+Vanillezucker
 	"1"
-	"Stück"
+	"Päckchen"
 </para>
     </listitem>
 <listitem>
     <para>
-Knoblauch
+Salz
 	"1"
-	"Zehe(n)"
+	"Prise"
 </para>
     </listitem>
 <listitem>
     <para>
-Tomaten
-	"2"
-	"Stück"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Broccoliröschen
-	"250"
-	"g"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Gemüsebrühe
+Milch
 	"200"
 	"ml"
 </para>
     </listitem>
 <listitem>
     <para>
-	"etwas"
-Sojasauce
+Butter
+	"75"
+	"g"
 </para>
     </listitem>
 <listitem>
     <para>
-	"etwas"
-Paprikapulver
+Äpfel
+	"2"
+	"kg"
 </para>
     </listitem>
 <listitem>
     <para>
-	"etwas"
-Currypulver
+Rum Rosinen
+	"1"
+	"Päckchen"
 </para>
     </listitem>
 <listitem>
     <para>
-	"etwas"
+Mehl
+	"300"
+	"g"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Zucker
+	"150"
+	"g"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Zimt
+	"1.5"
+	"Teelöffel"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Butter
+	"200"
+	"g"
+</para>
+    </listitem>
+<listitem>
+    <para>
 Salz
+	"1"
+	"Prise"
 </para>
     </listitem>
     </itemizedlist></para>
@@ -129,47 +145,67 @@ Salz
     <para><orderedlist>
 <listitem>
    	<para>
-Den trockenen Reis nach Packungsanweisung in Salzwasser garen.
+Äpfel schälen und in schmale Spalten schneiden.
  </para>
  </listitem>
 <listitem>
    	<para>
-Die Putenfilets in Streifen schneiden und mit 1 TL Öl knusprig anbraten.
+Mehl, Hefe, Zucker, Vanillezucker, Salz und Butter gut vermengen.
  </para>
  </listitem>
 <listitem>
    	<para>
-Die Frühlingszwiebeln klein schneiden.
+Die Milch dazugeben und zu einem glatten Hefeteig verkneten.
+ </para>
+ <note>
+  <para>
+ Wenn der Teig an den Händen klebt weiteres Mehl dazu geben.
+  </para>
+ </note>
+ </listitem>
+<listitem>
+   	<para>
+Teig ausrollen und aufs Blech legen. Anschliessend mit einer Gabel kleine Löcher in den Teig stechen.
  </para>
  </listitem>
 <listitem>
    	<para>
-Etwas Ingwer abschälen und fein würfeln.
+Nun die Apfelspalten in den Teig drücken und die Rosinen darüber streuen.
  </para>
  </listitem>
 <listitem>
    	<para>
-Beides zusammen mit der gepressten Knoblauchzehe zum Geflügel geben und andünsten.
+Jetzt bleiben 15 Minuten bevor der Teig in den Ofen darf, in der Zeit werden die Streusel hergestellt.
  </para>
  </listitem>
 <listitem>
    	<para>
-Die Tomaten würfeln.
+Für die Streusel den 2. Teil aus Mehl, Zucker, Zimt, Butter und Salz gut verkneten. Daraus ergibt sich eine streuselige Masse.
  </para>
  </listitem>
 <listitem>
    	<para>
-Die Gemüsebrühe mit den Broccoliröschen dazugeben.
+Die Streusel über den Kuchen schütten und gut verteilen.
  </para>
+ <note>
+  <para>
+ Die Streusel schützen die Apfelstücken auch vor dem Verbrennen.
+  </para>
+ </note>
  </listitem>
 <listitem>
    	<para>
-Alles garen und mit Sojasauce, Paprika- und Currypulver abschmecken.
+Das Blech im vorgeheizten Backofen auf 180 Grad ca. 20 Minuten backen.
  </para>
+ <note>
+  <para>
+ Fertig ist der Kuchen wenn man eine Metallnadel in den Teig stecken kann und nach dem raussziehen der Nadel kein Teig an ihr haftet.
+  </para>
+ </note>
  </listitem>
 <listitem>
    	<para>
-Reis als Beilage servieren.
+Auskühlen lassen und servieren.
  </para>
  </listitem>
 </orderedlist ></para>
@@ -178,6 +214,30 @@ Reis als Beilage servieren.
   <formalpara>
     <title>Einkaufsempfehlung</title>
 	<para><itemizedlist>
+	<listitem>
+	        <para>
+	"1" x
+		"Päckchen"
+		Hefeteig Garant 
+		"1" "Päckchen"
+	</para>
+	 </listitem>
+	<listitem>
+	        <para>
+	"1" x
+		"Päckchen"
+		Rum Rosinen 
+		"1" "Päckchen"
+	</para>
+	 </listitem>
+	<listitem>
+	        <para>
+	"1" x
+		"Packung"
+		Milch 
+		"1" "L"
+	</para>
+	 </listitem>
 	</itemizedlist></para>
 	</formalpara>
 

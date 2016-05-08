@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<book version="5.0" xmlns="http://docbook.org/ns/docbook"
+<book version="5.0"
+	  lang="de" 
+      xmlns="http://docbook.org/ns/docbook"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xi="http://www.w3.org/2001/XInclude">
 
@@ -7,44 +9,35 @@
     <title>Fruchtzuckerarm kochen</title>
 
 	<authorgroup>
-		    <editor>
-			  <personname>
-		    	  <firstname>Thomas </firstname>
-			      <surname>Schubert</surname>
-			  </personname>
-			      <affiliation>
-					<org>
-		    	    	<orgname>Free Software Foundation Europe</orgname>
-					</org>
-		   		  </affiliation>
-	      	  <contrib>Initiale Erstellung</contrib>
-	    	</editor>
+	<author>
+	<personname>
+	 	  <firstname>Thomas</firstname>
+	 	  <surname>Schubert</surname>
+	</personname>
+	<affiliation>
+		<org>
+	 	   	<orgname>Free Software Foundation Europe</orgname>
+		</org>
+	</affiliation>
+	<contrib>Initiale Erstellung</contrib>
+	</author>
 	</authorgroup>
 
 	<pubdate>29.06.2014</pubdate>
-
 	<legalnotice><para>GNU Free Documentation License (FDL) v1.3 und folgende Versionen</para></legalnotice>
-
-
- 	
 </info>
-
-
-
-
 
 <toc/>
 
-		<part>
-		    <title>Aufläufe</title>
-						<xi:include href="Rezept_1_1.dbk" />
-						
-		</part>
-		<part>
-		    <title>Pizza</title>
-						<xi:include href="Rezept_2_1.dbk" />
-						
-		</part>
+<part>
+    <title>Aufläufe</title>
+<xi:include href="Rezept_0_0.dbk" />
+<xi:include href="Rezept_0_1.dbk" />
+</part>
+<part>
+    <title>Pizza</title>
+<xi:include href="Rezept_1_0.dbk" />
+</part>
 
 
   <appendix>
@@ -511,5 +504,4 @@ free software license, such as the GNU General Public License,
 to permit their use in free software.
 </programlisting>
   </appendix>
-  
 </book>

@@ -7,7 +7,7 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
-<title>Kartoffelbrei mit Bulette</title>
+<title>Einfache Kekse</title>
 
 <para>
 	<variablelist>
@@ -15,9 +15,9 @@
 	       <term>Tags:</term>
 		<listitem>
 		   	<para>
-Fleisch
+Plätzchen
 ,
-Milch
+Kekse
 	</para>
 	</listitem>
 	    </varlistentry>
@@ -36,51 +36,37 @@ Milch
     <para><itemizedlist>
 <listitem>
     <para>
-Milch
-	"0.5"
-	"L"
+Zucker
+	"250"
+	"g"
 </para>
     </listitem>
 <listitem>
     <para>
-Butter (Rama)
-	"1"
-	"Esslöffel"
+Butter
+	"250"
+	"g"
 </para>
     </listitem>
 <listitem>
     <para>
-Kartoffelpüree
+Mehl
+	"500"
+	"g"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Eier
 	"2"
-	"Tüte(n)"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Wasser
-	"1"
-	"L"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Buletten
-	"4"
 	"Stück"
 </para>
     </listitem>
 <listitem>
     <para>
-Zigeunersosse
-	"500"
-	"ml"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Salz
-	"1"
-	"Prise"
+Vanillezucker
+	"2"
+	"Packung(en)"
 </para>
     </listitem>
     </itemizedlist></para>
@@ -92,30 +78,22 @@ Salz
     <para><orderedlist>
 <listitem>
    	<para>
-Die fertige Zigeunersosse in einen kleinen Topf geben.
+Alle Zutaten vermengen und zu einem Teig verkneten.
  </para>
  </listitem>
 <listitem>
    	<para>
-Die Buletten zur Sosse geben und den Topf auf Stufe 1 (E-Herd) ca. 
-30 Minuten erwärmen, so dass die Buletten auch innen warm sind.
+Den Teig ausrollen.
  </para>
  </listitem>
 <listitem>
    	<para>
-Das Wasser mit einer Prise Salz in einen Topf geben und zum Kochen 
-bringen (E-Herd Stufe III).
+Kekse ausstechen und auf gefettetes Blech legen.
  </para>
  </listitem>
 <listitem>
    	<para>
-Wenn das Wasser kocht, vom Herd nehmen. Dann Milch, Butter und die 
-das Kartoffelpüree einrühren. Kurz durchrühren bis alles glatt ist.
- </para>
- </listitem>
-<listitem>
-   	<para>
-Servieren.
+10 Minuten backen.
  </para>
  </listitem>
 </orderedlist ></para>

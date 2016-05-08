@@ -7,7 +7,7 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
-<title>Brownie Backmischung</title>
+<title>Bauern Frühstück</title>
 
 <para>
 	<variablelist>
@@ -15,14 +15,18 @@
 	       <term>Tags:</term>
 		<listitem>
 		   	<para>
-Brownies
+Schwein
+,
+Fleisch
+,
+Milch
 	</para>
 	</listitem>
 	    </varlistentry>
 	 <varlistentry>
 	   <term>Quelle:</term>
 	<listitem><para>
-			überliefert von Kochunterricht in der Schule.
+			"verändert" übernommen aus: http://www.kochbar.de/rezept/anzeigen/druck/id/86049/personen/3
 		</para></listitem>
 		 </varlistentry>
 		  </variablelist>
@@ -34,72 +38,62 @@ Brownies
     <para><itemizedlist>
 <listitem>
     <para>
-Zucker
-	"125"
+Kartoffeln
+	"750"
 	"g"
 </para>
     </listitem>
 <listitem>
     <para>
-Mehl
-	"100"
-	"g"
-</para>
-    </listitem>
-<listitem>
-    <para>
-gehackte Nüsse
-	"75"
-	"g"
-</para>
-    </listitem>
-<listitem>
-    <para>
-leicht gehackte Schokolade
-	"50"
-	"g"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Kakaopulver
-	"2"
-	"Esslöffel"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Backpulver
-	"1"
-	"Teelöffel"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Salz
-	"0.5"
-	"Teelöffel"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Oliven
-	"20"
-	"Stück"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Butter
-	"90"
+Durchwachsener Speck
+	"80"
 	"g"
 </para>
     </listitem>
 <listitem>
     <para>
 Eier
+	"3"
+	"Stück"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Milch
+	"3"
+	"Esslöffel"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Schinkenwürfel
+	"125"
+	"g"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Tomaten
 	"2"
 	"Stück"
+</para>
+    </listitem>
+<listitem>
+    <para>
+	"nach Bedarf"
+Schnittlauch
+</para>
+    </listitem>
+<listitem>
+    <para>
+	"nach Bedarf"
+Pfeffer
+</para>
+    </listitem>
+<listitem>
+    <para>
+	"nach Bedarf"
+Salz
 </para>
     </listitem>
     </itemizedlist></para>
@@ -111,64 +105,42 @@ Eier
     <para><orderedlist>
 <listitem>
    	<para>
-Alles schichtenweise in ein Glas geben, beschriften, fest verschließen und dunkel und trocken lagern.
- </para>
- <note>
-  <para>
- Idealerweise verschraubare Gläser verwenden, dann könnte die Haltbarkeit etwa bei 1-2 Monaten liegen.
-  </para>
- </note>
- </listitem>
-<listitem>
-   	<para>
-Das Glas mit der Brownie Backmischung aus dem Lager holen und öffnen.
+Kartoffeln kochen und kalt werden lassen.
  </para>
  </listitem>
 <listitem>
    	<para>
-Brownie Backmischung in eine große Schüssel geben.
+Kartoffeln in Scheiben schneiden und Speck klein würfeln.
  </para>
  </listitem>
 <listitem>
    	<para>
-Die Butter und Eier hinzugeben.
+Speck in der Pfanne anbraten, Kartoffeln dazugeben, salzen und
+hellbraun rösten.
  </para>
  </listitem>
 <listitem>
    	<para>
-Verrühren bis ein glatter Teig entsteht.
+Eier, Milch und Salz verquirlen und mit den Schinkenwürfeln vermischen.
  </para>
  </listitem>
 <listitem>
    	<para>
-Den Teig auf einem gefetteten Backblech ca. 2 cm dick ausbringen.
+Tomaten abziehen, klein schneiden und in die Eiermilch geben.
  </para>
  </listitem>
 <listitem>
    	<para>
-Bei 175°C etwa 30 Minuten backen.
+Die gesamte Milch-Mischung über die Kartoffeln geben und braten
+bis es fest wird.
  </para>
- <note>
-  <para>
- Im Umluftherd möglicherweise schneller fertig.
-  </para>
- </note>
  </listitem>
 <listitem>
    	<para>
-Abkühlen lassen und viereckige Stücken schneiden.
+Abschließend mit Schnittlauch verfeinern und servieren.
  </para>
  </listitem>
 </orderedlist ></para>
-<formalpara>
-     <title>Hinweise</title>
-<para>
-<note>
-	<para>Auf folgender Seite lassen sich auch Beschriftungen für die Gläser anfertigen - der Text muss halt angepasst werden
-	http://www.casa-di-falcone.de/products/Aufkleber/Aufkleber-Homemade/Aufkleber-fuer-Backmischungen-Dots.html</para>
-</note>
-</para>
-</formalpara>
 	</formalpara>
 
   <formalpara>

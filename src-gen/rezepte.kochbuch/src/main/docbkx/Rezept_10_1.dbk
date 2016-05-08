@@ -7,85 +7,95 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
-<title>Nudeln mit Tomatensosse</title>
+<title>Eisbein</title>
 
 <para>
 	<variablelist>
-      <varlistentry>
-        <term>Tags:</term>
+	     <varlistentry>
+	       <term>Tags:</term>
 		<listitem>
-	    	<para>
-						Nudeln
-			</para>
-		</listitem>
-      </varlistentry>
-	  <varlistentry>
-	    <term>Quelle:</term>
-		<listitem><para>
-							überliefert von Thomas Schubert
+		   	<para>
+Schwein
+,
+Fett
+	</para>
+	</listitem>
+	    </varlistentry>
+	 <varlistentry>
+	   <term>Quelle:</term>
+	<listitem><para>
+			"verändert" übernommen aus: http://www.kochbar.de/rezept/361082/Eisbein-gekocht.html
 		</para></listitem>
-	  </varlistentry>
-    </variablelist>
+		 </varlistentry>
+		  </variablelist>
 </para>
 
 <formalpara>
 	<title>Zutaten</title>
 
     <para><itemizedlist>
-		<listitem>
-          <para>
-			Fleischwurst 
-						325.0 g
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Spaghetti 
-						500.0 g
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Gemüsezwiebel 
-						1.0 Stück
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Tomatenmark 
-						6.0 Esslöffel
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Geriebener Käse 
-						1.0 Tüte(n)
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Sonnenblumenöl 
-						3.0 Esslöffel
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-						nach Bedarf 
-			Spaghetti Gewürz 
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Salz 
-						1.0 Prise
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Wasser 
-						600.0 ml
-		  </para>
-        </listitem>
+<listitem>
+    <para>
+Eisbein
+	"2"
+	"Stück"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Möhren
+	"1"
+	"Stück"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Zwiebel
+	"1"
+	"Stück"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Lorbeerblätter
+	"5"
+	"Stück"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Piment
+	"5"
+	"Stück"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Wachholderbeeren
+	"5"
+	"Stück"
+</para>
+    </listitem>
+<listitem>
+    <para>
+	"nach Bedarf"
+Salz
+</para>
+    </listitem>
+<listitem>
+    <para>
+Sauerkraut
+	"1"
+	"kg"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Kartoffeln
+	"1"
+	"kg"
+</para>
+    </listitem>
     </itemizedlist></para>
   </formalpara>
 
@@ -93,108 +103,49 @@
     <title>Arbeitsschritte</title>
 
     <para><orderedlist>
-		<listitem>
-          <para>
-			Eine Pfanne mit ein wenig Öl erhitzen (E-Herd Stufe III).
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			In der Zwischenzeit die Fleischwurst in kleine Stifte oder Würfel schneiden.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Die Zwiebel in Würfeln schneiden.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Fleischwurst in die Pfanne geben und braten bis sie eine gold braune
-Färbung annimmt.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Wenn die Wurst gold braun gebraten ist wird die gewürfelte Zwiebel zugegeben.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Nun solange braten bis auch die Zwiebel gold braun ist.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Jetzt geben wir 200 ml Wasser zum ablöschen hinzu.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Anschließend geben wir das Tomatenmark und 400 ml Wasser hinzu, verrühren alles gut und lassen es kurz aufkochen.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Ab jetzt die Sosse auf Stufe 1 warmhalten.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Die Nudeln zubereiten indem wir einen Topf 3/4 mit Wasser füllen, 
-eine Prise Salz zugeben und die Nudeln hineinlegen (E-Herd Stufe 3).
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Nach dem Aufkochen werden die Nudeln weiter auf Stufe 2 gekocht bis sie gar sind.
-		  </para>
-		  <note>
-			  <para>
-				Nudeln sind gar wenn sie gegen eine glatte senkrechte Fläche gewurfen nicht abfallen.
-			  </para>
-		  </note>
-        </listitem>
-		<listitem>
-          <para>
-			Nudeln abschrecken. Dazu wird der Topf vom Herd genommen und das Wasser abgegossen
-(dekantieren indem man den Deckel etwas verschiebt). Anschließend Topf und Nudel mit
-kaltem Wasser auffüllen und wieder abgiessen.
-		  </para>
-		  <note>
-			  <para>
-				Einfach nur in den Topf schauen reicht nicht - egal wie man aussieht :)
-			  </para>
-		  </note>
-        </listitem>
-    </orderedlist ></para>
-
-		<formalpara>
-	      <title>Hinweise</title>
-		  <para>
-				<note>
-	          		<para>Durch Zugabe von Instant Suppenpulver (Gemüsebrühe) erhalten die
-				Nudeln beim Kochen einen würzigeren Geschmack und kleben 
-				nach dem Abschrecken nicht so.</para>
-		        </note>
-				<note>
-	          		<para>Sollten die Nudel zu stark kleben, kann man nach dem Abschrecken
-				etwas Butter hinzugeben. Dadurch wird das weitere Kleben 
-				verhindert.</para>
-		        </note>
- 		  </para>
-	    </formalpara>
-  </formalpara>
+<listitem>
+   	<para>
+Eisbeine in einen Topf geben und mit 2 Liter Wasser auffüllen.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Zwiebel und Möhren klein schneiden in den Topf geben.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Gewürze hinzufügen und kräftig salzen.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Alles zusammen erhitzen und so lange kochen bis sich das Fleisch löst (ca. 3 Stunden).
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Das Sauerkraut ca. 10 Minuten auf kleiner Flamme erwärmen.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Kartoffeln kochen.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Sehr heiß mit viel Senf servieren.
+ </para>
+ </listitem>
+</orderedlist ></para>
+	</formalpara>
 
   <formalpara>
     <title>Einkaufsempfehlung</title>
-
-		<para>
-			Keine verfügbar.
-		</para>
-  </formalpara>
+	<para><itemizedlist>
+	</itemizedlist></para>
+	</formalpara>
 
 
 </chapter>
-
-   

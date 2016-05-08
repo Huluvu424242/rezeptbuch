@@ -7,87 +7,102 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
-<title>Eisbein</title>
+<title>Beamten Stippe</title>
 
 <para>
 	<variablelist>
-      <varlistentry>
-        <term>Tags:</term>
+	     <varlistentry>
+	       <term>Tags:</term>
 		<listitem>
-	    	<para>
-						Schwein
-					,
-						Fett
-			</para>
-		</listitem>
-      </varlistentry>
-	  <varlistentry>
-	    <term>Quelle:</term>
-		<listitem><para>
-							verändert übernommen aus: http://www.kochbar.de/rezept/361082/Eisbein-gekocht.html
+		   	<para>
+Schwein
+,
+Kartoffel
+,
+Fleisch
+,
+Milch
+	</para>
+	</listitem>
+	    </varlistentry>
+	 <varlistentry>
+	   <term>Quelle:</term>
+	<listitem><para>
+			"verändert" übernommen aus: Mitteldeutsche Küche - So kochen wir in Sachsen-Anhalt ISBN: 3-930383-25-X
 		</para></listitem>
-	  </varlistentry>
-    </variablelist>
+		 </varlistentry>
+		  </variablelist>
 </para>
 
 <formalpara>
 	<title>Zutaten</title>
 
     <para><itemizedlist>
-		<listitem>
-          <para>
-			Eisbein 
-						2.0 Stück
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Möhren 
-						1.0 Stück
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Zwiebel 
-						1.0 Stück
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Lorbeerblätter 
-						5.0 Stück
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Piment 
-						5.0 Stück
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Wachholderbeeren 
-						5.0 Stück
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-						nach Bedarf 
-			Salz 
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Sauerkraut 
-						1.0 kg
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Kartoffeln 
-						1.0 kg
-		  </para>
-        </listitem>
+<listitem>
+    <para>
+Hackfleisch gemischt
+	"500"
+	"g"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Zwiebeln
+	"1"
+	"Stück"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Gemüsebrühe
+	"400"
+	"ml"
+</para>
+    </listitem>
+<listitem>
+    <para>
+	"nach Bedarf"
+Dunkle Mehlschwitze
+</para>
+    </listitem>
+<listitem>
+    <para>
+	"nach Bedarf"
+Kümmel
+</para>
+    </listitem>
+<listitem>
+    <para>
+	"nach Bedarf"
+Pfeffer
+</para>
+    </listitem>
+<listitem>
+    <para>
+	"nach Bedarf"
+Salz
+</para>
+    </listitem>
+<listitem>
+    <para>
+Kartoffeln (festkochend)
+	"500"
+	"g"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Milch
+	"250"
+	"ml"
+</para>
+    </listitem>
+<listitem>
+    <para>
+	"etwas"
+Muskat
+</para>
+    </listitem>
     </itemizedlist></para>
   </formalpara>
 
@@ -95,54 +110,59 @@
     <title>Arbeitsschritte</title>
 
     <para><orderedlist>
-		<listitem>
-          <para>
-			Eisbeine in einen Topf geben und mit 2 Liter Wasser auffüllen.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Zwiebel und Möhren klein schneiden in den Topf geben.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Gewürze hinzufügen und kräftig salzen.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Alles zusammen erhitzen und so lange kochen bis sich das Fleisch löst (ca. 3 Stunden).
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Das Sauerkraut ca. 10 Minuten auf kleiner Flamme erwärmen.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Kartoffeln kochen.
-		  </para>
-        </listitem>
-		<listitem>
-          <para>
-			Sehr heiß mit viel Senf servieren.
-		  </para>
-        </listitem>
-    </orderedlist ></para>
-
-  </formalpara>
+<listitem>
+   	<para>
+Kartoffeln kochen, abgießen und mit der Milch zum Kartoffelbrei unter rühren verkochen.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Muskat nach Belieben unter den Brei heben.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+400 ml Gemüsebrühe zum Kochen bringen.
+ </para>
+ <note>
+  <para>
+ Gedacht um Reste einer Brühe zu verarbeiten, mit Instant Brühe geht es aber auch.
+  </para>
+ </note>
+ </listitem>
+<listitem>
+   	<para>
+Die Zwiebel würfeln und gemeinsam mit dem Hackfleisch zur Brühe geben.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Kurz aufkochen bis das Hackfleisch gut durch und grau ist - sollte maximal 5 Minuten dauern.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Mit Kümmel, Salz und Pfeffer abschmecken.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Überschüssiges Wasser mit dunkler Mehlschwitze abbinden und erneut aufkochen.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Servieren.
+ </para>
+ </listitem>
+</orderedlist ></para>
+	</formalpara>
 
   <formalpara>
     <title>Einkaufsempfehlung</title>
-
-		<para>
-			Keine verfügbar.
-		</para>
-  </formalpara>
+	<para><itemizedlist>
+	</itemizedlist></para>
+	</formalpara>
 
 
 </chapter>
-
-   

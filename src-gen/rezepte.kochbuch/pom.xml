@@ -113,12 +113,12 @@
 						<id>generate-output</id>
 						<phase>pre-site</phase>
 						<goals>
-							<goal>generate-pdf</goal>
 							<goal>generate-webhelp</goal>
+							<goal>generate-epub</goal>
 							<!--goal>generate-html</goal>
+							<goal>generate-pdf</goal>
 							<goal>generate-javahelp</goal>
 							<goal>generate-rtf</goal>
-							<goal>generate-epub</goal>
 							<goal>generate-html</goal>
 							<goal>generate-xhtml</goal>
 							<goal>generate-manpages</goal>
@@ -148,6 +148,8 @@
 					<sectionAutolabel>true</sectionAutolabel>
 					<sectionAutolabelMaxDepth>3</sectionAutolabelMaxDepth>
 					<sectionLabelIncludesComponentLabel>2</sectionLabelIncludesComponentLabel>
+					<authorOthernameInMiddle>true</authorOthernameInMiddle>
+					<epubAutolabel>1</epubAutolabel>
 				</configuration>
 				<dependencies>
 					<!--dependency>

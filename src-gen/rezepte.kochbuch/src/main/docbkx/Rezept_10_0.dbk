@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:ns5="http://www.w3.org/2000/svg"
+         xmlns:ns4="http://www.w3.org/1998/Math/MathML"
+         xmlns:ns3="http://www.w3.org/1999/xhtml"
+         xmlns:db="http://docbook.org/ns/docbook">
+ 
+<title>Jägerschnitzel</title>
+
+<para>
+	<variablelist>
+	     <varlistentry>
+	       <term>Tags:</term>
+		<listitem>
+		   	<para>
+Nudeln
+,
+Jagdwurst
+,
+Tomate
+	</para>
+	</listitem>
+	    </varlistentry>
+	 <varlistentry>
+	   <term>Quelle:</term>
+	<listitem><para>
+			"verändert" übernommen aus: http://www.kochbar.de/rezept/369345/altes-DDR-Rezept-Jaegerschnitzel.html
+		</para></listitem>
+		 </varlistentry>
+		  </variablelist>
+</para>
+
+<formalpara>
+	<title>Zutaten</title>
+
+    <para><itemizedlist>
+<listitem>
+    <para>
+Spirelli (Fussili)
+	"1"
+	"Tüte(n)"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Jagdwurst
+	"2"
+	"Scheibe(n)"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Eier
+	"2"
+	"Stück"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Paniermehl
+	"1"
+	"Tüte(n)"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Tomaten passiert
+	"1"
+	"Dose(n)"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Tomatenmark
+	"5"
+	"Esslöffel"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Zwiebeln
+	"3"
+	"Stück"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Braten Fond
+	"200"
+	"ml"
+</para>
+    </listitem>
+<listitem>
+    <para>
+	"nach Bedarf"
+Sanella
+</para>
+    </listitem>
+    </itemizedlist></para>
+  </formalpara>
+
+  <formalpara>
+    <title>Arbeitsschritte</title>
+
+    <para><orderedlist>
+<listitem>
+   	<para>
+Die Zwiebeln in feine Stücke hacken.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Nudeln im Salzwasser zum Kochen aufsetzen.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Für die Sosse die Zwiebeln in einen Topf geben und mit Sanella goldgelb braten.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Die Zwiebeln mit den passierten Tomaten ablöschen, den Bratenfond unterrühren,
+ das Tomatenmark zugeben und aufkochen.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Fleischwurst in die Pfanne geben und braten bis sie eine gold braune
+Färbung annimmt.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Die Sosse mit Basilikum würzen und auf niedrigster Stufe köcheln lassen.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Die Jadwurstscheiben panieren und beidseitig braten und servieren 
+(Sie sollten zeitgleich mit den Nudeln fertig werden).
+ </para>
+ </listitem>
+</orderedlist ></para>
+	</formalpara>
+
+  <formalpara>
+    <title>Einkaufsempfehlung</title>
+	<para><itemizedlist>
+	<listitem>
+	        <para>
+	"1" x
+		"Glas"
+		Braten Fond 
+		"400" "ml"
+	</para>
+	 </listitem>
+	</itemizedlist></para>
+	</formalpara>
+
+<formalpara>
+  <title>Bilder</title>
+
+	<para>
+	<inlinemediaobject>		
+		<alt>Vorbereitung</alt>	
+		      <imageobject>
+			<info>
+				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
+				<author>
+					<personname>
+								<othername>Huluvu424242 (Thomas Schubert)</othername>
+					</personname>
+				</author>
+					</info>
+			<imagedata contentwidth="2in"
+				fileref="https://farm6.staticflickr.com/5513/10244038744_47054da933_b_d.jpg">
+			</imagedata>
+		</imageobject>
+		<!-- alternative beschreibung auf rein textbasierten Systemen -->
+		<textobject>
+			<phrase>Vorbereitung</phrase>
+		</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class='copyright'/>
+		<author>
+			<personname>
+				<othername>Huluvu424242 (Thomas Schubert)</othername>
+			</personname>
+		</author>
+		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
+	</para></footnote>
+	<inlinemediaobject>		
+		<alt>Panieren</alt>	
+		      <imageobject>
+			<info>
+				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
+				<author>
+					<personname>
+								<othername>Huluvu424242 (Thomas Schubert)</othername>
+					</personname>
+				</author>
+					</info>
+			<imagedata contentwidth="2in"
+				fileref="https://farm8.staticflickr.com/7438/10244134525_a2e714e832_b_d.jpg">
+			</imagedata>
+		</imageobject>
+		<!-- alternative beschreibung auf rein textbasierten Systemen -->
+		<textobject>
+			<phrase>Panieren</phrase>
+		</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class='copyright'/>
+		<author>
+			<personname>
+				<othername>Huluvu424242 (Thomas Schubert)</othername>
+			</personname>
+		</author>
+		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
+	</para></footnote>
+	<inlinemediaobject>		
+		<alt>Gerade angesetzt</alt>	
+		      <imageobject>
+			<info>
+				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
+				<author>
+					<personname>
+								<othername>Huluvu424242 (Thomas Schubert)</othername>
+					</personname>
+				</author>
+					</info>
+			<imagedata contentwidth="2in"
+				fileref="https://farm4.staticflickr.com/3803/10244237373_2b3ac9d171_b_d.jpg">
+			</imagedata>
+		</imageobject>
+		<!-- alternative beschreibung auf rein textbasierten Systemen -->
+		<textobject>
+			<phrase>Gerade angesetzt</phrase>
+		</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class='copyright'/>
+		<author>
+			<personname>
+				<othername>Huluvu424242 (Thomas Schubert)</othername>
+			</personname>
+		</author>
+		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
+	</para></footnote>
+	<inlinemediaobject>		
+		<alt>Fast fertig</alt>	
+		      <imageobject>
+			<info>
+				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
+				<author>
+					<personname>
+								<othername>Huluvu424242 (Thomas Schubert)</othername>
+					</personname>
+				</author>
+					</info>
+			<imagedata contentwidth="2in"
+				fileref="https://farm9.staticflickr.com/8120/10244048554_91d6230590_b_d.jpg">
+			</imagedata>
+		</imageobject>
+		<!-- alternative beschreibung auf rein textbasierten Systemen -->
+		<textobject>
+			<phrase>Fast fertig</phrase>
+		</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class='copyright'/>
+		<author>
+			<personname>
+				<othername>Huluvu424242 (Thomas Schubert)</othername>
+			</personname>
+		</author>
+		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
+	</para></footnote>
+	<inlinemediaobject>		
+		<alt>Servieren</alt>	
+		      <imageobject>
+			<info>
+				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
+				<author>
+					<personname>
+								<othername>Huluvu424242 (Thomas Schubert)</othername>
+					</personname>
+				</author>
+					</info>
+			<imagedata contentwidth="2in"
+				fileref="https://farm6.staticflickr.com/5495/10244139385_9066ebb4e8_b_d.jpg">
+			</imagedata>
+		</imageobject>
+		<!-- alternative beschreibung auf rein textbasierten Systemen -->
+		<textobject>
+			<phrase>Servieren</phrase>
+		</textobject>
+	</inlinemediaobject>
+	<footnote><para>
+		<trademark class='copyright'/>
+		<author>
+			<personname>
+				<othername>Huluvu424242 (Thomas Schubert)</othername>
+			</personname>
+		</author>
+		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
+	</para></footnote>
+	</para>
+
+  </formalpara>
+
+</chapter>

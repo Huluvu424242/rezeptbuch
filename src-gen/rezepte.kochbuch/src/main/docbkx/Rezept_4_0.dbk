@@ -7,7 +7,7 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
-<title>Brownie Backmischung</title>
+<title>Krabben Rührei</title>
 
 <para>
 	<variablelist>
@@ -15,14 +15,14 @@
 	       <term>Tags:</term>
 		<listitem>
 		   	<para>
-Brownies
+Ei
 	</para>
 	</listitem>
 	    </varlistentry>
 	 <varlistentry>
 	   <term>Quelle:</term>
 	<listitem><para>
-			überliefert von Kochunterricht in der Schule.
+			"verändert" übernommen aus: Weight Watchers
 		</para></listitem>
 		 </varlistentry>
 		  </variablelist>
@@ -34,64 +34,15 @@ Brownies
     <para><itemizedlist>
 <listitem>
     <para>
-Zucker
-	"125"
-	"g"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Mehl
-	"100"
-	"g"
-</para>
-    </listitem>
-<listitem>
-    <para>
-gehackte Nüsse
-	"75"
-	"g"
-</para>
-    </listitem>
-<listitem>
-    <para>
-leicht gehackte Schokolade
-	"50"
-	"g"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Kakaopulver
+Tomaten
 	"2"
-	"Esslöffel"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Backpulver
-	"1"
-	"Teelöffel"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Salz
-	"0.5"
-	"Teelöffel"
-</para>
-    </listitem>
-<listitem>
-    <para>
-Oliven
-	"20"
 	"Stück"
 </para>
     </listitem>
 <listitem>
     <para>
-Butter
-	"90"
+Krabben
+	"100"
 	"g"
 </para>
     </listitem>
@@ -100,6 +51,102 @@ Butter
 Eier
 	"2"
 	"Stück"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Schnittlauch
+	"5"
+	"Stück"
+</para>
+    </listitem>
+<listitem>
+    <para>
+	"etwas"
+Blattsalat
+</para>
+    </listitem>
+<listitem>
+    <para>
+	"etwas"
+Cocktail Tomaten
+</para>
+    </listitem>
+<listitem>
+    <para>
+Gemüsebrühe
+	"50"
+	"ml"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Senf
+	"0.5"
+	"Teelöffel"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Essig
+	"2"
+	"Teelöffel"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Gemischte Kräuter
+	"1"
+	"Teelöffel"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Öl
+	"1"
+	"Teelöffel"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Salz
+	"1"
+	"Prise"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Pfeffer
+	"1"
+	"Prise"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Zucker
+	"1"
+	"Prise"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Schwarzbrot
+	"1"
+	"Scheibe(n)"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Kiwi
+	"1"
+	"Stück"
+</para>
+    </listitem>
+<listitem>
+    <para>
+Magermilchjoghurt
+	"150"
+	"g"
 </para>
     </listitem>
     </itemizedlist></para>
@@ -111,64 +158,50 @@ Eier
     <para><orderedlist>
 <listitem>
    	<para>
-Alles schichtenweise in ein Glas geben, beschriften, fest verschließen und dunkel und trocken lagern.
- </para>
- <note>
-  <para>
- Idealerweise verschraubare Gläser verwenden, dann könnte die Haltbarkeit etwa bei 1-2 Monaten liegen.
-  </para>
- </note>
- </listitem>
-<listitem>
-   	<para>
-Das Glas mit der Brownie Backmischung aus dem Lager holen und öffnen.
+Die Tomaten würfeln und mit den Krabben und 1 Teelöffel Öl andünsten.
  </para>
  </listitem>
 <listitem>
    	<para>
-Brownie Backmischung in eine große Schüssel geben.
+Die Eier mit etwas Wasser verquirlen, dazu geben und zu einem Rührei stocken lassen.
  </para>
  </listitem>
 <listitem>
    	<para>
-Die Butter und Eier hinzugeben.
+Den geschnittenen Schnittlauch darüber streuen und mit Salz und Pfeffer abschmecken.
  </para>
  </listitem>
 <listitem>
    	<para>
-Verrühren bis ein glatter Teig entsteht.
+Den Blatsalat in mundgerechte Stücke zupfen.
  </para>
  </listitem>
 <listitem>
    	<para>
-Den Teig auf einem gefetteten Backblech ca. 2 cm dick ausbringen.
+Die Cocktailtomaten halbieren.
  </para>
  </listitem>
 <listitem>
    	<para>
-Bei 175°C etwa 30 Minuten backen.
+Aus der Gemüsebrühe (1 Prise Instantpulver) zusammen mit Senf, Essig, gemischten Kräutern, Salz, Pfeffer und der Prise Zucker ein Dressing anrühren.
  </para>
- <note>
-  <para>
- Im Umluftherd möglicherweise schneller fertig.
-  </para>
- </note>
  </listitem>
 <listitem>
    	<para>
-Abkühlen lassen und viereckige Stücken schneiden.
+Das fertige Dressing zum Salat geben und vermengen.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Die Kiwi abschälen, würfeln und mit dem Youghurt vermischen.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Alles zusammen mit einer Scheibe Schwarzbrot servieren.
  </para>
  </listitem>
 </orderedlist ></para>
-<formalpara>
-     <title>Hinweise</title>
-<para>
-<note>
-	<para>Auf folgender Seite lassen sich auch Beschriftungen für die Gläser anfertigen - der Text muss halt angepasst werden
-	http://www.casa-di-falcone.de/products/Aufkleber/Aufkleber-Homemade/Aufkleber-fuer-Backmischungen-Dots.html</para>
-</note>
-</para>
-</formalpara>
 	</formalpara>
 
   <formalpara>
