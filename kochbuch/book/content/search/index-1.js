@@ -648,6 +648,7 @@ w["fit"]="7";
 w["five"]="7";
 w["flamm"]="3,24";
 w["fleisch"]="10,11,13,24,25,27,31,34";
+w["fleischlo"]="3";
 w["fleischscheiben"]="13";
 w["fleischtom"]="3";
 w["fleischwurst"]="0,4";

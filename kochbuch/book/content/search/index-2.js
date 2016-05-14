@@ -664,4 +664,5 @@ w["portion"]="7";
 w["posit"]="7";
 w["possess"]="7";
 w["postscript"]="7";
+w["preambl"]="7";
 

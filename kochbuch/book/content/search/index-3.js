@@ -1,5 +1,4 @@
 //Auto generated index for searching.
-w["preambl"]="7";
 w["preced"]="7";
 w["precis"]="7";
 w["present"]="7";
@@ -443,6 +442,7 @@ w["vanillearoma"]="32";
 w["vanillezuck"]="6,16";
 w["varieti"]="7";
 w["various"]="7";
+w["vegtarisch"]="3";
 w["verarbeiten"]="34";
 w["verbatim"]="7";
 w["verbesserungen"]="12";
