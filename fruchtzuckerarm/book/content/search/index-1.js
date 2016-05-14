@@ -308,4 +308,5 @@ w["everyon"]="1";
 w["exampl"]="1";
 w["except"]="1";
 w["exchang"]="1";
+w["exclus"]="1";
 

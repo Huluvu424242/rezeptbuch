@@ -1,5 +1,4 @@
 //Auto generated index for searching.
-w["polit"]="1";
 w["porre"]="5";
 w["portion"]="1";
 w["posit"]="1";
@@ -221,6 +220,7 @@ w["use"]="1";
 w["user"]="1";
 w["varieti"]="1";
 w["various"]="1";
+w["vegtarisch"]="5";
 w["verbatim"]="1";
 w["verbleibenden"]="2";
 w["verbleibt"]="2";

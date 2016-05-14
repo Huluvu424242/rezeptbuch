@@ -1,5 +1,4 @@
 //Auto generated index for searching.
-w["exclus"]="1";
 w["exemplar"]="1";
 w["exist"]="1";
 w["explain"]="1";
@@ -22,6 +21,7 @@ w["fit"]="1";
 w["five"]="1";
 w["flamm"]="5";
 w["fleisch"]="3";
+w["fleischlo"]="5";
 w["fleischscheiben"]="3";
 w["fleischtom"]="5";
 w["flüssig"]="2";
@@ -307,4 +307,5 @@ w["place"]="1";
 w["plain"]="1";
 w["plus"]="1";
 w["png"]="1";
+w["polit"]="1";
 
