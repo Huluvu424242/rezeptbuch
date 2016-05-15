@@ -36,37 +36,37 @@ Pizza
     <para><itemizedlist>
 <listitem>
     <para>
+	500
+	g
 Mehl
-	"500"
-	"g"
 </para>
     </listitem>
 <listitem>
     <para>
+	20
+	g
 Hefe
-	"20"
-	"g"
 </para>
     </listitem>
 <listitem>
     <para>
+	200
+	ml
 lauwarmes Wasser
-	"200"
-	"ml"
 </para>
     </listitem>
 <listitem>
     <para>
+	2
+	Esslöffel
 Olivenöl
-	"2"
-	"Esslöffel"
 </para>
     </listitem>
 <listitem>
     <para>
+	1
+	Teelöffel
 Salz
-	"1"
-	"Teelöffel"
 </para>
     </listitem>
     </itemizedlist></para>
@@ -163,212 +163,234 @@ Bei 200°C im Herd backen bis der Käse vollständig zerlaufen ist (etwa 20 - 30
 	</formalpara>
 
 <formalpara>
+
   <title>Bilder</title>
 
 	<para>
-	<inlinemediaobject>		
-		<alt>Die Zutaten für den Belag</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="http://farm9.staticflickr.com/8311/8005391466_a6600886b2.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Die Zutaten für den Belag</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
-	<inlinemediaobject>		
-		<alt>Der Teig</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="http://farm9.staticflickr.com/8034/8005391084_42db2f23a6.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Der Teig</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
-	<inlinemediaobject>		
-		<alt>Ausrollen des Teiges</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="http://farm9.staticflickr.com/8314/8005390800_639a12e53b.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Ausrollen des Teiges</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
-	<inlinemediaobject>		
-		<alt>Teig anstechen</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="http://farm9.staticflickr.com/8038/8005390456_d2b69d23a6.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Teig anstechen</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
-	<inlinemediaobject>		
-		<alt>Belegen des Teiges</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="http://farm9.staticflickr.com/8295/8005390094_42fa377104.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Belegen des Teiges</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
-	<inlinemediaobject>		
-		<alt>Belegte Pizza</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="http://farm9.staticflickr.com/8309/8005386713_9d0823548d.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Belegte Pizza</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
-	<inlinemediaobject>		
-		<alt>Servierfertig</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="http://farm9.staticflickr.com/8035/8005386393_425ac77ebd.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Servierfertig</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
+	<ulink url="http://farm9.staticflickr.com/8311/8005391466_a6600886b2.jpg">
+		<inlinemediaobject>		
+			<alt>Die Zutaten für den Belag</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="http://farm9.staticflickr.com/8311/8005391466_a6600886b2.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Die Zutaten für den Belag</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+		</para>
+	</footnote>
+	<ulink url="http://farm9.staticflickr.com/8034/8005391084_42db2f23a6.jpg">
+		<inlinemediaobject>		
+			<alt>Der Teig</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="http://farm9.staticflickr.com/8034/8005391084_42db2f23a6.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Der Teig</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+		</para>
+	</footnote>
+	<ulink url="http://farm9.staticflickr.com/8314/8005390800_639a12e53b.jpg">
+		<inlinemediaobject>		
+			<alt>Ausrollen des Teiges</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="http://farm9.staticflickr.com/8314/8005390800_639a12e53b.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Ausrollen des Teiges</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+		</para>
+	</footnote>
+	<ulink url="http://farm9.staticflickr.com/8038/8005390456_d2b69d23a6.jpg">
+		<inlinemediaobject>		
+			<alt>Teig anstechen</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="http://farm9.staticflickr.com/8038/8005390456_d2b69d23a6.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Teig anstechen</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+		</para>
+	</footnote>
+	<ulink url="http://farm9.staticflickr.com/8295/8005390094_42fa377104.jpg">
+		<inlinemediaobject>		
+			<alt>Belegen des Teiges</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="http://farm9.staticflickr.com/8295/8005390094_42fa377104.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Belegen des Teiges</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+		</para>
+	</footnote>
+	<ulink url="http://farm9.staticflickr.com/8309/8005386713_9d0823548d.jpg">
+		<inlinemediaobject>		
+			<alt>Belegte Pizza</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="http://farm9.staticflickr.com/8309/8005386713_9d0823548d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Belegte Pizza</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+		</para>
+	</footnote>
+	<ulink url="http://farm9.staticflickr.com/8035/8005386393_425ac77ebd.jpg">
+		<inlinemediaobject>		
+			<alt>Servierfertig</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="http://farm9.staticflickr.com/8035/8005386393_425ac77ebd.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Servierfertig</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+		</para>
+	</footnote>
 	</para>
 
   </formalpara>

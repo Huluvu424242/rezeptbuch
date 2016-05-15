@@ -40,100 +40,100 @@ Streusel
     <para><itemizedlist>
 <listitem>
     <para>
+	375
+	g
 Mehl
-	"375"
-	"g"
 </para>
     </listitem>
 <listitem>
     <para>
+	1
+	Päckchen
 Hefe
-	"1"
-	"Päckchen"
 </para>
     </listitem>
 <listitem>
     <para>
+	50
+	g
 Zucker
-	"50"
-	"g"
 </para>
     </listitem>
 <listitem>
     <para>
+	1
+	Päckchen
 Vanillezucker
-	"1"
-	"Päckchen"
 </para>
     </listitem>
 <listitem>
     <para>
+	1
+	Prise
 Salz
-	"1"
-	"Prise"
 </para>
     </listitem>
 <listitem>
     <para>
+	200
+	ml
 Milch
-	"200"
-	"ml"
 </para>
     </listitem>
 <listitem>
     <para>
+	75
+	g
 Butter
-	"75"
-	"g"
 </para>
     </listitem>
 <listitem>
     <para>
+	2
+	kg
 Äpfel
-	"2"
-	"kg"
 </para>
     </listitem>
 <listitem>
     <para>
+	1
+	Päckchen
 Rum Rosinen
-	"1"
-	"Päckchen"
 </para>
     </listitem>
 <listitem>
     <para>
+	300
+	g
 Mehl
-	"300"
-	"g"
 </para>
     </listitem>
 <listitem>
     <para>
+	150
+	g
 Zucker
-	"150"
-	"g"
 </para>
     </listitem>
 <listitem>
     <para>
+	1.5
+	Teelöffel
 Zimt
-	"1.5"
-	"Teelöffel"
 </para>
     </listitem>
 <listitem>
     <para>
+	200
+	g
 Butter
-	"200"
-	"g"
 </para>
     </listitem>
 <listitem>
     <para>
+	1
+	Prise
 Salz
-	"1"
-	"Prise"
 </para>
     </listitem>
     </itemizedlist></para>
@@ -216,26 +216,29 @@ Auskühlen lassen und servieren.
 	<para><itemizedlist>
 	<listitem>
 	        <para>
-	"1" x
+	1 x
 		"Päckchen"
 		Hefeteig Garant 
-		"1" "Päckchen"
+		1 
+		Päckchen
 	</para>
 	 </listitem>
 	<listitem>
 	        <para>
-	"1" x
+	1 x
 		"Päckchen"
 		Rum Rosinen 
-		"1" "Päckchen"
+		1 
+		Päckchen
 	</para>
 	 </listitem>
 	<listitem>
 	        <para>
-	"1" x
+	1 x
 		"Packung"
 		Milch 
-		"1" "L"
+		1 
+		L
 	</para>
 	 </listitem>
 	</itemizedlist></para>

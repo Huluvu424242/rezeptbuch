@@ -38,78 +38,78 @@ Fleischlos
     <para><itemizedlist>
 <listitem>
     <para>
+	2
+	Stück
 Porree
-	"2"
-	"Stück"
 </para>
     </listitem>
 <listitem>
     <para>
+	500
+	g
 Broccoli
-	"500"
-	"g"
 </para>
     </listitem>
 <listitem>
     <para>
+	400
+	g
 Champignons
-	"400"
-	"g"
 </para>
     </listitem>
 <listitem>
     <para>
+	4
+	Zehe(n)
 Knoblauch
-	"4"
-	"Zehe(n)"
 </para>
     </listitem>
 <listitem>
     <para>
+	10
+	g
 Thymian
-	"10"
-	"g"
 </para>
     </listitem>
 <listitem>
     <para>
+	1
+	kg
 Schupfnudeln
-	"1"
-	"kg"
 </para>
     </listitem>
 <listitem>
     <para>
+	200
+	ml
 Milch
-	"200"
-	"ml"
 </para>
     </listitem>
 <listitem>
     <para>
+	200
+	g
 Reibekäse
-	"200"
-	"g"
 </para>
     </listitem>
 <listitem>
     <para>
+	2
+	Stück
 Fleischtomate
-	"2"
-	"Stück"
 </para>
     </listitem>
 <listitem>
     <para>
+	2
+	Teelöffel
 Mehl
-	"2"
-	"Teelöffel"
 </para>
     </listitem>
 <listitem>
     <para>
-	"etwas"
 Öl
+etwas
 </para>
     </listitem>
     </itemizedlist></para>
@@ -195,212 +195,234 @@ Den Auflauf mit Reibekäse bestreuen und 20 Minuten im Ofen backen.
 	</formalpara>
 
 <formalpara>
+
   <title>Bilder</title>
 
 	<para>
-	<inlinemediaobject>		
-		<alt>Gemüse schneiden</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="https://c2.staticflickr.com/2/1455/26466253755_1c7ce2d603_b_d.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Gemüse schneiden</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
-	<inlinemediaobject>		
-		<alt>Schupfnudeln anbraten</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="https://c2.staticflickr.com/2/1685/26193395250_b39526659b_b_d.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Schupfnudeln anbraten</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
-	<inlinemediaobject>		
-		<alt>Lauch dünsten</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="https://c2.staticflickr.com/2/1460/26373935022_8f7ec73f11_b_d.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Lauch dünsten</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
-	<inlinemediaobject>		
-		<alt>Alles sammeln</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="https://c2.staticflickr.com/2/1493/26373919372_60053db75b_b_d.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Alles sammeln</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
-	<inlinemediaobject>		
-		<alt>Auflauf vorbereiten</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="https://c2.staticflickr.com/2/1711/26400072301_d9167483fa_b_d.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Auflauf vorbereiten</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
-	<inlinemediaobject>		
-		<alt>Auflauf serviert</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="https://c2.staticflickr.com/2/1689/26400067951_799a5c6b53_o_d.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Auflauf serviert</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
-	<inlinemediaobject>		
-		<alt>Auflauf Querschnitt</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="https://c2.staticflickr.com/2/1606/26466230245_47ca0d201a_b_d.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Auflauf Querschnitt</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
-	</para></footnote>
+	<ulink url="https://c2.staticflickr.com/2/1455/26466253755_1c7ce2d603_b_d.jpg">
+		<inlinemediaobject>		
+			<alt>Gemüse schneiden</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="https://c2.staticflickr.com/2/1455/26466253755_1c7ce2d603_b_d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Gemüse schneiden</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+		</para>
+	</footnote>
+	<ulink url="https://c2.staticflickr.com/2/1685/26193395250_b39526659b_b_d.jpg">
+		<inlinemediaobject>		
+			<alt>Schupfnudeln anbraten</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="https://c2.staticflickr.com/2/1685/26193395250_b39526659b_b_d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Schupfnudeln anbraten</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+		</para>
+	</footnote>
+	<ulink url="https://c2.staticflickr.com/2/1460/26373935022_8f7ec73f11_b_d.jpg">
+		<inlinemediaobject>		
+			<alt>Lauch dünsten</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="https://c2.staticflickr.com/2/1460/26373935022_8f7ec73f11_b_d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Lauch dünsten</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+		</para>
+	</footnote>
+	<ulink url="https://c2.staticflickr.com/2/1493/26373919372_60053db75b_b_d.jpg">
+		<inlinemediaobject>		
+			<alt>Alles sammeln</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="https://c2.staticflickr.com/2/1493/26373919372_60053db75b_b_d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Alles sammeln</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+		</para>
+	</footnote>
+	<ulink url="https://c2.staticflickr.com/2/1711/26400072301_d9167483fa_b_d.jpg">
+		<inlinemediaobject>		
+			<alt>Auflauf vorbereiten</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="https://c2.staticflickr.com/2/1711/26400072301_d9167483fa_b_d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Auflauf vorbereiten</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+		</para>
+	</footnote>
+	<ulink url="https://c2.staticflickr.com/2/1689/26400067951_799a5c6b53_o_d.jpg">
+		<inlinemediaobject>		
+			<alt>Auflauf serviert</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="https://c2.staticflickr.com/2/1689/26400067951_799a5c6b53_o_d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Auflauf serviert</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+		</para>
+	</footnote>
+	<ulink url="https://c2.staticflickr.com/2/1606/26466230245_47ca0d201a_b_d.jpg">
+		<inlinemediaobject>		
+			<alt>Auflauf Querschnitt</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="https://c2.staticflickr.com/2/1606/26466230245_47ca0d201a_b_d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Auflauf Querschnitt</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License.
+		</para>
+	</footnote>
 	</para>
 
   </formalpara>

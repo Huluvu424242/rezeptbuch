@@ -36,37 +36,37 @@ Fruchtzuckerarm-Aufbauphase
     <para><itemizedlist>
 <listitem>
     <para>
+	800
+	ml
 Milch
-	"800"
-	"ml"
 </para>
     </listitem>
 <listitem>
     <para>
+	7
+	Esslöffel
 Traubenzucker
-	"7"
-	"Esslöffel"
 </para>
     </listitem>
 <listitem>
     <para>
+	1
+	Prise
 Salz
-	"1"
-	"Prise"
 </para>
     </listitem>
 <listitem>
     <para>
+	4
+	Esslöffel
 Stärke
-	"4"
-	"Esslöffel"
 </para>
     </listitem>
 <listitem>
     <para>
+	4
+	Esslöffel
 Kakao
-	"4"
-	"Esslöffel"
 </para>
     </listitem>
     </itemizedlist></para>
@@ -140,42 +140,47 @@ Ist alles untergerührt und gut durchmischt wird der Topf vom Herd genommen. Jet
 	<para><itemizedlist>
 	<listitem>
 	        <para>
-	"1" x
+	1 x
 		"Packung"
 		Milch 
-		"1" "L"
+		1 
+		L
 	</para>
 	 </listitem>
 	<listitem>
 	        <para>
-	"1" x
+	1 x
 		"Packung"
 		Stärke 
-		"250" "g"
+		250 
+		g
 	</para>
 	 </listitem>
 	<listitem>
 	        <para>
-	"1" x
+	1 x
 		"Packung"
 		Traubenzucker 
-		"1" "g"
+		1 
+		g
 	</para>
 	 </listitem>
 	<listitem>
 	        <para>
-	"1" x
+	1 x
 		"Packung"
 		Salz 
-		"500" "g"
+		500 
+		g
 	</para>
 	 </listitem>
 	<listitem>
 	        <para>
-	"1" x
+	1 x
 		"Packung"
 		Kakao 
-		"1" "g"
+		1 
+		g
 	</para>
 	 </listitem>
 	</itemizedlist></para>

@@ -38,64 +38,64 @@ Tomate
     <para><itemizedlist>
 <listitem>
     <para>
+	1
+	Tüte(n)
 Spirelli (Fussili)
-	"1"
-	"Tüte(n)"
 </para>
     </listitem>
 <listitem>
     <para>
+	2
+	Scheibe(n)
 Jagdwurst
-	"2"
-	"Scheibe(n)"
 </para>
     </listitem>
 <listitem>
     <para>
+	2
+	Stück
 Eier
-	"2"
-	"Stück"
 </para>
     </listitem>
 <listitem>
     <para>
+	1
+	Tüte(n)
 Paniermehl
-	"1"
-	"Tüte(n)"
 </para>
     </listitem>
 <listitem>
     <para>
+	1
+	Dose(n)
 Tomaten passiert
-	"1"
-	"Dose(n)"
 </para>
     </listitem>
 <listitem>
     <para>
+	5
+	Esslöffel
 Tomatenmark
-	"5"
-	"Esslöffel"
 </para>
     </listitem>
 <listitem>
     <para>
+	3
+	Stück
 Zwiebeln
-	"3"
-	"Stück"
 </para>
     </listitem>
 <listitem>
     <para>
+	200
+	ml
 Braten Fond
-	"200"
-	"ml"
 </para>
     </listitem>
 <listitem>
     <para>
-	"nach Bedarf"
 Sanella
+nach Bedarf
 </para>
     </listitem>
     </itemizedlist></para>
@@ -151,164 +151,181 @@ Die Jadwurstscheiben panieren und beidseitig braten und servieren
 	<para><itemizedlist>
 	<listitem>
 	        <para>
-	"1" x
+	1 x
 		"Glas"
 		Braten Fond 
-		"400" "ml"
+		400 
+		ml
 	</para>
 	 </listitem>
 	</itemizedlist></para>
 	</formalpara>
 
 <formalpara>
+
   <title>Bilder</title>
 
 	<para>
-	<inlinemediaobject>		
-		<alt>Vorbereitung</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242 (Thomas Schubert)</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="https://farm6.staticflickr.com/5513/10244038744_47054da933_b_d.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Vorbereitung</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242 (Thomas Schubert)</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
-	</para></footnote>
-	<inlinemediaobject>		
-		<alt>Panieren</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242 (Thomas Schubert)</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="https://farm8.staticflickr.com/7438/10244134525_a2e714e832_b_d.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Panieren</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242 (Thomas Schubert)</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
-	</para></footnote>
-	<inlinemediaobject>		
-		<alt>Gerade angesetzt</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242 (Thomas Schubert)</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="https://farm4.staticflickr.com/3803/10244237373_2b3ac9d171_b_d.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Gerade angesetzt</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242 (Thomas Schubert)</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
-	</para></footnote>
-	<inlinemediaobject>		
-		<alt>Fast fertig</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242 (Thomas Schubert)</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="https://farm9.staticflickr.com/8120/10244048554_91d6230590_b_d.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Fast fertig</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242 (Thomas Schubert)</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
-	</para></footnote>
-	<inlinemediaobject>		
-		<alt>Servieren</alt>	
-		      <imageobject>
-			<info>
-				<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
-				<author>
-					<personname>
-								<othername>Huluvu424242 (Thomas Schubert)</othername>
-					</personname>
-				</author>
-					</info>
-			<imagedata contentwidth="2in"
-				fileref="https://farm6.staticflickr.com/5495/10244139385_9066ebb4e8_b_d.jpg">
-			</imagedata>
-		</imageobject>
-		<!-- alternative beschreibung auf rein textbasierten Systemen -->
-		<textobject>
-			<phrase>Servieren</phrase>
-		</textobject>
-	</inlinemediaobject>
-	<footnote><para>
-		<trademark class='copyright'/>
-		<author>
-			<personname>
-				<othername>Huluvu424242 (Thomas Schubert)</othername>
-			</personname>
-		</author>
-		geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
-	</para></footnote>
+	<ulink url="https://farm6.staticflickr.com/5513/10244038744_47054da933_b_d.jpg">
+		<inlinemediaobject>		
+			<alt>Vorbereitung</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242 (Thomas Schubert)</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="https://farm6.staticflickr.com/5513/10244038744_47054da933_b_d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Vorbereitung</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242 (Thomas Schubert)</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
+		</para>
+	</footnote>
+	<ulink url="https://farm8.staticflickr.com/7438/10244134525_a2e714e832_b_d.jpg">
+		<inlinemediaobject>		
+			<alt>Panieren</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242 (Thomas Schubert)</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="https://farm8.staticflickr.com/7438/10244134525_a2e714e832_b_d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Panieren</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242 (Thomas Schubert)</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
+		</para>
+	</footnote>
+	<ulink url="https://farm4.staticflickr.com/3803/10244237373_2b3ac9d171_b_d.jpg">
+		<inlinemediaobject>		
+			<alt>Gerade angesetzt</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242 (Thomas Schubert)</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="https://farm4.staticflickr.com/3803/10244237373_2b3ac9d171_b_d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Gerade angesetzt</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242 (Thomas Schubert)</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
+		</para>
+	</footnote>
+	<ulink url="https://farm9.staticflickr.com/8120/10244048554_91d6230590_b_d.jpg">
+		<inlinemediaobject>		
+			<alt>Fast fertig</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242 (Thomas Schubert)</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="https://farm9.staticflickr.com/8120/10244048554_91d6230590_b_d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Fast fertig</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242 (Thomas Schubert)</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
+		</para>
+	</footnote>
+	<ulink url="https://farm6.staticflickr.com/5495/10244139385_9066ebb4e8_b_d.jpg">
+		<inlinemediaobject>		
+			<alt>Servieren</alt>	
+			      <imageobject>
+				<info>
+					<legalnotice><para>Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)</para></legalnotice>
+					<author>
+						<personname>
+									<othername>Huluvu424242 (Thomas Schubert)</othername>
+						</personname>
+					</author>
+						</info>
+				<imagedata contentwidth="2in" fileref="https://farm6.staticflickr.com/5495/10244139385_9066ebb4e8_b_d.jpg">
+				</imagedata>
+			</imageobject>
+			<!-- alternative beschreibung auf rein textbasierten Systemen -->
+			<textobject>
+				<phrase>Servieren</phrase>
+			</textobject>
+		</inlinemediaobject>
+	</ulink>
+	<footnote>
+		<para>
+			<trademark class='copyright'/>
+			<author>
+				<personname>
+					<othername>Huluvu424242 (Thomas Schubert)</othername>
+				</personname>
+			</author>
+			geschützt durch: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0).
+		</para>
+	</footnote>
 	</para>
 
   </formalpara>
