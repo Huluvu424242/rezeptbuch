@@ -9,7 +9,7 @@ Kategorie: "Auflauf".
 Quelle: übernommen "verändert" aus "Studenten WG 'Zur alten Hippe', Reichenbachstr. Dresden.".
 Ausreichend für 4 Personen.
 Letzte Änderung: 08.03.2012.
-Diät: "Fruchtzuckerarm-Aufbauphase". Stoff: "Fleisch". Tag: "Schwein".
+Diät: "Fruchtzuckerarm-Aufbauphase" Stoff: "Fleisch" Tag: "Schwein"
 
 ProduktRef: "Edeka.5 Minutensteaks vom Schwein" Menge: "2" mal.
 ProduktRef: "Edeka.Bauchspeck vom Schwein" Menge: "1" mal.
@@ -17,12 +17,12 @@ ProduktRef: "Edeka.Emmentaler in Scheiben" Menge: "1" mal.
 ProduktRef: "Edeka.Kartoffeln festkochend" Menge: "1" mal.
 ProduktRef: "Edeka.Zwiebeln" Menge: "1" mal.
 
-Zutat: "Schweineschnitzel" Menge: "6" "Stück".
-Zutat: "Speck" Menge: "300" "g".
-Zutat: "Gemüsezwiebel" Menge: "2" "Stück".
-Zutat: "Kartoffel" Menge: "10" "Stück".
-Zutat: "Schnittkäse" Menge: "200" "g".
-Zutat: "Schlagsahne" Menge: "1" "Becher".
+Zutat: "Schweineschnitzel" Menge: "6" Stück.
+Zutat: "Speck" Menge: "300" g.
+Zutat: "Gemüsezwiebel" Menge: "2" Stück.
+Zutat: "Kartoffel" Menge: "10" Stück.
+Zutat: "Schnittkäse" Menge: "200" g.
+Zutat: "Schlagsahne" Menge: "1" Becher.
 
 
 Aktion: "Den Boden der Auflaufform vollständig mit Schnitzelfleisch belegen (nur eine Lage - nicht stapeln!)."
@@ -46,19 +46,19 @@ Kategorie: "Auflauf".
 Quelle: übernommen "verändert" aus "Rezeptsammlung HelloFresh".
 Ausreichend für 4 Personen.
 Letzte Änderung: 16.04.2016. 
-Tag: "Gemüse". Diät: "Vegtarisch". Diät: "Fleischlos".
+Tag: "Gemüse" Diät: "Vegtarisch" Diät: "Fleischlos"
 
-Zutat: "Porree" Menge: "2" "Stück".
-Zutat: "Broccoli" Menge: "500" "g".
-Zutat: "Champignons" Menge: "400" "g".
-Zutat: "Knoblauch" Menge: "4" "Zehe(n)".
-Zutat: "Thymian" Menge: "10" "g".
-Zutat: "Schupfnudeln" Menge: "1" "kg".
-Zutat: "Milch" Menge: "200" "ml".
-Zutat: "Reibekäse" Menge: "200" "g".
-Zutat: "Fleischtomate" Menge: "2" "Stück".
-Zutat: "Mehl" Menge: "2" "Teelöffel".
-Zutat: "Öl" "etwas".
+Zutat: "Porree" Menge: "2" Stück.
+Zutat: "Broccoli" Menge: "500" g.
+Zutat: "Champignons" Menge: "400" g.
+Zutat: "Knoblauch" Menge: "4" Zehe(n).
+Zutat: "Thymian" Menge: "10" g.
+Zutat: "Schupfnudeln" Menge: "1" kg.
+Zutat: "Milch" Menge: "200" ml.
+Zutat: "Reibekäse" Menge: "200" g.
+Zutat: "Fleischtomate" Menge: "2" Stück.
+Zutat: "Mehl" Menge: "2" Teelöffel.
+Zutat: "Öl" etwas.
 
 
 Aktion: "Den Porree waschen und die weißen und hellgrünen Teile in Ringe schneiden."

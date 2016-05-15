@@ -5,7 +5,7 @@ Rezept "Schokopudding"{
 Titel: "Schoko Pudding".  
 Kategorie: "Kochen". 
 Letzte Änderung: 30.12.2012.
-Tag: "Pudding". Diät: "Fruchtzuckerarm-Aufbauphase".
+Tag: "Pudding" Diät: "Fruchtzuckerarm-Aufbauphase"
  
 ProduktRef: "Edeka.Milch" Menge: "1" mal.
 ProduktRef: "Edeka.Stärke" Menge: "1" mal.
@@ -13,11 +13,11 @@ ProduktRef: "Edeka.Traubenzucker" Menge: "1" mal.
 ProduktRef: "Edeka.Salz" Menge: "1" mal.
 ProduktRef: "Edeka.Kakao" Menge: "1" mal.
  
-Zutat: "Milch" Menge: "800" "ml".
-Zutat: "Traubenzucker" Menge: "7" "Esslöffel".
-Zutat: "Salz" Menge: "1" "Prise".
-Zutat: "Stärke" Menge: "4" "Esslöffel".
-Zutat: "Kakao" Menge: "4" "Esslöffel".
+Zutat: "Milch" Menge: "800" ml.
+Zutat: "Traubenzucker" Menge: "7" Esslöffel.
+Zutat: "Salz" Menge: "1" Prise.
+Zutat: "Stärke" Menge: "4" Esslöffel.
+Zutat: "Kakao" Menge: "4" Esslöffel.
  
 Aktion: "Zunächst geben wir 600 ml Milch in einen hochrandigen Topf. Wichtig ist, dass genug Platz zwischen
 der Milchoberfläche und dem Topfrand besteht da sonst die Milch zu leicht überkocht."

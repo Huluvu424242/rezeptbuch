@@ -9,17 +9,17 @@ Kategorie: "Kochen".
 Quelle: übernommen "verändert" aus "http://www.kochbar.de/rezept/anzeigen/druck/id/86049/personen/3".
 Ausreichend für 3 Personen.
 Letzte Änderung: 20.01.2013.
-Tag: "Schwein". Stoff: "Fleisch". Stoff: "Milch".
+Tag: "Schwein" Stoff: "Fleisch" Stoff: "Milch"
 
-Zutat: "Kartoffeln" Menge: "750" "g".
-Zutat: "Durchwachsener Speck" Menge: "80" "g".
-Zutat: "Eier" Menge: "3" "Stück".
-Zutat: "Milch" Menge: "3" "Esslöffel".
-Zutat: "Schinkenwürfel" Menge: "125" "g".
-Zutat: "Tomaten" Menge: "2" "Stück".
-Zutat: "Schnittlauch" "nach Bedarf".
-Zutat: "Pfeffer" "nach Bedarf".
-Zutat: "Salz" "nach Bedarf".
+Zutat: "Kartoffeln" Menge: "750" g.
+Zutat: "Durchwachsener Speck" Menge: "80" g.
+Zutat: "Eier" Menge: "3" Stück.
+Zutat: "Milch" Menge: "3" Esslöffel.
+Zutat: "Schinkenwürfel" Menge: "125" g.
+Zutat: "Tomaten" Menge: "2" Stück.
+Zutat: "Schnittlauch" nach Bedarf.
+Zutat: "Pfeffer" nach Bedarf.
+Zutat: "Salz" nach Bedarf.
 
 Aktion: "Kartoffeln kochen und kalt werden lassen."
 Aktion: "Kartoffeln in Scheiben schneiden und Speck klein würfeln."
@@ -43,15 +43,15 @@ Kategorie: "Kochen".
 Quelle: überliefert von "Thomas Schubert".
 Ausreichend für 3 Personen.
 Letzte Änderung: 20.01.2013.
-Stoff: "Fleisch". Stoff: "Milch".
+Stoff: "Fleisch" Stoff: "Milch"
 
-Zutat: "Milch" Menge: "0.5" "L".
-Zutat: "Butter (Rama)" Menge: "1" "Esslöffel".
-Zutat: "Kartoffelpüree" Menge: "2" "Tüte(n)".
-Zutat: "Wasser" Menge: "1" "L".
-Zutat: "Buletten" Menge: "4" "Stück".
-Zutat: "Zigeunersosse" Menge: "500" "ml".
-Zutat: "Salz" Menge: "1" "Prise".
+Zutat: "Milch" Menge: "0.5" L.
+Zutat: "Butter (Rama)" Menge: "1" Esslöffel.
+Zutat: "Kartoffelpüree" Menge: "2" Tüte(n).
+Zutat: "Wasser" Menge: "1" L.
+Zutat: "Buletten" Menge: "4" Stück.
+Zutat: "Zigeunersosse" Menge: "500" ml.
+Zutat: "Salz" Menge: "1" Prise.
 
 Aktion: "Die fertige Zigeunersosse in einen kleinen Topf geben."
 Aktion: "Die Buletten zur Sosse geben und den Topf auf Stufe 1 (E-Herd) ca. 
@@ -68,21 +68,21 @@ Rezept "GeflügelstreifenMitGemüse" {
 Titel: "Geflügelstreifen mit Gemüse und Reis".
 Kategorie: "Kochen".
 Letzte Änderung: 13.02.2016.
-Tag: "Geflügel". Tag: "Zwiebel".
+Tag: "Geflügel" Tag: "Zwiebel"
 
-Zutat: "Reis" Menge: "50" "g".
-Zutat: "Putenbrustfilet" Menge: "200" "g".
-Zutat: "Öl" "etwas".
-Zutat: "Frühglingszwiebeln" Menge: "2" "Stück".
-Zutat: "Ingwerknolle" Menge: "1" "Stück".
-Zutat: "Knoblauch" Menge: "1" "Zehe(n)". 
-Zutat: "Tomaten" Menge: "2" "Stück".
-Zutat: "Broccoliröschen" Menge: "250" "g".
-Zutat: "Gemüsebrühe" Menge: "200" "ml".
-Zutat: "Sojasauce" "etwas".
-Zutat: "Paprikapulver" "etwas".
-Zutat: "Currypulver" "etwas".
-Zutat: "Salz" "etwas".
+Zutat: "Reis" Menge: "50" g.
+Zutat: "Putenbrustfilet" Menge: "200" g.
+Zutat: "Öl" etwas.
+Zutat: "Frühglingszwiebeln" Menge: "2" Stück.
+Zutat: "Ingwerknolle" Menge: "1" Stück.
+Zutat: "Knoblauch" Menge: "1" Zehe(n). 
+Zutat: "Tomaten" Menge: "2" Stück.
+Zutat: "Broccoliröschen" Menge: "250" g.
+Zutat: "Gemüsebrühe" Menge: "200" ml.
+Zutat: "Sojasauce" etwas.
+Zutat: "Paprikapulver" etwas.
+Zutat: "Currypulver" etwas.
+Zutat: "Salz" etwas.
 
 Aktion: "Den trockenen Reis nach Packungsanweisung in Salzwasser garen."
 Aktion: "Die Putenfilets in Streifen schneiden und mit 1 TL Öl knusprig anbraten."

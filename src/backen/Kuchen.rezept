@@ -8,31 +8,31 @@ Kategorie: "Backen".
 Quelle: übernommen "verändert" aus "http://www.kochbar.de/rezept/478099/Apfelkuchen-mit-Streusel-vom-Blech.html".
 
 Letzte Änderung: 29.06.2014.
-Tag: "Blech".
-Tag: "Apfel".
-Tag: "Hefe".
-Tag: "Streusel".
+Tag: "Blech"
+Tag: "Apfel"
+Tag: "Hefe"
+Tag: "Streusel"
 
 ProduktRef: "Edeka.Hefeteig Garant" Menge: "1" mal.
 ProduktRef: "Edeka.Rum Rosinen" Menge: "1" mal.
 ProduktRef: "Edeka.Milch" Menge: "1" mal.    
 
-Zutat: "Mehl" Menge: "375" "g".
-Zutat: "Hefe"  Menge: "1" "Päckchen".
-Zutat: "Zucker" Menge: "50" "g".
-Zutat: "Vanillezucker" Menge: "1" "Päckchen".
-Zutat: "Salz" Menge: "1" "Prise".
-Zutat: "Milch" Menge: "200" "ml".
-Zutat: "Butter" Menge: "75" "g".
+Zutat: "Mehl" Menge: "375" g.
+Zutat: "Hefe"  Menge: "1" Päckchen.
+Zutat: "Zucker" Menge: "50" g.
+Zutat: "Vanillezucker" Menge: "1" Päckchen.
+Zutat: "Salz" Menge: "1" Prise.
+Zutat: "Milch" Menge: "200" ml.
+Zutat: "Butter" Menge: "75" g.
  
-Zutat: "Äpfel" Menge: "2" "kg".
-Zutat: "Rum Rosinen" Menge: "1" "Päckchen".
+Zutat: "Äpfel" Menge: "2" kg.
+Zutat: "Rum Rosinen" Menge: "1" Päckchen.
 
-Zutat: "Mehl" Menge: "300" "g".
-Zutat: "Zucker" Menge: "150" "g".
-Zutat: "Zimt" Menge: "1.5" "Teelöffel".
-Zutat: "Butter" Menge: "200" "g".
-Zutat: "Salz" Menge: "1" "Prise".
+Zutat: "Mehl" Menge: "300" g.
+Zutat: "Zucker" Menge: "150" g.
+Zutat: "Zimt" Menge: "1.5" Teelöffel.
+Zutat: "Butter" Menge: "200" g.
+Zutat: "Salz" Menge: "1" Prise.
  
 Aktion: "Äpfel schälen und in schmale Spalten schneiden."
 Aktion: "Mehl, Hefe, Zucker, Vanillezucker, Salz und Butter gut vermengen."
@@ -59,20 +59,20 @@ Kategorie: "Backen".
 Quelle: überliefert von "Kochunterricht in der Schule.".
 Ausreichend für 5 Personen.
 Letzte Änderung: 27.01.2013.
-Tag: "Brownies" .  
+Tag: "Brownies"
 
 
 
-Zutat: "Zucker" Menge: "125" "g".
-Zutat: "Mehl" Menge: "100" "g".
-Zutat: "gehackte Nüsse" Menge: "75" "g".
-Zutat: "leicht gehackte Schokolade" Menge: "50"  "g" .
-Zutat: "Kakaopulver" Menge: "2" "Esslöffel".
-Zutat: "Backpulver" Menge: "1" "Teelöffel". 
-Zutat: "Salz" Menge: "0.5" "Teelöffel".
-Zutat: "Oliven" Menge: "20" "Stück".
-Zutat: "Butter" Menge: "90" "g".
-Zutat: "Eier" Menge: "2" "Stück".
+Zutat: "Zucker" Menge: "125" g.
+Zutat: "Mehl" Menge: "100" g.
+Zutat: "gehackte Nüsse" Menge: "75" g.
+Zutat: "leicht gehackte Schokolade" Menge: "50" g.
+Zutat: "Kakaopulver" Menge: "2" Esslöffel.
+Zutat: "Backpulver" Menge: "1" Teelöffel. 
+Zutat: "Salz" Menge: "0.5" Teelöffel.
+Zutat: "Oliven" Menge: "20" Stück.
+Zutat: "Butter" Menge: "90" g.
+Zutat: "Eier" Menge: "2" Stück.
 
 
 Aktion: "Alles schichtenweise in ein Glas geben, beschriften, fest verschließen und dunkel und trocken lagern."
