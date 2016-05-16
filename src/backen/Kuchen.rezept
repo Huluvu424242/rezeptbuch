@@ -37,15 +37,21 @@ Zutat: "Salz" Menge: "1" Prise.
 Aktion: "Äpfel schälen und in schmale Spalten schneiden."
 Aktion: "Mehl, Hefe, Zucker, Vanillezucker, Salz und Butter gut vermengen."
 Aktion: "Die Milch dazugeben und zu einem glatten Hefeteig verkneten."
-Tipp: "Wenn der Teig an den Händen klebt weiteres Mehl dazu geben."
+Tipp: {
+"Wenn der Teig an den Händen klebt weiteres Mehl dazu geben."
+}
 Aktion: "Teig ausrollen und aufs Blech legen. Anschliessend mit einer Gabel kleine Löcher in den Teig stechen."
 Aktion: "Nun die Apfelspalten in den Teig drücken und die Rosinen darüber streuen."
 Aktion: "Jetzt bleiben 15 Minuten bevor der Teig in den Ofen darf, in der Zeit werden die Streusel hergestellt."
 Aktion: "Für die Streusel den 2. Teil aus Mehl, Zucker, Zimt, Butter und Salz gut verkneten. Daraus ergibt sich eine streuselige Masse."
 Aktion: "Die Streusel über den Kuchen schütten und gut verteilen." 
-Tipp: "Die Streusel schützen die Apfelstücken auch vor dem Verbrennen."
+Tipp: {
+"Die Streusel schützen die Apfelstücken auch vor dem Verbrennen."
+}
 Aktion: "Das Blech im vorgeheizten Backofen auf 180 Grad ca. 20 Minuten backen."
-Tipp: "Fertig ist der Kuchen wenn man eine Metallnadel in den Teig stecken kann und nach dem raussziehen der Nadel kein Teig an ihr haftet."
+Tipp: {
+"Fertig ist der Kuchen wenn man eine Metallnadel in den Teig stecken kann und nach dem raussziehen der Nadel kein Teig an ihr haftet."
+}
 Aktion: "Auskühlen lassen und servieren."
  --Zusatzinformationen--
 
@@ -76,19 +82,27 @@ Zutat: "Eier" Menge: "2" Stück.
 
 
 Aktion: "Alles schichtenweise in ein Glas geben, beschriften, fest verschließen und dunkel und trocken lagern."
-Tipp: "Idealerweise verschraubare Gläser verwenden, dann könnte die Haltbarkeit etwa bei 1-2 Monaten liegen."
+Tipp: {
+"Idealerweise verschraubare Gläser verwenden, dann könnte die Haltbarkeit etwa bei 1-2 Monaten liegen."
+}
 Aktion: "Das Glas mit der Brownie Backmischung aus dem Lager holen und öffnen."
 Aktion: "Brownie Backmischung in eine große Schüssel geben."
 Aktion: "Die Butter und Eier hinzugeben."
 Aktion: "Verrühren bis ein glatter Teig entsteht."
 Aktion: "Den Teig auf einem gefetteten Backblech ca. 2 cm dick ausbringen."
 Aktion: "Bei 175°C etwa 30 Minuten backen."
-Anmerkung: "Im Umluftherd möglicherweise schneller fertig."
+Anmerkung: {
+"Im Umluftherd möglicherweise schneller fertig."
+}
 Aktion: "Abkühlen lassen und viereckige Stücken schneiden."
 
 --Zusatzinformationen--
-Anmerkung: "Auf folgender Seite lassen sich auch Beschriftungen für die Gläser anfertigen - der Text muss halt angepasst werden
+
+Anmerkung: {
+    "Auf folgender Seite lassen sich auch Beschriftungen für die Gläser anfertigen - der Text muss halt angepasst werden
 http://www.casa-di-falcone.de/products/Aufkleber/Aufkleber-Homemade/Aufkleber-fuer-Backmischungen-Dots.html"
+    }
+
 }
 
 

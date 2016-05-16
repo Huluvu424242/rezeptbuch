@@ -28,13 +28,17 @@ Zutat: "Oliven" Menge: "20" Stück.
 
 Aktion: "Mit Ausnahme der Oliven alle Zutaten zu einem Teig vermengen."
 Aktion: "Kleine abgeflachte Kugeln formen und mit einer Olive bestücken."
-Tipp:  "Wirklich kleine Kugeln formen, die gehen in die Breite."
+Tipp:  {
+"Wirklich kleine Kugeln formen, die gehen in die Breite."
+}
 Aktion: "Die Plätzchen bei 180 Grad im Umluftherd etwa 15 - 20 Minuten backen."
 --Zusatzinformationen--
 
-Bild: URL: "http://farm8.staticflickr.com/7138/7710590412_edbca996e5.jpg"
-Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
-Urheber: "Huluvu424242".
+Bild: {
+    URL: "http://farm8.staticflickr.com/7138/7710590412_edbca996e5.jpg"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
 
 }
 
@@ -62,9 +66,13 @@ Aktion: "Butter im Topf auf kleinster Stufe zergehen lassen und sofort wieder ru
 Aktion: "In die Butter den braunen Zucker eingeben und mittels Schneebesen schaumig schlagen."
 Aktion: "Zu dem Gemisch wird 1 Ei, das Mehl, die Vanille, der Zimt und das Salz gegeben."
 Aktion: "Alles schön verrühren"
-Tipp: "Umso kälter es wird umso eher sieht es wie brauner Rührteig aus."
+Tipp: {
+"Umso kälter es wird umso eher sieht es wie brauner Rührteig aus."
+}
 Aktion: "Irgendwann sollte der Teig nicht mehr so kleben und sich eine Kugel formen lassen."
-Tipp: "Ich habe hier mit Mehl nachgeholfen damit er nicht mehr so klebte"
+Tipp: {
+"Ich habe hier mit Mehl nachgeholfen damit er nicht mehr so klebte"
+}
 Aktion: "Ist es gelungen den Teig zu einer Kugel zu formen, dann kommt dieser
 15 Minuten in den Kühlschrank."
 Aktion: "In der Zeit des Kühlens kann der Herd auf 200 Grad vorgeheizt werden."
@@ -76,18 +84,23 @@ wälzen und auf ein gefettetes Blech geben."
 Aktion: "Auf dem Blech den Ball so eindrücken, dass eine Kuhle entsteht. In diese
 wird die Marmelade gegeben."
 Aktion: "Die Kekse etwa 10 Minuten backen"
-Tipp: "Nach dem Backen die Kekse erst kühlen lassen, da sie noch
-				nicht fest sind. Stabilität erlangen die Kekse erst beim Kühlen."
-
+Tipp: {
+"Nach dem Backen die Kekse erst kühlen lassen, da sie noch
+nicht fest sind. Stabilität erlangen die Kekse erst beim Kühlen."
+}
 --Zusatzinformationen--
-Anmerkung: "Aus meiner Sicht kann es nicht schaden deutlich mehr Mehl zu
+
+Anmerkung: {
+"Aus meiner Sicht kann es nicht schaden deutlich mehr Mehl zu
 				nehmen oder weniger Butter, aber ich habe es noch nicht probiert wie
 				sich das auswirkt. Ich würde erwarten, dass die Kekse härter werden
 				und nicht mehr so süss sind."
-Anmerkung: "Die Glasur mit dem Ei, dem granulierten Zucker und der
+				}
+Anmerkung: {
+"Die Glasur mit dem Ei, dem granulierten Zucker und der
 				Marmelade würde ich weglassen. Stattdessen hilft vielleicht
 				Kokosraspel	aber ob das dann schmeckt muss man testen."
-
+				}
 
 }
 

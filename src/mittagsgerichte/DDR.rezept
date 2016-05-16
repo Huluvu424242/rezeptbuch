@@ -39,30 +39,40 @@ Aktion: "Die Jadwurstscheiben panieren und beidseitig braten und servieren
 (Sie sollten zeitgleich mit den Nudeln fertig werden)."
 --Zusatzinformationen--
 
-Bild: URL: "https://farm6.staticflickr.com/5513/10244038744_47054da933_b_d.jpg" 
-Text: "Vorbereitung"
-Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
-Urheber: "Huluvu424242 (Thomas Schubert)".
+Bild: {
+    URL: "https://farm6.staticflickr.com/5513/10244038744_47054da933_b_d.jpg" 
+    Text: "Vorbereitung"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+    Urheber: "Huluvu424242 (Thomas Schubert)"
+    }
 
-Bild: URL: "https://farm8.staticflickr.com/7438/10244134525_a2e714e832_b_d.jpg" 
-Text: "Panieren"
-Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
-Urheber: "Huluvu424242 (Thomas Schubert)".
+Bild: {
+    URL: "https://farm8.staticflickr.com/7438/10244134525_a2e714e832_b_d.jpg" 
+    Text: "Panieren"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+    Urheber: "Huluvu424242 (Thomas Schubert)"
+    }
 
-Bild: URL: "https://farm4.staticflickr.com/3803/10244237373_2b3ac9d171_b_d.jpg" 
-Text: "Gerade angesetzt"
-Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
-Urheber: "Huluvu424242 (Thomas Schubert)".
+Bild: {
+    URL: "https://farm4.staticflickr.com/3803/10244237373_2b3ac9d171_b_d.jpg" 
+    Text: "Gerade angesetzt"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+    Urheber: "Huluvu424242 (Thomas Schubert)"
+    }
 
-Bild: URL: "https://farm9.staticflickr.com/8120/10244048554_91d6230590_b_d.jpg" 
-Text: "Fast fertig"
-Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
-Urheber: "Huluvu424242 (Thomas Schubert)".
+Bild: {
+    URL: "https://farm9.staticflickr.com/8120/10244048554_91d6230590_b_d.jpg" 
+    Text: "Fast fertig"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+    Urheber: "Huluvu424242 (Thomas Schubert)"
+    }
 
-Bild: URL: "https://farm6.staticflickr.com/5495/10244139385_9066ebb4e8_b_d.jpg" 
-Text: "Servieren"
-Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
-Urheber: "Huluvu424242 (Thomas Schubert)".
+Bild: {
+    URL: "https://farm6.staticflickr.com/5495/10244139385_9066ebb4e8_b_d.jpg" 
+    Text: "Servieren"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+    Urheber: "Huluvu424242 (Thomas Schubert)"
+    }
 
 }
 

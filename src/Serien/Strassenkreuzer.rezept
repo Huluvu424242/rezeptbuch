@@ -14,8 +14,8 @@ Ausreichend für 4 Personen.
 Letzte Änderung: 03.03.2012.
 Tag: "Nieren" Tag: "Fleisch" Tag: "Strassenkreuzer"
 
-Zutat: "Schweinenieren (geputzt vom Metzger)" Menge: "800" "g".
-Zutat: "Gemüsezwiebel" Menge: "200" "g".
+Zutat: "Schweinenieren (geputzt vom Metzger)" Menge: "800" g.
+Zutat: "Gemüsezwiebel" Menge: "200" g.
 Zutat: "Essiggurken" Menge: "2" Stück.
 Zutat: "kleiner Apfel" Menge: "1" Stück.
 Zutat: "Kümmel (gestossen oder gemahlen)" Menge: "1" Messerspitze(n).
@@ -48,10 +48,11 @@ Aktion: "Abschließend nach Geschmack salzen und pfeffern."
 Aktion: "Nicht mehr kochen damit die Nieren nicht hart werden."
 Aktion: "Nierengulasch und Reis servieren."
 --Zusatzinformationen--
-Anmerkung: "Das Originalrezept im Sozialmagazin enthält noch zusätzliche, interessante Erläuterungen. Möglicherweise kann es über http://www.strassenkreuzer.info käuflich erworben werden."
 
+    Anmerkung: {
+        "Das Originalrezept im Sozialmagazin enthält noch zusätzliche, interessante Erläuterungen. Möglicherweise kann es über http://www.strassenkreuzer.info käuflich erworben werden."
+    }
 }
-
 
 Rezept "GefüllteGemüsezwiebel" {
 Titel: "Gefüllte Gemüsezwiebel".
@@ -61,11 +62,11 @@ Quelle: übernommen "verändert" aus "Strassenkreuzer - Das Sozialmagazin Jahrga
 Letzte Änderung: 08.03.2012.
 Tag: "Fleisch"
 
-Zutat: "Gemüsezwiebel" Menge: "1" "kg".
-Zutat: "Gehacktes" Menge: "500" "g".
+Zutat: "Gemüsezwiebel" Menge: "1" kg.
+Zutat: "Gehacktes" Menge: "500" g.
 Zutat: "Bauchspeck" Menge: "4" "dünne" Scheibe(n).
 Zutat: "Eier" Menge: "2" Stück.
-Zutat: "Semmelbrösel" Menge: "50" "g".
+Zutat: "Semmelbrösel" Menge: "50" g.
 Zutat: "Salz" nach Bedarf.
 Zutat: "Pfeffer" nach Bedarf.
 Zutat: "Muskat" nach Bedarf.
@@ -85,10 +86,15 @@ Aktion: "Zwiebeln in einen Bräter setzen, mit dem Zwiebelwasser angießen, mit 
 Aktion: "Nach 20 Minuten die Speckscheiben auf die Zwiebeln legen und mitbacken."
 Aktion: "Als Beilage eignen sich Kartoffeln in verschiedenen Variationen."
 --Zusatzinformationen--
-Tipp:  "Wer kein Fleisch mag, füllt mit gequollenem Dinkel und lässt die 
+
+Tipp:  {
+ "Wer kein Fleisch mag, füllt mit gequollenem Dinkel und lässt die 
  Zwiebel etwa 10 Minuten kürzer im Ofen." 
- 
-Anmerkung: "Das Originalrezept im Sozialmagazin enthält noch zusätzliche, interessante Erläuterungen. Möglicherweise kann es über http://www.strassenkreuzer.info käuflich erworben werden."
+ }
+Anmerkung: {
+  "Das Originalrezept im Sozialmagazin enthält noch zusätzliche, interessante 
+  Erläuterungen. Möglicherweise kann es über http://www.strassenkreuzer.info käuflich erworben werden."
+ }
 }
 
 
@@ -113,7 +119,7 @@ ProduktRef: "Kaufmarkt.Gewürznelken" Menge: "1" mal.
 ProduktRef: "Kaufmarkt.Pimentkörner" Menge: "1" mal.
 
 
-Zutat: "Schulter vom Schwein" Menge: "1" "kg".
+Zutat: "Schulter vom Schwein" Menge: "1" kg.
 Zutat: "Kohlrabi" Menge: "3" "mittlere" Stück.
 Zutat: "Möhren" Menge: "5" Stück.
 Zutat: "Gemüsezwiebel" Menge: "1" Stück.
@@ -152,18 +158,31 @@ Aktion: "Nach weiteren 15 Minuten die Petersilie hinzufügen."
 Aktion: "Noch ca. 15 Minuten kochen lassen bis alles weich ist und servieren.
 	Die Gesamtkochzeit beträgt etwa 2h."
 --Zusatzinformationen--
-Tipp: "Durch Zugabe von Instant Suppenpulver (Maggi) kann die Suppe je nach Geschmackswunsch verändert werden."
-Tipp: "Fleisch und Fett bei Kindern besonders kleinschneiden, sonst wird es aussortiert."
-Tipp: "Es ist erstrebenswert das Gemüse und vor allem die Gewürze so
+
+Tipp: {
+     "Durch Zugabe von Instant Suppenpulver (Maggi) kann die Suppe je nach Geschmackswunsch verändert werden."
+     }
+     
+Tipp: {
+  "Fleisch und Fett bei Kindern besonders kleinschneiden, sonst wird es aussortiert."
+  }
+  
+Tipp: {
+    "Es ist erstrebenswert das Gemüse und vor allem die Gewürze so
 	kurz wie möglich im Topf zu kochen, damit noch ein paar 
 	Nährstoffe und Vitamine erhalten bleiben."
-Tipp: "Bei Bedarf ist es besser das Gericht neu aufzuwärmen als es über länger Zeit warm zu halten."	
+	}
+	
+Tipp: {
+     "Bei Bedarf ist es besser das Gericht neu aufzuwärmen als es über länger Zeit warm zu halten."
+     }	
 
 
-Anmerkung: "Das Originalrezept im Sozialmagazin enthält noch zusätzliche, interessante Erläuterungen. Möglicherweise kann es über http://www.strassenkreuzer.info käuflich erworben werden."
-
+Anmerkung: { 
+    "Das Originalrezept im Sozialmagazin enthält noch zusätzliche, interessante 
+    Erläuterungen. Möglicherweise kann es über http://www.strassenkreuzer.info käuflich erworben werden."
+    }
 }
-
 
 
 Rezept "KoenigsbergerKlopse" {
@@ -178,9 +197,9 @@ Rezept "KoenigsbergerKlopse" {
  ProduktRef: "Edeka.Schweinefleisch" Menge: "1" mal.
  
  Zutat: "Eier"  Menge: "1" Stück.
- Zutat: "Schweinefleisch" Menge: "1" "g".
+ Zutat: "Schweinefleisch" Menge: "1" g.
  
  Aktion: "someBeschreibung."
- --Zusatzinformationen--
+ 
  }
  

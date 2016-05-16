@@ -36,18 +36,28 @@ Aktion: "Ab jetzt die Sosse auf Stufe 1 warmhalten."
 Aktion: "Die Nudeln zubereiten indem wir einen Topf 3/4 mit Wasser füllen, 
 eine Prise Salz zugeben und die Nudeln hineinlegen (E-Herd Stufe 3)."
 Aktion: "Nach dem Aufkochen werden die Nudeln weiter auf Stufe 2 gekocht bis sie gar sind."
-Tipp: "Nudeln sind gar wenn sie gegen eine glatte senkrechte Fläche gewurfen nicht abfallen."
+Tipp: {
+    "Nudeln sind gar wenn sie gegen eine glatte senkrechte Fläche gewurfen nicht abfallen."
+    }
 Aktion: "Nudeln abschrecken. Dazu wird der Topf vom Herd genommen und das Wasser abgegossen
 (dekantieren indem man den Deckel etwas verschiebt). Anschließend Topf und Nudel mit
 kaltem Wasser auffüllen und wieder abgiessen."
-Tipp: "Einfach nur in den Topf schauen reicht nicht - egal wie man aussieht :)"
+Tipp: {
+    "Einfach nur in den Topf schauen reicht nicht - egal wie man aussieht :)"
+    }
+    
 --Zusatzinformationen--
-Tipp: "Durch Zugabe von Instant Suppenpulver (Gemüsebrühe) erhalten die
+
+Tipp: {
+    "Durch Zugabe von Instant Suppenpulver (Gemüsebrühe) erhalten die
 				Nudeln beim Kochen einen würzigeren Geschmack und kleben 
 				nach dem Abschrecken nicht so."
-Tipp: "Sollten die Nudel zu stark kleben, kann man nach dem Abschrecken
+				}
+Tipp: {
+    "Sollten die Nudel zu stark kleben, kann man nach dem Abschrecken
 				etwas Butter hinzugeben. Dadurch wird das weitere Kleben 
 				verhindert."
+				}
 
 }
 
