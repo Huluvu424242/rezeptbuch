@@ -7,6 +7,10 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
+ <chapterinfo>
+ 	<pubdate>23.06.2012 </pubdate>
+ </chapterinfo>
+ 
 <title>Kohlrabitopf mit Rippchen</title>
 
 <para>
@@ -46,7 +50,6 @@ Schweinerippchen
 <listitem>
     <para>
 	6
-	Stück
 Kohrabi
 </para>
     </listitem>
@@ -60,7 +63,6 @@ Kartoffeln
 <listitem>
     <para>
 	1
-	Stück
 Zwiebel
 </para>
     </listitem>

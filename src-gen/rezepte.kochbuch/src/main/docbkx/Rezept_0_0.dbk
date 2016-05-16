@@ -7,6 +7,10 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
+ <chapterinfo>
+ 	<pubdate>04.08.2012 </pubdate>
+ </chapterinfo>
+ 
 <title>Käseplätzchen</title>
 
 <para>
@@ -82,7 +86,6 @@ nach Bedarf
 <listitem>
     <para>
 	20
-	Stück
 Oliven
 </para>
     </listitem>

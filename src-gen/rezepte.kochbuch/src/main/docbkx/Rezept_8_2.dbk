@@ -7,6 +7,10 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
+ <chapterinfo>
+ 	<pubdate>13.02.2016 </pubdate>
+ </chapterinfo>
+ 
 <title>Geflügelstreifen mit Gemüse und Reis</title>
 
 <para>
@@ -57,14 +61,12 @@ etwas
 <listitem>
     <para>
 	2
-	Stück
 Frühglingszwiebeln
 </para>
     </listitem>
 <listitem>
     <para>
 	1
-	Stück
 Ingwerknolle
 </para>
     </listitem>
@@ -78,7 +80,6 @@ Knoblauch
 <listitem>
     <para>
 	2
-	Stück
 Tomaten
 </para>
     </listitem>

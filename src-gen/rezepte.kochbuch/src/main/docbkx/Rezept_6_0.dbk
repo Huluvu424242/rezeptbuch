@@ -7,7 +7,12 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
+ <chapterinfo>
+ 	<pubdate>08.03.2012 </pubdate>
+ </chapterinfo>
+ 
 <title>Schnitzelauflauf</title>
+<subtitle>Studentenart</subtitle>
 
 <para>
 	<variablelist>
@@ -39,7 +44,6 @@ Schwein
 <listitem>
     <para>
 	6
-	Stück
 Schweineschnitzel
 </para>
     </listitem>
@@ -53,14 +57,12 @@ Speck
 <listitem>
     <para>
 	2
-	Stück
 Gemüsezwiebel
 </para>
     </listitem>
 <listitem>
     <para>
 	10
-	Stück
 Kartoffel
 </para>
     </listitem>

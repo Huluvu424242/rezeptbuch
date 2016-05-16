@@ -7,6 +7,10 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
+ <chapterinfo>
+ 	<pubdate>20.01.2013 </pubdate>
+ </chapterinfo>
+ 
 <title>Bauern Frühstück</title>
 
 <para>
@@ -53,7 +57,6 @@ Durchwachsener Speck
 <listitem>
     <para>
 	3
-	Stück
 Eier
 </para>
     </listitem>
@@ -74,7 +77,6 @@ Schinkenwürfel
 <listitem>
     <para>
 	2
-	Stück
 Tomaten
 </para>
     </listitem>

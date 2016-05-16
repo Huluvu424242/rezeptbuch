@@ -7,7 +7,12 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
+ <chapterinfo>
+ 	<pubdate>20.01.2013 </pubdate>
+ </chapterinfo>
+ 
 <title>Bahmi Goreng</title>
+<subtitle>Gebackene Nudeln mit Fleisch</subtitle>
 
 <para>
 	<variablelist>
@@ -63,14 +68,12 @@ Porree
 <listitem>
     <para>
 	2
-	Stück
 Zwiebeln
 </para>
     </listitem>
 <listitem>
     <para>
 	1
-	Stück
 Rote Paprikatschote
 </para>
     </listitem>

@@ -7,7 +7,12 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
+ <chapterinfo>
+ 	<pubdate>20.02.2016 </pubdate>
+ </chapterinfo>
+ 
 <title>Eisbein</title>
+<subtitle>nach DDR Art</subtitle>
 
 <para>
 	<variablelist>
@@ -37,42 +42,36 @@ Fett
 <listitem>
     <para>
 	2
-	Stück
 Eisbein
 </para>
     </listitem>
 <listitem>
     <para>
 	1
-	Stück
 Möhren
 </para>
     </listitem>
 <listitem>
     <para>
 	1
-	Stück
 Zwiebel
 </para>
     </listitem>
 <listitem>
     <para>
 	5
-	Stück
 Lorbeerblätter
 </para>
     </listitem>
 <listitem>
     <para>
 	5
-	Stück
 Piment
 </para>
     </listitem>
 <listitem>
     <para>
 	5
-	Stück
 Wachholderbeeren
 </para>
     </listitem>

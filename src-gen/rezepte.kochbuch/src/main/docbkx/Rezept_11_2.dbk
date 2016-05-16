@@ -7,6 +7,10 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
+ <chapterinfo>
+ 	<pubdate>07.02.2017 </pubdate>
+ </chapterinfo>
+ 
 <title>Beamten Stippe</title>
 
 <para>
@@ -48,7 +52,6 @@ Hackfleisch gemischt
 <listitem>
     <para>
 	1
-	Stück
 Zwiebeln
 </para>
     </listitem>

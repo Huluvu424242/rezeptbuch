@@ -7,6 +7,10 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
+ <chapterinfo>
+ 	<pubdate>14.02.2016 </pubdate>
+ </chapterinfo>
+ 
 <title>Krabben Rührei</title>
 
 <para>
@@ -35,7 +39,6 @@ Ei
 <listitem>
     <para>
 	2
-	Stück
 Tomaten
 </para>
     </listitem>
@@ -49,14 +52,12 @@ Krabben
 <listitem>
     <para>
 	2
-	Stück
 Eier
 </para>
     </listitem>
 <listitem>
     <para>
 	5
-	Stück
 Schnittlauch
 </para>
     </listitem>
@@ -138,7 +139,6 @@ Schwarzbrot
 <listitem>
     <para>
 	1
-	Stück
 Kiwi
 </para>
     </listitem>

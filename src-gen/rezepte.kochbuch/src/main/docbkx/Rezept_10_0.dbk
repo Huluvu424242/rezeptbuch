@@ -7,7 +7,12 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
+ <chapterinfo>
+ 	<pubdate>05.07.2014 </pubdate>
+ </chapterinfo>
+ 
 <title>Jägerschnitzel</title>
+<subtitle>nach DDR Art</subtitle>
 
 <para>
 	<variablelist>
@@ -53,7 +58,6 @@ Jagdwurst
 <listitem>
     <para>
 	2
-	Stück
 Eier
 </para>
     </listitem>
@@ -81,7 +85,6 @@ Tomatenmark
 <listitem>
     <para>
 	3
-	Stück
 Zwiebeln
 </para>
     </listitem>

@@ -7,6 +7,10 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
+ <chapterinfo>
+ 	<pubdate>20.01.2013 </pubdate>
+ </chapterinfo>
+ 
 <title>Komar Kekse</title>
 
 <para>
@@ -58,7 +62,6 @@ brauner Zucker
 <listitem>
     <para>
 	3
-	Stück
 Eier
 </para>
     </listitem>
@@ -175,7 +178,7 @@ Die Kekse etwa 10 Minuten backen
  <note>
   <para>
  Nach dem Backen die Kekse erst kühlen lassen, da sie noch
- 				nicht fest sind. Stabilität erlangen die Kekse erst beim Kühlen.
+ nicht fest sind. Stabilität erlangen die Kekse erst beim Kühlen.
   </para>
  </note>
  </listitem>

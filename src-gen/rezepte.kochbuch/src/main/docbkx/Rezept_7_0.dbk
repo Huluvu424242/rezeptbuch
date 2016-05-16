@@ -7,6 +7,10 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:db="http://docbook.org/ns/docbook">
  
+ <chapterinfo>
+ 	<pubdate>19.01.2013 </pubdate>
+ </chapterinfo>
+ 
 <title>Pizza Teig einfach und italienisch</title>
 
 <para>
@@ -113,8 +117,8 @@ Nun wird alles 10 Minuten lang durchgeknetet so dass ein elastischer Teig entste
  </para>
  <note>
   <para>
- Wenn der Teig beim ersten Kneten zu fest erscheint noch einen Esslöfel Olivenöl hinzugeben. 
- Sollte der Teig zu flüssig erscheinen, dann etwas Mehl hinzugeben und weiter kneten.
+ Wenn der Teig beim ersten Kneten zu fest erscheint noch einen Esslöfel Olivenöl hinzugeben.
+     Sollte der Teig zu flüssig erscheinen, dann etwas Mehl hinzugeben und weiter kneten.
   </para>
  </note>
  </listitem>
