@@ -23,6 +23,13 @@ Menge: "1" Tüte(n).
 Letzte Änderung: 05.07.2014.
 }
 
+Produkt "Bio Spaghetti"{
+Verpackung: "Tüte".
+Menge: "500" g, SmartPoints: 51 .
+EAN: "22132840".
+Letzte Änderung: 13.03.2017.
+}
+
 
 // Fleisch
 
