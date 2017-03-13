@@ -1,4 +1,5 @@
 //Auto generated index for searching by xsl-webhelpindexer for DocBook Webhelp.# Kasun Gajasinghe, University of Moratuwa
+w["pilz"]="3*2";
 w["piment"]="4*1";
 w["pixel"]="12*1";
 w["pizza"]="22*52,35*47";
@@ -740,6 +741,7 @@ w["world"]="12*2";
 w["world-wid"]="12*1";
 w["worten"]="13*1";
 w["written"]="12*1";
+w["wsp"]="32*1";
 w["wurd"]="13*2";
 w["wurden"]="13*3";
 w["wurden."]="13*1";
