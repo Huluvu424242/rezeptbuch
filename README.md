@@ -7,9 +7,9 @@ Aus den Beschreibungen lassen sich *DocBook* Projekte generieren welche über *M
 verschiedene Ausgabe Formate erzeugen können. Zwei mögliche Beispiele sind *epub*
 und *webhelp*. Die Resultate für *KochBuch.rezept* finden sie unter: 
 
-* [Buch "Freies Open Source Kochbuch" als WebHelp (HTML)] (http://funthomas424242.github.io/rezeptbuch/kochbuch/book/content/index.html)
+* [Buch "Freies Open Source Kochbuch" als WebHelp (HTML)] (http://funthomas424242.github.io/rezeptbuch/kochbuch/index.html)
 
-* [Buch "Fruchtzuckerarm" als WebHelp (HTML)] (http://funthomas424242.github.io/rezeptbuch/fruchtzuckerarm/book/content/index.html)
+* [Buch "Fruchtzuckerarm" als WebHelp (HTML)] (http://funthomas424242.github.io/rezeptbuch/fruchtzuckerarm/index.html)
 
 ## Entwicklung der Sprache "Rezept"
 
