@@ -1,5 +1,6 @@
 # Rezeptbuch
 [![Build Status](https://travis-ci.org/FunThomas424242/rezeptbuch.svg?branch=master)](https://travis-ci.org/FunThomas424242/rezeptbuch)
+[ ![Download](https://api.bintray.com/packages/funthomas424242/sonstiges/rezeptbuch/images/download.svg) ](https://bintray.com/funthomas424242/sonstiges/rezeptbuch/_latestVersion)
 
 Dies ist ein Beispiel für die Verwendung der unter [rezept-dsl.xtext](https://github.com/FunThomas424242/rezept-dsl.xtext)
 bereitgestellten fachspezifischen Sprache zur Beschreibung von Koch- und Backrezepten.
@@ -7,9 +8,9 @@ Aus den Beschreibungen lassen sich *DocBook* Projekte generieren welche über *M
 verschiedene Ausgabe Formate erzeugen können. Zwei mögliche Beispiele sind *epub*
 und *webhelp*. Die Resultate für *KochBuch.rezept* finden sie unter: 
 
-* [Buch "Freies Open Source Kochbuch" als WebHelp (HTML)] (http://funthomas424242.github.io/rezeptbuch/kochbuch/index.html)
+* [Buch "Freies Open Source Kochbuch" als WebHelp (HTML)](http://funthomas424242.github.io/rezeptbuch/kochbuch/index.html)
 
-* [Buch "Fruchtzuckerarm" als WebHelp (HTML)] (http://funthomas424242.github.io/rezeptbuch/fruchtzuckerarm/index.html)
+* [Buch "Fruchtzuckerarm" als WebHelp (HTML)](http://funthomas424242.github.io/rezeptbuch/fruchtzuckerarm/index.html)
 
 ## Entwicklung der Sprache "Rezept"
 
