@@ -34,10 +34,12 @@ Pizza
 		  </variablelist>
 </para>
 
+
 <formalpara>
 	<title>Zutaten</title>
 
     <para><itemizedlist>
+
 <listitem>
     <para>
 	500
@@ -45,6 +47,7 @@ Pizza
 Mehl
 </para>
     </listitem>
+
 <listitem>
     <para>
 	20
@@ -52,6 +55,7 @@ Mehl
 Hefe
 </para>
     </listitem>
+
 <listitem>
     <para>
 	200
@@ -59,6 +63,7 @@ Hefe
 lauwarmes Wasser
 </para>
     </listitem>
+
 <listitem>
     <para>
 	2
@@ -66,6 +71,7 @@ lauwarmes Wasser
 Olivenöl
 </para>
     </listitem>
+
 <listitem>
     <para>
 	1
