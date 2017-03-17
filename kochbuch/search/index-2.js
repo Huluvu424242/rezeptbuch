@@ -1,5 +1,4 @@
 //Auto generated index for searching by xsl-webhelpindexer for DocBook Webhelp.# Kasun Gajasinghe, University of Moratuwa
-w["fill"]="12*1";
 w["final"]="12*1";
 w["finanzierungsquellen"]="13*1";
 w["finden"]="13*2";
@@ -837,5 +836,4 @@ w["pfeffer"]="3*1,5*3,14*2,18*1,26*3,29*1,34*1";
 w["philosoph"]="12*1";
 w["pie"]="12*1";
 w["pilz"]="3*2";
-w["piment"]="4*1";
 
