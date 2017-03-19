@@ -36,7 +36,7 @@
 			</author>
 			</authorgroup>
 		
-			<pubdate>2013-01-16</pubdate>
+			<pubdate>2017-03-19</pubdate>
 			<legalnotice>
 			<para>GNU Free Documentation License (GFDL) v1.3 und folgende Versionen</para>
 				<para>Das Dokument wurde geschrieben in der Sprache rezept und generiert mittels xtext/xtend.</para>	
@@ -282,6 +282,15 @@
 		<xi:include href="Rezept_11_0.dbk" />
 		<xi:include href="Rezept_11_1.dbk" />
 		<xi:include href="Rezept_11_2.dbk" />
+		</part>
+		<part>
+		    <title>Weight Watcher Rezepte</title>
+		    
+		    <partintro>
+		    
+		    </partintro>
+		    
+		<xi:include href="Rezept_12_0.dbk" />
 		</part>
 		
 		

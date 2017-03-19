@@ -1,7 +1,7 @@
 RezeptSammlung { 
 	groupId ="rezepte" ;
 	artifactId = "kochbuch" ;
-	version = "1.0-SNAPSHOT" ;
+	version = "1.0.0-SNAPSHOT" ;
 	Media Folder: "src/_fotos";
 	siteURL="http://funthomas424242.github.io/rezeptbuch";
 }
@@ -18,11 +18,13 @@ Buch{
 	import rezepte "./mittagsgerichte/Nudeln.rezept";
 	import rezepte "./mittagsgerichte/DDR.rezept";
 	import rezepte "./Serien/BernburgerRezepte.rezept";
+	import rezepte "./Serien/WeightWatchers.rezept";
 	//import rezepte "./Serien/Strassenkreuzer.rezept";
 	
 	Titel: "Freies Open Source Kochbuch";
 	Autor: {Vorname: "Sylvia" Nachname: "Schubert" Organisation: "Ich koche einfach gern" ModifikationsNotiz: "2012 Initiale Erstellung"}
-	Autor: {Vorname: "Thomas" Nachname: "Schubert" Organisation: "Fellow der Free Software Foundation Europe" ModifikationsNotiz: "2012 Initiale Erstellung"} 
+	Autor: {Vorname: "Thomas" Nachname: "Schubert" Organisation: "Fellow der Free Software Foundation Europe" ModifikationsNotiz: "2012 Initiale Erstellung"}
+	 
 	Vorwort: 
 	"Herzlich Willkommen beim möglicherweise ersten freien Open Source Kochbuch der Welt in dem es nur um Rezepte geht. Das 
 	Kochbuch versteht sich als Fortsetzung des freien Kochbuches der Wikibooks welches Sie im Netz unter
@@ -143,8 +145,7 @@ Buch{
 	xlink:href='http://www.strassenkreuzer.info/das-sozialmagazin/kochen-mit-jochen.html' xlink:show='new'>
 	http://www.strassenkreuzer.info/das-sozialmagazin/kochen-mit-jochen.html</link>	
 	"
-	
-	
+		
 	Lizenzhinweis: "GNU Free Documentation License (GFDL) v1.3 und folgende Versionen"
-	Veröffentlicht am: 16.01.2013.
+	Veröffentlicht am: 19.03.2017.
 }

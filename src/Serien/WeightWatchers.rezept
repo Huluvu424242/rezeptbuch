@@ -1,0 +1,46 @@
+Rezeptliste "Weight Watcher Rezepte" ;
+import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
+
+Rezept "Fischfilet mit Kartoffelgratin" {
+
+Titel: "Fischfilet mit Kartoffelgratin".
+Kategorie: "Kochen".
+Quelle: übernommen verändert von "http://lecker-rezepte.net/fischfilet-mit-kartoffelgratin/".
+Ausreichend für 2 Personen.
+Letzte Änderung: 19.03.2017.
+Tag: "Fisch" Stoff: "Lachs" Stoff: "Kartoffel"Tag: "Auflauf"
+
+Brennwert pro Portion 7 WSP.
+
+Zutat: "Kartoffeln" Menge: "800" g , SmartPoints: 16 .
+Zutat: "Zwiebel" Menge: "1" Stück , SmartPoints: 0 .
+Zutat: "Gemüsebrühe" Menge: "300" ml , SmartPoints: 0 .
+Zutat: "Milch 1,5%" Menge: "300" ml , SmartPoints: 6 .
+
+Zutat: "Pamesan, gerieben" Menge: "2" Esslöffel , SmartPoints: 3 .
+Zutat: "Cocktailtomaten" Menge: "20" Stück , SmartPoints: 0 . 
+Zutat: "Olivenöl" Menge: "1" Teelöffel , SmartPoints: 1.
+Zutat: "Seelachs, roh" Menge: "4" Stück , SmartPoints: 3.
+Zutat: "Zitrone" Menge: "1" Stück , SmartPoints: 0.
+Zutat: "Rosmarin" Menge: "2" Stange(n) , SmartPoints: 0.
+Zutat: "Salz" nach Bedarf , SmartPoints: 0.
+Zutat: "Pfeffer" nach Bedarf , SmartPoints: 0.
+
+
+
+Aktion: "Ofen auf 200° C vorheizen."
+Aktion: "Kartoffeln waschen, schälen und in Scheiben schneiden."
+Aktion: "Zwiebeln schälen und in Scheiben schneiden."
+Aktion: "Kartoffeln und Zwiebel abwechselnd als Lagen in einer Auflaufform ausbringen (etwas 4 Lagen insgesamt)."
+Aktion: "Jede Lage mit etwas Salz und Pfeffer besträuen."
+Aktion: "Die Milch unter die Gemüsebrühe heben, verrühren und über den Auflauf verteilen."
+Aktion: "Auflaufform für etwa 1 Stunde im Ofen bei 180° C backen."
+Aktion: "Während des Backens den Fisch braten."
+Aktion: "Die Fischfilets im Öl 2-3 Minuten erwärmen und von beiden Seiten scharf anbraten."
+Aktion: "Fisch auf niedriger Stufe weiter garen. Dabei die geriebene Zitronenschale und die Rosmarinzweige mit in die Pfanne geben."
+Aktion: "Fisch salzen und pfeffern."
+Aktion: "Nach ca. 50 Minuten die Cocktailtomaten auf einem separaten Teller mit im Ofen erwären, ca. 10 Minuten."
+Aktion: "Fisch und Gratin servieren und mit den Tomaten garnieren."
+
+
+}
