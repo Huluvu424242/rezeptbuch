@@ -37,17 +37,20 @@
 			</authorgroup>
 		
 			<pubdate>2013-01-16</pubdate>
-			<legalnotice><para>GNU Free Documentation License (GFDL) v1.3 und folgende Versionen</para></legalnotice>
+			<legalnotice>
+			<para>GNU Free Documentation License (GFDL) v1.3 und folgende Versionen</para>
+				<para>Das Dokument wurde geschrieben in der Sprache rezept und generiert mittels xtext/xtend.</para>	
+			</legalnotice>
 		</info>
 		<preface>
 			<title>Vorwort</title>
 		
 		    <para>Herzlich Willkommen beim möglicherweise ersten freien Open Source Kochbuch der Welt in dem es nur um Rezepte geht. Das 
 		    	Kochbuch versteht sich als Fortsetzung des freien Kochbuches der Wikibooks welches Sie im Netz unter
-		    	https://de.wikibooks.org/wiki/Kochbuch finden können. Die ursprüngliche Idee war die Rezepte im Kochbuch von Wikibooks
+		    	<link xlink:href="https://de.wikibooks.org/wiki/Kochbuch" xlink:show="new"/> finden können. Die ursprüngliche Idee war die Rezepte im Kochbuch von Wikibooks
 		    	abzulegen aber leider ist eine umfangreiche Rezeptsammlung nicht das Ziel der dortigen Community (Betrachten Sie dazu folgenden
 		    	Ausschnitt aus dem Leitfanden der Wikibooks:
-		    	https://de.wikibooks.org/wiki/Kochbuch/_Projektideen#Was_sollte_das_Kochbuch_nicht_sein.3F). Somit wurde entschieden ein
+		    	<link xlink:href="https://de.wikibooks.org/wiki/Kochbuch/_Projektideen#Was_sollte_das_Kochbuch_nicht_sein.3F" xlink:show="new"/>). Somit wurde entschieden ein
 		    	separates Projekt ins Leben zu rufen welches sich nicht um die Grundlagen des Kochens oder der Bestimmung zugehöriger Begriffe
 		    	zu kümmern sondern in dem es ausschließlich um die Ablage von Rezepten geht. 
 		    	</para>

@@ -8,7 +8,7 @@ Rezept "Niergengulasch" {
 Titel: "Nierengulasch mit Reis".
 Untertitel: "Aus der Serie: Kochen mit Jochen" .
 Kategorie: "Kochen".
-Quelle: übernommen "verändert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang 19/Heft 2, März 2012.
+Quelle: übernommen verändert aus "Strassenkreuzer - Das Sozialmagazin Jahrgang 19/Heft 2, März 2012.
 (http://www.strassenkreuzer.info/das-sozialmagazin/kochen-mit-jochen.html)".
 Ausreichend für 4 Personen.
 Letzte Änderung: 03.03.2012.
@@ -57,7 +57,7 @@ Aktion: "Nierengulasch und Reis servieren."
 Rezept "GefüllteGemüsezwiebel" {
 Titel: "Gefüllte Gemüsezwiebel".
 Kategorie: "Kochen".
-Quelle: übernommen "verändert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang ?Nr?/Heft ?Nr?, ?monat? ?jahr?.
+Quelle: übernommen verändert aus "Strassenkreuzer - Das Sozialmagazin Jahrgang ?Nr?/Heft ?Nr?, ?monat? ?jahr?.
 (http://www.strassenkreuzer.info/das-sozialmagazin/kochen-mit-jochen.html)".
 Letzte Änderung: 08.03.2012.
 Tag: "Fleisch"
@@ -102,7 +102,7 @@ Rezept "GemüsesuppeMitSchweinefleisch" {
 
 Titel: "Gemüsesuppe mit Schweinefleisch".
 Kategorie: "Kochen".
-Quelle: übernommen "verändert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang ?Nr?/Heft ?Nr?, ?monat? ?jahr?.
+Quelle: übernommen verändert aus "Strassenkreuzer - Das Sozialmagazin Jahrgang ?Nr?/Heft ?Nr?, ?monat? ?jahr?.
 (http://www.strassenkreuzer.info/das-sozialmagazin/kochen-mit-jochen.html)". 
 Ausreichend für 4 Personen.
 Letzte Änderung: 02.01.2012.
@@ -188,7 +188,7 @@ Anmerkung: {
 Rezept "KoenigsbergerKlopse" {
  Titel:"Königsberger Klopse".
  Kategorie: "Kochen".
- Quelle: übernommen "verändert" aus "Strassenkreuzer - Das Sozialmagazin Jahrgang xx/Heft x, monat jahr.
+ Quelle: übernommen verändert aus "Strassenkreuzer - Das Sozialmagazin Jahrgang xx/Heft x, monat jahr.
  (http://www.strassenkreuzer.info/das-sozialmagazin/kochen-mit-jochen.html)".
  Letzte Änderung: 30.12.2012.
  Tag: "Schwein" Tag: "Strassenkreuzer"

@@ -25,7 +25,10 @@
 			</authorgroup>
 		
 			<pubdate>2014-06-29</pubdate>
-			<legalnotice><para>GNU Free Documentation License (FDL) v1.3 und folgende Versionen</para></legalnotice>
+			<legalnotice>
+			<para>GNU Free Documentation License (FDL) v1.3 und folgende Versionen</para>
+				<para>Das Dokument wurde geschrieben in der Sprache rezept und generiert mittels xtext/xtend.</para>	
+			</legalnotice>
 		</info>
 		
 		<toc/>

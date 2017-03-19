@@ -5,7 +5,7 @@ Rezept "Apfelkuchen"{
 Titel: "Apfelkuchen".  
 Untertitel: "Hefeteig auf Blech".
 Kategorie: "Backen". 
-Quelle: übernommen "verändert" aus "http://www.kochbar.de/rezept/478099/Apfelkuchen-mit-Streusel-vom-Blech.html".
+Quelle: übernommen verändert von "http://www.kochbar.de/rezept/478099/Apfelkuchen-mit-Streusel-vom-Blech.html".
 
 Letzte Änderung: 29.06.2014.
 Tag: "Blech"
@@ -100,7 +100,7 @@ Aktion: "Abkühlen lassen und viereckige Stücken schneiden."
 
 Anmerkung: {
     "Auf folgender Seite lassen sich auch Beschriftungen für die Gläser anfertigen - der Text muss halt angepasst werden
-http://www.casa-di-falcone.de/products/Aufkleber/Aufkleber-Homemade/Aufkleber-fuer-Backmischungen-Dots.html"
+<ulink href=\"http://www.casa-di-falcone.de/products/Aufkleber/Aufkleber-Homemade/Aufkleber-fuer-Backmischungen-Dots.html\"/>"
     }
 
 }

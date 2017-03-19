@@ -4,7 +4,7 @@ import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
 Rezept "Schokoglasur"{
 Titel: "Schokoglasur".  
 Kategorie: "Backen". 
-Quelle: übernommen "verändert" aus "Packung für Gloria Schoko Kuchen".
+Quelle: übernommen verändert aus "Packung für Gloria Schoko Kuchen".
 Letzte Änderung: 20.01.2013.
 Tag: "Glasur" 
  
