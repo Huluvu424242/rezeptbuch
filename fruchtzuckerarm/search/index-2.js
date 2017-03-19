@@ -1,6 +1,4 @@
 //Auto generated index for searching by xsl-webhelpindexer for DocBook Webhelp.# Kasun Gajasinghe, University of Moratuwa
-w["ex"]="3*1";
-w["exampl"]="3*6";
 w["except"]="3*1";
 w["exchang"]="3*1";
 w["exclus"]="3*1";
@@ -82,11 +80,13 @@ w["gemüsezwiebel"]="4*1";
 w["general"]="3*5";
 w["generat"]="3*1";
 w["generic"]="3*2";
+w["generiert"]="5*1";
 w["gesamten"]="4*1";
 w["geschehen"]="3*2";
 w["geschirrtuch"]="0*1";
 w["geschnitten"]="0*1";
 w["gescholzen"]="6*1";
+w["geschrieben"]="5*1";
 w["geschützt"]="0*7,6*7";
 w["get"]="3*1";
 w["gewünschten"]="0*1";
@@ -276,6 +276,7 @@ w["minuten"]="0*5,4*2,6*2";
 w["minutensteak"]="4*1";
 w["mit"]="0*7,3*1,4*2,6*8";
 w["miteinand"]="6*1";
+w["mittel"]="5*1";
 w["ml"]="0*1,6*1";
 w["mmc"]="3*9";
 w["mod"]="3*1";
@@ -402,4 +403,6 @@ w["place"]="3*4";
 w["plain"]="3*1";
 w["plus"]="3*1";
 w["png"]="3*1";
+w["polit"]="3*1";
+w["porre"]="6*3";
 
