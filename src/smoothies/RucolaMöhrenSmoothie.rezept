@@ -1,0 +1,51 @@
+Rezeptliste "Smoothies" ; 
+import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
+
+Rezept "Rucola Möhren Smoothie"{
+Titel: "Rucola Möhren Smoothie".  
+Kategorie: "Getränke". 
+Letzte Änderung: 31.03.2017.
+Tag: "Smoothie" Tag: "grün"
+ 
+
+Zutat: "Äpfel" Menge: "2" Stück , SmartPoints: 0.
+Zutat: "Mango" Menge: "1" Stück, SmartPoints: 0.
+Zutat: "Rucola" Menge: "0,5" Packung(en), SmartPoints: 0.
+Zutat: "Birne" Menge: "1" Stück, SmartPoints: 0.
+Zutat: "Möhre" Menge: "1" Stück, SmartPoints: 0.
+Zutat: "Minze" Menge: "4" Stück, SmartPoints: 0.
+Zutat: "Wasser" Menge: "1,5" Tasse(n), SmartPoints: 0.
+ 
+Aktion: "Die Äpfel waschen, schälen und in den Smoothie Maker oder Mixer geben und mixen."
+Aktion: "Die Birne waschen und schälen und auf Stufe 1 hinzugeben."
+Aktion: "Die Mango waschen und schälen und auf Stufe 1 hinzumixen."
+Aktion: "Möhre waschen, schälen und in kleine Scheiben geschnitten auf Stufe 1 hinzumixen."
+Aktion: "Etwas vom Wasser hinzufügen."
+Aktion: "Etwa 86 Blätter Rucola und 4 Blätter frische Minze waschen und auf Stufe 1 langsam zu geben."
+Aktion: "Das restliche Wasser hinzugeben und alles gut durchmixen."
+
+ --Zusatzinformationen--
+ Tipp: {
+     "Die Mango muss gut durch sein. Auf keinen Fall harte Stücken verwenden."
+ }
+ 
+ Tipp: {
+     "Kerngehäuse generell und speziell hier von Apfel und Birne entfernen, 
+da es beim Trinken kratzt und vermutlich auch zu Allergien führt."
+ }
+ 
+Tipp: {
+    "Das Wasser nicht zu früh hinzu geben sonst läuft es meist durch den Hahn raus, weil die Geräte nach einer
+Weile nicht mehr so dicht halten. "
+}
+ 
+}
+
+
+
+
+
+
+
+
+

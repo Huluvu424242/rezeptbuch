@@ -292,6 +292,15 @@
 		    
 		<xi:include href="Rezept_12_0.dbk" />
 		</part>
+		<part>
+		    <title>Smoothies</title>
+		    
+		    <partintro>
+		    
+		    </partintro>
+		    
+		<xi:include href="Rezept_13_0.dbk" />
+		</part>
 		
 		
 		  <appendix>
