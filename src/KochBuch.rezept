@@ -19,8 +19,7 @@ Buch{
 	import rezepte "./mittagsgerichte/DDR.rezept";
 	import rezepte "./Serien/BernburgerRezepte.rezept";
 	import rezepte "./Serien/WeightWatchers.rezept";
-	import rezepte "./smoothies/RucolaMöhrenSmoothie.rezept";
-	import rezepte "./smoothies/GurkenButtermilchSmoothie.rezept";
+	import rezepte "./smoothies/GrüneSmoothies.rezept";
 	//import rezepte "./Serien/Strassenkreuzer.rezept";
 	
 	Titel: "Freies Open Source Kochbuch";

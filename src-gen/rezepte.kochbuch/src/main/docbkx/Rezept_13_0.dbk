@@ -11,7 +11,7 @@
  	<pubdate>31.03.2017 </pubdate>
  </chapterinfo>
  
-<title>Rucola Möhren Smoothie</title>
+<title>Gurken Buttermilch Smoothie</title>
 
 <para>
 	<variablelist>
@@ -28,12 +28,20 @@ grün
 	 <varlistentry>
 	   <term>Quelle:</term>
 	<listitem><para>
-			nicht angegeben
+			verändert 
+			übernommen von: <link xlink:href="http://www.chefkoch.de/rezepte/3050051457596535/Gruene-Smoothies-mit-Blattspinat-und-Gurke.html" xlink:show="new"/>
 		</para></listitem>
 		 </varlistentry>
 		  </variablelist>
 </para>
 
+<formalpara>
+	<title>Brennwert</title>
+
+    <para>
+    1 Portion/Teller entspricht 2 WSP (Weight Watcher Smart Points).
+    </para>
+</formalpara>
 
 <formalpara>
 	<title>Zutaten</title>
@@ -43,7 +51,7 @@ grün
 <listitem>
     <para>
 	2
-Äpfel
+Salatgurke
 
 (0 <abbrev>WSP<alt>Weight Watcher Smart Points</alt></abbrev>)
 
@@ -53,7 +61,8 @@ grün
 <listitem>
     <para>
 	1
-Mango
+	Bund
+Dill
 
 (0 <abbrev>WSP<alt>Weight Watcher Smart Points</alt></abbrev>)
 
@@ -62,11 +71,22 @@ Mango
 
 <listitem>
     <para>
-	0,5
-	Packung(en)
-Blätter Rucola
+	500
+	g
+Buttermilch naturell
 
-(0 <abbrev>WSP<alt>Weight Watcher Smart Points</alt></abbrev>)
+(7 <abbrev>WSP<alt>Weight Watcher Smart Points</alt></abbrev>)
+
+</para>
+    </listitem>
+
+<listitem>
+    <para>
+	2
+	Esslöffel
+Naturjoghurt
+
+(2 <abbrev>WSP<alt>Weight Watcher Smart Points</alt></abbrev>)
 
 </para>
     </listitem>
@@ -74,7 +94,8 @@ Blätter Rucola
 <listitem>
     <para>
 	1
-Birne
+	Teelöffel
+Zitronensaft
 
 (0 <abbrev>WSP<alt>Weight Watcher Smart Points</alt></abbrev>)
 
@@ -83,8 +104,8 @@ Birne
 
 <listitem>
     <para>
-	1
-Möhre
+Salz
+nach Bedarf
 
 (0 <abbrev>WSP<alt>Weight Watcher Smart Points</alt></abbrev>)
 
@@ -93,8 +114,8 @@ Möhre
 
 <listitem>
     <para>
-	4
-Blätter Minze
+Pfeffer
+nach Bedarf
 
 (0 <abbrev>WSP<alt>Weight Watcher Smart Points</alt></abbrev>)
 
@@ -103,9 +124,8 @@ Blätter Minze
 
 <listitem>
     <para>
-	1,5
-	Tasse(n)
-Wasser
+Tabasco
+nach Bedarf
 
 (0 <abbrev>WSP<alt>Weight Watcher Smart Points</alt></abbrev>)
 
@@ -120,56 +140,36 @@ Wasser
     <para><orderedlist>
 <listitem>
    	<para>
-Die Äpfel waschen, schälen und in den Smoothie Maker oder Mixer geben und mixen.
+Gurke schälen und in Scheiben schneiden und in den Mixer geben.
+ </para>
+ <note>
+  <para>
+ Sehr bittere Gurken nicht verzehren. Es ist zwar sehr selten aber 
+ bei einem sehr bitteren Geschmack kann diese giftig sein. Gilt auch für Kürbis, Melone, Zuchini etc.
+  </para>
+ </note>
+ </listitem>
+<listitem>
+   	<para>
+Dill waschen, abtropfen und in den Mixer geben.
+ </para>
+ <note>
+  <para>
+ Die dicken Stielenden abschneiden. 
+  </para>
+ </note>
+ </listitem>
+<listitem>
+   	<para>
+Alle Zutaten im Mixer auf Stufe 1 und dann kurz auf Stufe 2 verrühreren.
  </para>
  </listitem>
 <listitem>
    	<para>
-Die Birne waschen und schälen und auf Stufe 1 hinzugeben.
- </para>
- </listitem>
-<listitem>
-   	<para>
-Die Mango waschen und schälen und auf Stufe 1 hinzumixen.
- </para>
- </listitem>
-<listitem>
-   	<para>
-Möhre waschen, schälen und in kleine Scheiben geschnitten auf Stufe 1 hinzumixen.
- </para>
- </listitem>
-<listitem>
-   	<para>
-Etwas vom Wasser hinzufügen.
- </para>
- </listitem>
-<listitem>
-   	<para>
-Etwa 86 Blätter Rucola und 4 Blätter frische Minze waschen und auf Stufe 1 langsam zu geben.
- </para>
- </listitem>
-<listitem>
-   	<para>
-Das restliche Wasser hinzugeben und alles gut durchmixen.
+Mit Salz, Pfeffer und Tabasco abschmecken.
  </para>
  </listitem>
 </orderedlist ></para>
-<formalpara>
-     <title>Hinweise</title>
-<para>
-<note>
-	<para>Die Mango muss gut durch sein. Auf keinen Fall harte Stücken verwenden.</para>
-</note>
-<note>
-	<para>Kerngehäuse generell und speziell hier von Apfel und Birne entfernen, 
-	da es beim Trinken kratzt und vermutlich auch zu Allergien führt.</para>
-</note>
-<note>
-	<para>Das Wasser nicht zu früh hinzu geben sonst läuft es meist durch den Hahn raus, weil die Geräte nach einer
-	Weile nicht mehr so dicht halten. </para>
-</note>
-</para>
-</formalpara>
 	</formalpara>
 
   <formalpara>

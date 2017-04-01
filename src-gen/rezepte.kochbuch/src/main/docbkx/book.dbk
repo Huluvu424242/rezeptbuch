@@ -300,15 +300,7 @@
 		    </partintro>
 		    
 		<xi:include href="Rezept_13_0.dbk" />
-		</part>
-		<part>
-		    <title>Smoothies</title>
-		    
-		    <partintro>
-		    
-		    </partintro>
-		    
-		<xi:include href="Rezept_14_0.dbk" />
+		<xi:include href="Rezept_13_1.dbk" />
 		</part>
 		
 		

@@ -1,6 +1,43 @@
 Rezeptliste "Smoothies" ; 
 import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
 
+
+
+Rezept "Gurken Buttermilch Smoothie"{
+Titel: "Gurken Buttermilch Smoothie".  
+
+Kategorie: "Getränke".
+Quelle: übernommen verändert von "http://www.chefkoch.de/rezepte/3050051457596535/Gruene-Smoothies-mit-Blattspinat-und-Gurke.html" . 
+Letzte Änderung: 31.03.2017.
+Tag: "Smoothie" Tag: "grün"
+ 
+Brennwert pro Portion 2 WSP.
+Zutat: "Salatgurke" Menge: "2" Stück , SmartPoints: 0.
+Zutat: "Dill" Menge: "1" Bund, SmartPoints: 0.
+Zutat: "Buttermilch naturell" Menge: "500" g, SmartPoints: 7.
+Zutat: "Naturjoghurt" Menge: "2" Esslöffel, SmartPoints: 2.
+Zutat: "Zitronensaft" Menge: "1" Teelöffel, SmartPoints: 0.
+Zutat: "Salz" nach Bedarf, SmartPoints: 0.
+Zutat: "Pfeffer" nach Bedarf, SmartPoints: 0.
+Zutat: "Tabasco" nach Bedarf, SmartPoints: 0.
+
+
+ 
+Aktion: "Gurke schälen und in Scheiben schneiden und in den Mixer geben."
+Tipp: {
+    "Sehr bittere Gurken nicht verzehren. Es ist zwar sehr selten aber 
+bei einem sehr bitteren Geschmack kann diese giftig sein. Gilt auch für Kürbis, Melone, Zuchini etc."
+}
+Aktion: "Dill waschen, abtropfen und in den Mixer geben."
+Tipp: {
+    "Die dicken Stielenden abschneiden. "
+}
+Aktion: "Alle Zutaten im Mixer auf Stufe 1 und dann kurz auf Stufe 2 verrühreren."
+Aktion: "Mit Salz, Pfeffer und Tabasco abschmecken."
+ --Zusatzinformationen--
+ 
+}
+
 Rezept "Rucola Möhren Smoothie"{
 Titel: "Rucola Möhren Smoothie".  
 Kategorie: "Getränke". 
