@@ -1,4 +1,4 @@
-Rezeptliste "Weight Watcher Rezepte" ;
+Rezeptliste "Weight Watcher - Mahlzeiten" ;
 import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
 
 Rezept "Fischfilet mit Kartoffelgratin" {
