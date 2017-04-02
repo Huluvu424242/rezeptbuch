@@ -1,4 +1,4 @@
-Rezeptliste "Smoothies" ; 
+Rezeptliste "Smoothies - grün" ; 
 import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
 
 
