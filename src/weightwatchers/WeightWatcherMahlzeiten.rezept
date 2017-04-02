@@ -44,3 +44,51 @@ Aktion: "Fisch und Gratin servieren und mit den Tomaten garnieren."
 
 
 }
+
+Rezept "Mini-Makkaroni mit Schinken und Spargel" {
+
+Titel: "Mini-Makkaroni mit Schinken und Spargel".
+Kategorie: "Kochen".
+Quelle: übernommen verändert von "http://lecker-rezepte.net/mini-makkaroni-mit-gekochtem-schinken-und-spargel/".
+Ausreichend für 2 Personen.
+Letzte Änderung: 02.04.2017.
+Tag: "Nudelgericht" Stoff: "Schinken" Stoff: "Spargel" Stoff: "Nudeln"
+
+Brennwert pro Portion 10 WSP.
+
+Zutat: "Mini-Makkaroni" Menge: "240" g , SmartPoints: 25 .
+Zutat: "Spargel" Menge: "500" g , SmartPoints: 4 .
+Zutat: "Champignons, frisch" Menge: "500" g, SmartPoints: 0 .
+Zutat: "Schinken gekocht, ohne Fettrand" Menge: "100" g , SmartPoints: 2 .
+
+Zutat: "Frühlingszwiebeln" Menge: "4" Stück , SmartPoints: 0 .
+Zutat: "Olivenöl" Menge: "1" Teelöffel , SmartPoints: 1.
+Zutat: "Milch, 1,5%" Menge: "250" ml , SmartPoints: 5.
+Zutat: "Gemüsebrühe" Menge: "5" Esslöffel , SmartPoints: 0.
+Zutat: "Schmelzkäse, 20%" Menge: "125" g , SmartPoints: 8.
+Zutat: "Paprikapulver" Menge: "1" Teelöffel, SmartPoints: 0.
+
+Zutat: "Jodsalz" Menge: "1" Prise, SmartPoints: 0.
+Zutat: "Pfeffer" Menge: "1" Prise, SmartPoints: 0 .
+
+Aktion: "Nudeln wie gewohnt kochen."
+Aktion: "Spargelstücke 5 Minuten in heißem Salzwasser blanchieren."
+Aktion: "Pilze putzen und in Scheiben schneiden."
+Aktion: "Schinken in kleine Würfel schneiden."
+Aktion: "Frühlingszwiebeln putzen und in kleine Ringe schneiden."
+Aktion: "Pilze, Zwiebeln und Schinken mit dem Olivenöl in der Pfanne 3 Minuten andünsten."
+Aktion: "Mit Milch und Brühe ablöschen."
+Aktion: "Den Schmelzkäse unterheben und mit Salz, Pfeffer und Paprikapulver kräftig würzen."
+Aktion: "Die Fischfilets im Öl 2-3 Minuten erwärmen und von beiden Seiten scharf anbraten."
+Aktion: "Alles ca. 5 - 10 Minuten garen."
+Aktion: "Nundeln und Spargelstücke unter die Sauce heben, kurz erhitzen, abschmecken und servieren."
+
+--Zusatzinformationen--
+
+Bild: {
+    URL: "https://c1.staticflickr.com/3/2865/33408635990_f06c0a3fa8_b.jpg" 
+    InternetPage URL: "https://flic.kr/p/SUcZxm" 
+    Lizenz: "Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)" Urheber: "Huluvu424242&FunSylvia" 
+}
+
+}

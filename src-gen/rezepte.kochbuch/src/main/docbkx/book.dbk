@@ -291,6 +291,7 @@
 		    </partintro>
 		    
 		<xi:include href="Rezept_12_0.dbk" />
+		<xi:include href="Rezept_12_1.dbk" />
 		</part>
 		<part>
 		    <title>Smoothies - grün</title>
