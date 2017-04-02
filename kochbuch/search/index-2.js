@@ -1,5 +1,4 @@
 //Auto generated index for searching by xsl-webhelpindexer for DocBook Webhelp.# Kasun Gajasinghe, University of Moratuwa
-w["fleisch"]="4*1,5*5,16*1,20*1,23*1,30*5,33*1,39*3";
 w["fleischlo"]="3*1";
 w["fleischscheiben"]="23*1";
 w["fleischtom"]="3*1";
@@ -209,7 +208,7 @@ w["grund"]="15*1";
 w["grundlagen"]="15*1";
 w["grupp"]="15*1";
 w["gräulich"]="5*1";
-w["grün"]="18*1,31*1";
+w["grün"]="13*51,18*1,31*1";
 w["gurk"]="18*1";
 w["gurke.html"]="18*1";
 w["gurken"]="13*1,18*47";
@@ -591,6 +590,7 @@ w["made"]="14*4";
 w["mag"]="15*1";
 w["magazin"]="15*6";
 w["magermilchjoghurt"]="29*1";
+w["mahlzeiten"]="34*51";
 w["mahnbescheid"]="15*1";
 w["mai"]="15*1";
 w["mairose13"]="5*1";
@@ -871,4 +871,5 @@ w["personen"]="5*1,33*3";
 w["pfann"]="3*1,10*51,12*1,26*1,30*1,33*1,37*2";
 w["pfeffer"]="3*1,5*3,12*2,16*2,18*2,21*1,29*3,33*1,39*1";
 w["pfeffern"]="12*1";
+w["pfeffern."]="12*1";
 
