@@ -105,14 +105,13 @@ Aktion: "Das Sauerkraut ca. 10 Minuten auf kleiner Flamme erwärmen."
 Aktion: "Kartoffeln kochen."
 Aktion: "Sehr heiß mit viel Senf servieren."
 --Zusatzinformationen--
-
-
-}
+} 
 
 
 
-Rezept "Salzgurken aus der DDR"{
-Titel: "Salzgurken aus der DDR".  
+Rezept "Salzgurken einlegen"{
+Titel: "Salzgurken einlegen". 
+Untertitel: "nach DDR Art".
 
 Kategorie: "Einkochen/Einlegen".
 Quelle: übernommen verändert von "https://www.chefkoch.de/rezepte/1114351217507184/Salzgurken.html" . 
