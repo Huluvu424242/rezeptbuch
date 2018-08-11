@@ -47,7 +47,7 @@
 						<configuration>
 							<filesets>
 								<fileset>
-									<directory>${basedir}/../../docs</directory>
+									<directory>${basedir}/../../docs/${project.artifactId}</directory>
 									<followSymlinks>false</followSymlinks>
 								</fileset>
 							</filesets>
