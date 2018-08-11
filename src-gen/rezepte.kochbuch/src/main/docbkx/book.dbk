@@ -271,6 +271,7 @@
 		    
 		<xi:include href="Rezept_10_0.dbk" />
 		<xi:include href="Rezept_10_1.dbk" />
+		<xi:include href="Rezept_10_2.dbk" />
 		</part>
 		<part>
 		    <title>Bernburger Rezepte</title>

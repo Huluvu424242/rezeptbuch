@@ -6,7 +6,7 @@ import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
 Rezept "Jägerschnitzel (DDR)" {
 
 Titel: "Jägerschnitzel".
-Untertitel: "nach DDR Art".
+Untertitel: "nach DDR Art". 
 Kategorie: "Kochen".
 Quelle: übernommen verändert von "http://www.kochbar.de/rezept/369345/altes-DDR-Rezept-Jaegerschnitzel.html".
 Ausreichend für 2 Personen.
