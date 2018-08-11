@@ -111,6 +111,49 @@ Aktion: "Sehr heiß mit viel Senf servieren."
 
 
 
+Rezept "Salzgurken aus der DDR"{
+Titel: "Salzgurken aus der DDR".  
+
+Kategorie: "Einkochen/Einlegen".
+Quelle: übernommen verändert von "https://www.chefkoch.de/rezepte/1114351217507184/Salzgurken.html" . 
+Letzte Änderung: 11.08.2018.
+Tag: "Salzgurken" 
+ 
+Brennwert pro Portion 0 WSP.
+Zutat: "Bauerngurken" Menge: "2" kg , SmartPoints: 0.
+Zutat: "Dill" Menge: "1" Bund, SmartPoints: 0.
+Zutat: "Meerrettich" Menge: "3" Dose(n), SmartPoints: 0.
+Zutat: "Lorbeerblätter" Menge: "25" Stück, SmartPoints: 0.
+Zutat: "Senfkörner" Menge: "5" Esslöffel, SmartPoints: 0.
+Zutat: "Knoblauch" Menge: "25" Zehe(n), SmartPoints: 0.
+Zutat: "Salz" nach Bedarf, SmartPoints: 0.
+
+ 
+Aktion: "Die Gurken 12 h in Wasser einlegen um die Bitterstoffe zu lösen."
+Aktion: "Anschließend die Gurken gut abbürsten."
+Aktion: "Dill gründlich waschen."
+Aktion: "Den Knoblaub schälen und pressen. "
+Tipp: {"Am besten direkt bei der Zugabe auspressen, damit nix verloren geht."}
+Aktion: "Eine Schicht Gurken in den Steintopf legen."
+Aktion: "Die Gurken mit Meerrettich bestreichen, einige Senfkörner, Lorbeerblätter, Dillstängel, und Knoblauch auflegen."
+Aktion: "Dann die nächste Schicht Gurken auflegen und diese wieder mit Meerrettich, Senflörnern, Lorbeerblättern, Dillstängeln und Knoblauch belegen."
+Aktion: "In dem Wechsel den kompletten Steintopf schichtweise füllen."
+Aktion: "Das Wassser für den Steintopf mit 3 EL Salz je Liter zum Kochen ansetzen."
+Aktion: "Wasser gut abkochen und anschließend abgedeckt abkühlen lassen."
+Aktion: "Den Steintopf mit dem abgekühlten Wasser randvoll auffüllen."
+Aktion: "Topf in kühler Umgebung stehen lassen. Nach 4 Tagen dürften die ersten Gurken essbar sein."
+ --Zusatzinformationen--
+ Anmerkung: {
+  "Es bildet sich ein weißer Schaum, das ist nichts Schlechtes. Er kann nach der Entnahme der Gurken einfach abgespült werden."
+ }
+}
+
+
+
+
+
+
+
 
 
 
