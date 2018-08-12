@@ -136,6 +136,38 @@ Aktion: "10 Minuten backen."
 
 }
 
+Rezept "Snackriegel" {
+	Titel: "Snackriegel".
+	Kategorie: "Riegel".
+	Quelle: übernommen verändert von "https://www.chefkoch.de/rezepte/29931008080373/Muesliriegel.html".
+	Letzte Änderung: 12.08.2018.
+	Stoff: "Hafer" Stoff: "Honig" Stoff: "Zucker" Stoff: "Haselnuss"
+	
+	Zutat: "Haferflocken, kernig" Menge: "200" g.
+	Zutat: "Haferfleks" Menge: "100" g.
+	Zutat: "Haselnüsse, gehackt" Menge: "100" g.
+	Zutat: "Sonnenblumenkerne" Menge: "50" g.
+	Zutat: "Cranberrys" Menge: "40" g.
+	Zutat: "Butter (gute oder Tafelbutter)" Menge: "50" g.
+	Zutat: "Zucker" Menge: "100" g.
+	Zutat: "Honig" Menge: "100" g.
+	Zutat: "Zitronensaft" Menge: "1" Teelöffel.
+		
+	Aktion: "Backblech vorbereiten und mit Backpapier auslegen (nur zur Ablage, Backofen wird nicht benötigt)."
+	Aktion: "Die Haferflocken, Haferfleks, Haselnüsse, Sonnenblumenkerne und Cranberries gut mischen."
+	Aktion: "Butter in einem hohen Topf auf kleiner Flamme erwärmen."
+	Aktion: "Zucker, Honig und Zitronensaft vorsichtig unter die Butter rühren."
+	Aktion: "Die Masse nun unter Rühren zum Kochen bringen und 3 - 4 Minuten leicht köcheln lassen bis sie zu karamellisieren beginnt."
+	Aktion: "Die vorgemischten Zutaten beim köcheln unterrühren."
+	Aktion: "Solange rühren bis sich eine dunklere Färbung einstellt."
+	Aktion: "Die warme Masse auf das mit Backpapier belegte Backblech klecksen und zu einer Platte von 30x30 cm ausrollen."
+	Aktion: "Die Platte nun etwa 15 Minuten abkühlen lassen."
+	Aktion: "Aus der etwas erkalteten Platte Riegel herausschneiden."
+	Aktion: "Die Riegel auskühlen lassen und trocken aufbewahren."
+	
+	
+	
+}
 
 
 

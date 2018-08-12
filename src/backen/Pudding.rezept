@@ -3,7 +3,7 @@ import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
 
 Rezept "Schokopudding"{
 Titel: "Schoko Pudding".  
-Kategorie: "Kochen". 
+Kategorie: "Backen". 
 Letzte Änderung: 30.12.2012.
 Tag: "Pudding" Diät: "Fruchtzuckerarm-Aufbauphase"
  
