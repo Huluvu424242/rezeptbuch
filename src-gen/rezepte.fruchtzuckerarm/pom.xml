@@ -10,9 +10,56 @@
 	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 	<groupId>rezepte</groupId>
 	<artifactId>fruchtzuckerarm</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0-SNAPSHOT</version>
 	<name>Fruchtzuckerarm kochen</name>
 	<packaging>pom</packaging>
+
+	<profiles>
+		<profile>
+			<id>github</id>
+			<properties>
+				<github.global.userName>${env.gituser}</github.global.userName>
+				<github.global.password>${env.gitpassword}</github.global.password>
+				<github.site.repositoryName>rezeptbuch</github.site.repositoryName>
+				<github.site.repositoryOwner>${env.gituser}</github.site.repositoryOwner>
+				<site.img.path>http://funthomas424242.github.io/rezeptbuch/kochbuch/media/</site.img.path>
+			</properties>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>com.github.github</groupId>
+						<artifactId>site-maven-plugin</artifactId>
+						<version>${github.maventools.version}</version>
+						<dependencies>
+							<dependency>
+								<groupId>org.apache.maven.plugins</groupId>
+								<artifactId>maven-site-plugin</artifactId>
+								<version>${mvn.siteplugin.version}</version>
+							</dependency>
+						</dependencies>
+						<configuration>
+							<message>Building site for ${project.version}</message>
+							<dryRun>${testonly}</dryRun>
+							<noJekyll>true</noJekyll>
+							<merge>true</merge>
+							<repositoryName>${github.site.repositoryName}</repositoryName>
+							<repositoryOwner>${github.site.repositoryOwner}</repositoryOwner>
+							<userName>${github.global.userName}</userName>
+							<password>${github.global.password}</password>
+						</configuration>
+						<executions>
+							<execution>
+								<goals>
+									<goal>site</goal>
+								</goals>
+								<phase>site</phase>
+							</execution>
+						</executions>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+	</profiles>
 
 
 	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
@@ -33,72 +80,15 @@
 	<!-- BUILD -->
 	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 	<build>
-        <defaultGoal>post-site</defaultGoal>
+        <defaultGoal>site</defaultGoal>
 		<plugins>			
-			<plugin>
-				<artifactId>maven-clean-plugin</artifactId>
-				<version>3.1.0</version>
-				<executions>
-					<execution>
-						<phase>pre-site</phase>
-						<goals>
-							<goal>clean</goal>
-						</goals>
-						<configuration>
-							<filesets>
-								<fileset>
-									<directory>${basedir}/../../docs/${project.artifactid}</directory>
-									<followSymlinks>false</followSymlinks>
-								</fileset>
-							</filesets>
-						</configuration>
-					</execution>
-				</executions>
-			</plugin>
-			<plugin>
-				<artifactId>maven-resources-plugin</artifactId>
-				<executions>
-					<execution>
-						<id>mediacopy-site</id>
-						<phase>pre-site</phase>
-						<goals>
-							<goal>copy-resources</goal>
-						</goals>
-						<configuration>
-							<outputDirectory>${project.build.directory}/site/${project.artifactId}/media</outputDirectory>
-							<resources>
-								<resource>
-									<directory>${media.parent}</directory>
-									<filtering>false</filtering>
-								</resource>
-							</resources>
-						</configuration>
-					</execution>
-					<execution>
-						<id>sitecopy</id>
-						<phase>post-site</phase>
-						<goals>
-							<goal>copy-resources</goal>
-						</goals>
-						<configuration>
-							<outputDirectory>${basedir}/../../docs/${project.artifactId}</outputDirectory>
-							<resources>
-								<resource>
-									<directory>${project.build.directory}/site/${project.artifactId}</directory>
-									<filtering>false</filtering>
-								</resource>
-							</resources>
-						</configuration>
-					</execution>
-				</executions>
-			</plugin>
 			<plugin>
 				<groupId>com.agilejava.docbkx</groupId>
 				<artifactId>docbkx-maven-plugin</artifactId>
 				<configuration>
 					<sourceDirectory>${basedir}/src/main/docbkx</sourceDirectory>
 					<generatedSourceDirectory>${project.build.directory}/docbkx/generated</generatedSourceDirectory>
-					<imgSrcPath>media/</imgSrcPath>
+					<imgSrcPath>${site.img.path}</imgSrcPath>
 					<keepRelativeImageUris>true</keepRelativeImageUris>
 					<includes>book.dbk</includes>
 					<xincludeSupported>true</xincludeSupported>
@@ -156,7 +146,27 @@
 					</dependency>
 				</dependencies>
 			</plugin>
-
+			<plugin>
+				<artifactId>maven-resources-plugin</artifactId>
+				<executions>
+					<execution>
+						<id>mediacopy-common</id>
+						<phase>pre-site</phase>
+						<goals>
+							<goal>copy-resources</goal>
+						</goals>
+						<configuration>
+							<outputDirectory>${project.build.directory}/site/${project.artifactId}/media</outputDirectory>
+							<resources>
+								<resource>
+									<directory>${media.parent}</directory>
+									<filtering>false</filtering>
+								</resource>
+							</resources>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>			
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-site-plugin</artifactId>

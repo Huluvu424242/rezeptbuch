@@ -121,11 +121,12 @@ Tag: "Salzgurken"
 Brennwert pro Portion 0 WSP.
 Zutat: "Bauerngurken" Menge: "2" kg , SmartPoints: 0.
 Zutat: "Dill" Menge: "1" Bund, SmartPoints: 0.
-Zutat: "Meerrettich" Menge: "3" Dose(n), SmartPoints: 0.
-Zutat: "Lorbeerblätter" Menge: "25" Stück, SmartPoints: 0.
+Zutat: "Meerrettich" Menge: "2" Dose(n), SmartPoints: 0.
+Zutat: "Lorbeerblätter" Menge: "1" Päckchen, SmartPoints: 0.
 Zutat: "Senfkörner" Menge: "5" Esslöffel, SmartPoints: 0.
 Zutat: "Knoblauch" Menge: "25" Zehe(n), SmartPoints: 0.
-Zutat: "Salz" nach Bedarf, SmartPoints: 0.
+Zutat: "Salz" Menge: "9" Esslöffel, SmartPoints: 0.
+Zutat: "Wasser" Menge: "3" L, SmartPoints: 0.
 
  
 Aktion: "Die Gurken 12 h in Wasser einlegen um die Bitterstoffe zu lösen."
@@ -145,6 +146,57 @@ Aktion: "Topf in kühler Umgebung stehen lassen. Nach 4 Tagen dürften die erste
  Anmerkung: {
   "Es bildet sich ein weißer Schaum, das ist nichts Schlechtes. Er kann nach der Entnahme der Gurken einfach abgespült werden."
  }
+ Bild: {
+ 	URL: "https://farm2.staticflickr.com/1838/43946255512_f37202b98b_o.jpg" 
+ 	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+ }
+ Bild: {
+ 	URL: "https://farm2.staticflickr.com/1797/29057259617_84e3f2351c_o.jpg" 
+ 	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+ }
+ Bild: {
+ 	URL: "https://farm1.staticflickr.com/942/43946252022_6fcf5e6ac1_o.jpg" 
+ 	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+ }
+ Bild: {
+ 	URL: "https://farm1.staticflickr.com/928/43946249622_f5df9ed606_o.jpg"  		
+ 	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+ }
+ Bild: {
+ 	URL: "https://farm2.staticflickr.com/1797/43089095865_1c7a8e713e_o.jpg"  	
+ 	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+ }
+ Bild: {
+ 	URL: "https://farm2.staticflickr.com/1819/43946247532_c006b90a43_o.jpg" 
+ 	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+ }
+ Bild: {
+ 	URL: "https://farm1.staticflickr.com/934/43089098395_dab7352279_o.jpg" 
+ 	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+ }
+ Bild: {
+ 	URL: "https://farm2.staticflickr.com/1835/43946235132_4912a83f56_o.jpg" 
+ 	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+ }
+ Bild: {
+ 	URL: "https://farm2.staticflickr.com/1796/29057245437_e592551368_o.jpg" 
+ 	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+ }
+ Bild: {
+ 	URL: "https://farm2.staticflickr.com/1771/43946230242_c70641ce50_o.jpg"  	
+ 	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+ }
+ 
 }
 
 
