@@ -96,6 +96,32 @@ Aktion: "Reis als Beilage servieren."
 --Zusatzinformationen--
 }
 
+Rezept "KartoffelpfanneMitSchinkenspeck"{
+	Titel: "Kartoffelpfanne mit Schinkenspeck".
+    Kategorie: "Kochen".
+    Ausreichend für 2 Personen.
+    Letzte Änderung: 09.12.2018 .
+    Stoff: "Kartoffel" Stoff: "Schwein"
+    
+    Zutat: "Kartoffeln" Menge: "250" g.
+    Zutat: "Pflanzenöl" Menge: "1" Teelöffel.
+    Zutat: "Pfeffer" Menge: "1" Prise.
+    Zutat: "Wasser" Menge: "3" Esslöffel.
+    Zutat: "Schinkenspeck" Menge: "75" g.
+    Zutat: "braune Champignons, frisch" Menge: "150" g.
+    Zutat: "Hühnereier" Menge: "2" Stück.
+    
+    Aktion: "Kartoffeln schälen, waschen und in 2 cm große Würfel schneiden."
+    Aktion: "Öl in einer Pfanne erhitzen und die Kartoffelwürfel darin 3-4 Minuten braten."
+    Aktion: "Mit Pfeffer würzen, Wasser dazugeben und abgedeckt ca. 5 Minuten unter gelegentlichen
+			Umrühren garen."
+	Aktion: "Schinkenspeck in Streifen schneiden, unter die Kartoffeln heben und ca. 2 Minuten garen."
+	Aktion: "Pilze trocken abreiben, in dünne Scheiben schneiden, in die Pfanne geben und ca. 2-3 Minuten garen."
+	Aktion: "Zwei Mulden in die Kartoffelmischung drücken. Eier aufschlagen und in die Mulden geben."
+	Aktion: "Abgedeckt ca. 2 Minuten garen, bis die Eier die gewünschte Konsistenz besitzen."
+	Aktion: "Kartoffelpfanne mit Schinkenspeck servieren."
+}
+
 
 
 
