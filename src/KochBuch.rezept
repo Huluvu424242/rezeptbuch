@@ -20,6 +20,7 @@ Buch{
 	import rezepte "./Serien/BernburgerRezepte.rezept";
 	import rezepte "./weightwatchers/WeightWatcherMahlzeiten.rezept";
 	import rezepte "./smoothies/GrüneSmoothies.rezept";
+	import rezepte "./tee/Chai.rezept";
 	//import rezepte "./Serien/Strassenkreuzer.rezept";
 	
 	Titel: "Freies Open Source Kochbuch";

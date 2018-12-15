@@ -1,0 +1,51 @@
+Rezeptliste "Chai - Fake" ; 
+import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
+
+
+
+Rezept "Chai"{
+Titel: "Chai aus fertiger Teemischung - analog originaler Herstellungsmethode".  
+
+Kategorie: "Getränke".
+Quelle: übernommen verändert von "https://www.smarticular.net/indischen-gewuerz-tee-selbermachen-mit-zimt-kardamom-nelke-ingwer/" . 
+Letzte Änderung: 15.12.2018.
+Tag: "Chai" Stoff: "Tee"
+ 
+Zutat: "Chai Mischung" Menge: "2" Teelöffel.
+Zutat: "Milch (auch laktosefrei oder pflanzlich möglich)" Menge: "500" ml.
+Zutat: "Wasser" Menge: "500" ml.
+ 
+Aktion: "2 Teelöffel der Chaimischung im Mörser mittels Stössel zerkleinern."
+Tipp: {
+    "Da die vorgefertigten Mischungen sehr unterschiedlich würzig ausfallen, muss jeder selbst ausprobieren wie viele Teelöffel er benötigt. 2-3 Teelöffel
+habe ich ausprobiert und fand 2 ganz gut. 4 war eindeutig zu viel obwohl auf der Packung stand, daß pro Tasse ein Teelöffel benötigt wird und eine Tasse 250 ml enthält. 
+Dieser Effekt tritt vermutlich durch die extreme Vergrößerung der wirksamen Oberfläche der Gewürze bei deren Zerkleinerung auf."
+}
+Aktion: "Die zerkleinerte Gewürzmischung in einen Topf geben und vorsichtig erhitzen (höchste Stufe=9) bis intensiver, würziger Duft aufsteigt."
+Tipp: {
+    "Das Erhitzen sofort unterbrechen wenn sich erster Rauch bildet. Meiner Erfahrung nach wird der Tee dann so kratzig, dass er nicht mehr geniesbar ist."
+}
+Aktion: "Unter ständigem Rühren, nach und nach die gesamte Milch zugeben und diese immer kurz vorm Kochen halten."
+Tipp: {
+	"Bei laktosefreier Milch leidet der Geschack etwas aber nicht viel. Pflanzliche Milch wie Soja, Hafer, Reis habe ich noch nicht ausprobiert."
+}
+Aktion: "Jetzt das Wasser zugeben."
+Aktion: "Unter ständigem Rühren alles kurz aufkochen und dann den Sud 3 - 5 Minuten auf niedrigerer Stufe z.B. 8 kochen lassen."
+Aktion: "Den kompletten Tee durch ein sehr feines Teesieb filtern und das Filtrat in einer Teekanne sammeln."
+
+ --Zusatzinformationen--
+ 
+ Anmerkung: {
+  "Mit fertigen Teemischungen lässt sich leider kein echter Chai herstellen, da sich meist der Tee nicht mehr von den Gewürzen trennen lässt. Sollte
+es dennoch gelingen, dann bitte in der Rezeptquelle nachlesen. Dort wird gezeigt wie der Chai im Originalen hergestellt wird."
+ }
+ 
+}
+
+
+
+
+
+
+
+
