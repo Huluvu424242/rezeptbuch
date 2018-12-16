@@ -15,7 +15,7 @@ Zutat: "Chai Mischung" Menge: "2" Teelöffel.
 Zutat: "Milch (auch laktosefrei oder pflanzlich möglich)" Menge: "500" ml.
 Zutat: "Wasser" Menge: "500" ml.
  
-Aktion: "2 Teelöffel der Chaimischung im Mörser mittels Stössel zerkleinern."
+Aktion: "2 Teelöffel der Chaimischung im Mörser mittels Stößel zerkleinern."
 Tipp: {
     "Da die vorgefertigten Mischungen sehr unterschiedlich würzig ausfallen, muss jeder selbst ausprobieren wie viele Teelöffel er benötigt. 2-3 Teelöffel
 habe ich ausprobiert und fand 2 ganz gut. 4 war eindeutig zu viel obwohl auf der Packung stand, daß pro Tasse ein Teelöffel benötigt wird und eine Tasse 250 ml enthält. 
@@ -39,6 +39,54 @@ Aktion: "Den kompletten Tee durch ein sehr feines Teesieb filtern und das Filtra
   "Mit fertigen Teemischungen lässt sich leider kein echter Chai herstellen, da sich meist der Tee nicht mehr von den Gewürzen trennen lässt. Sollte
 es dennoch gelingen, dann bitte in der Rezeptquelle nachlesen. Dort wird gezeigt wie der Chai im Originalen hergestellt wird."
  }
+ 
+ Bild: {
+ 	URL: "https://c1.staticflickr.com/5/4910/45413521195_790d060546_b.jpg"
+	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+	Urheber:"Huluvu424242"
+ }	
+  
+ Bild: {
+ 	URL: "https://c1.staticflickr.com/5/4857/45413519375_3f319343ed_b.jpg"
+	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+	Urheber:"Huluvu424242"
+ }	
+  
+ Bild: {
+ 	URL: "https://c1.staticflickr.com/5/4875/45413514095_dd5c1a8690_b.jpg"
+	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+	Urheber:"Huluvu424242"
+ }	
+  
+ Bild: {
+ 	URL: "https://c1.staticflickr.com/5/4828/45602685344_2389a8323a_b.jpg"
+	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+	Urheber:"Huluvu424242"
+ }	
+  
+ Bild: {
+ 	URL: "https://c1.staticflickr.com/5/4836/46326391261_4b3b861845_b.jpg"
+	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+	Urheber:"Huluvu424242"
+ }	
+  
+ Bild: {
+ 	URL: "https://c1.staticflickr.com/5/4815/46325990661_484f829d5b_b.jpg"
+	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+	Urheber:"Huluvu424242"
+ }	
+  
+ Bild: {
+ 	URL: "https://c1.staticflickr.com/5/4881/46325986321_972e1a25a6_b.jpg"
+	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+	Urheber:"Huluvu424242"
+ }	
+  
+ Bild: {
+ 	URL: "https://c1.staticflickr.com/5/4806/44509775100_d828faa8ba_b.jpg"
+	Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+	Urheber:"Huluvu424242"
+ }	
  
 }
 
