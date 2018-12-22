@@ -76,10 +76,9 @@ Bild: {
 
 }
 
-Rezept "Eisbein (DDR)" {
+Rezept "EisbeinDDR" {
 
-Titel: "Eisbein".
-Untertitel: "nach DDR Art".
+Titel: "Eisbein auf DDR Art".
 Kategorie: "Kochen".
 Quelle: übernommen verändert von "http://www.kochbar.de/rezept/361082/Eisbein-gekocht.html".
 Ausreichend für 2 Personen.
