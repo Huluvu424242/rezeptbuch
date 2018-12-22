@@ -185,6 +185,96 @@ Rezept "Eisbein" {
 	}	
 }
 
+Rezept "KarpfenBlau" {
+
+Titel: "Karpfen Blau auf Gemüsebett mit Kartoffeln".
+Kategorie: "Kochen".
+Quelle: übernommen verändert von "https://www.chefkoch.de/rezepte/23721005895340/Karpfen-blau.html". 
+Ausreichend für 2 Personen.
+Letzte Änderung: 22.12.2018.
+Stoff: "Fisch" Stoff: "Kartoffel"
+
+Zutat: "Karpfen frisch" Menge: "1" kg.
+Zutat: "Suppengemüse" Menge: "1" kg.
+Zutat: "Zwiebel" Menge: "1" Stück.
+Zutat: "Wasser" Menge: "2"  L.
+Zutat: "Lorbeerblätter" Menge: "1" Stück.
+Zutat: "Nelken" Menge: "3" Stück.
+Zutat: "Pimentkörner" Menge: "5" Stück.
+Zutat: "Pfefferkörner" Menge: "10" Stück.
+Zutat: "Salz" Menge: "2" Esslöffel.
+Zutat: "Kartoffeln" nach Bedarf.
+Zutat: "Essig" Menge: "6" Esslöffel.
+Zutat: "Merretich und oder Zitrone" nach Bedarf.
+
+Aktion: "In einem Bräter das Suppengemüse mit dem Wasser, der Zwiebel, dem Lorbeerblatt, den Pfefferkörnern,
+den Pimentkörnern, den Nelken, dem Salz und dem Essig  abgedeckt zum Kochen ansetzen."
+Aktion: "In der Zwischenzeit den Karpfen unter fließend Wasser innen und außen abspülen und auf einen
+hitzebeständigen Becher platzieren."
+Tipp: {
+"Den Karpfen nur mit feuchten Händen berühren und nur auf nasser Unterlage lagern damit die Schleimhaut nicht leidet. Sie ist für die Blaufärbung notwendig."
+}
+Aktion: "Nachdem der Sud im Bräter kocht, den Karpfen hineinstellen und noch 5 Minuten kochen lassen.
+Der Karpfen sollte nun blau angelaufen sein."
+Aktion: "Jetzt den Bräter auf eine niedrige Stufe stellen so dass der Inhalt nicht mehr kocht und 40 Minuten gar ziehen lassen."
+Tipp:{
+	"Wenn sich die Rückenflosse leicht herausziehen lässt, ist der Fisch gut."
+}
+Aktion: "Karpfen und Gemüse mittels Schaumlöffel dem Bräter entnehmen."
+Aktion: "Serviert wird auf einer vorgewärmten Platte auf welcher das Gemüse als Unterlage ausgebreitet wird."
+
+--Zusatzinformationen--
+	
+	Bild: {
+		URL: "https://c2.staticflickr.com/8/7853/45508656645_3e12ccdf2f_b.jpg"
+		Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+		Urheber:"Huluvu424242"
+	}	
+	
+	Bild: {
+		URL: "https://c1.staticflickr.com/5/4894/46421067531_416c9fe6fb_b.jpg"
+		Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+		Urheber:"Huluvu424242"
+	}	
+	
+	Bild: {
+		URL: "https://c2.staticflickr.com/8/7890/46421066261_4bb3995805_b.jpg"
+		Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+		Urheber:"Huluvu424242"
+	}	
+	
+	Bild: {
+		URL: "https://c2.staticflickr.com/8/7926/45698213394_5a7096a6de_b.jpg"
+		Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+		Urheber:"Huluvu424242"
+	}	
+	
+	Bild: {
+		URL: "https://c2.staticflickr.com/8/7860/45698211694_19ed2a54ed_b.jpg"
+		Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+		Urheber:"Huluvu424242"
+	}	
+	
+	Bild: {
+		URL: "https://c2.staticflickr.com/8/7925/45698208994_0c14ab3f58_b.jpg"
+		Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+		Urheber:"Huluvu424242"
+	}	
+	
+	Bild: {
+		URL: "https://c1.staticflickr.com/5/4831/46421059681_6020a73ddc_b.jpg"
+		Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+		Urheber:"Huluvu424242"
+	}	
+	
+	Bild: {
+		URL: "https://c1.staticflickr.com/5/4827/46421057121_fba5994dbf_b.jpg"
+		Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Generic (CC BY-SA 2.0)"
+		Urheber:"Huluvu424242"
+	}	
+}
+
+
 
 
 
