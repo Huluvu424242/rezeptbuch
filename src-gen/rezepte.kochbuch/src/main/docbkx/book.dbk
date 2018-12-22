@@ -256,6 +256,7 @@
 		<xi:include href="Rezept_8_2.dbk" />
 		<xi:include href="Rezept_8_3.dbk" />
 		<xi:include href="Rezept_8_4.dbk" />
+		<xi:include href="Rezept_8_5.dbk" />
 		</part>
 		<part>
 		    <title>Nudeln</title>
