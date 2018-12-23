@@ -199,6 +199,214 @@ Rezept "Fischauflauf" {
 	
 }
 
+Rezept "Spargelauflauf" {
+Titel: "Spargelauflauf".
+Kategorie: "Auflauf".
+Quelle: übernommen verändert von "https://www.hellofresh.de/recipes/endlich-spargelzeit-5538c81e6ced6edc208b456f".
+Ausreichend für 4 Personen.
+Letzte Änderung: 23.12.2018. 
+Tag: "Gemüse" Diät: "Vegtarisch" Diät: "Fleischlos"
+Stoff: "Spargel" Stoff: "Kartoffel"
+
+Zutat: "Kartoffeln" Menge: "1,2" kg.
+Zutat: "Spargel" Menge: "400" g.
+Zutat: "Partytomaten" Menge: "8" Stück.
+Zutat: "Scharlotten" Menge: "2" Stück.
+Zutat: "Spinat" Menge: "300" g.
+Zutat: "Milch" Menge: "250" ml.
+Zutat: "Gratinkäse" Menge: "300" g.
+Zutat: "Eier" Menge: "2" Stück.
+Zutat: "Kümmel" Menge: "1" Teelöffel.
+Zutat: "Öl" etwas.
+
+
+Aktion: "Kartoffeln waschen und im Salzwasser zum Kochen aufsetzen und 15 Minuten auf kleiner Flamme köcheln lassen.
+Dann abgießen und ausdampfen lassen."
+Aktion: "Spargel abtropfen lassen und halbieren."
+Tipp:{
+	"Bei frischem Spargel, diesen schälen, halbieren und im Salzwasser mit 1 Teelöffel Zucker und 1 Teelöffel Essig ca. 10 
+Minuten kochen."
+}
+Aktion: "Die Tomaten würfeln und die Scharlotten in schmale Ringe schneiden."
+Aktion: "In einer Pfanne etwas Öl erwärmen und die Scharlotten darin glasig dünsten. Anschließend die Tomaten
+und den Spinat zugeben und mit Salz und Pfeffer würzen."
+Aktion: "Kartoffeln in Scheiben schneiden und in eine Auflaufform geben - sie bilden die untere Schicht des Auflaufs."
+Aktion: "Als nächstes die Spinat-Tomaten Masse als zweite Schicht auflegen."
+Aktion: "Nun eine dritte Schicht aus den Spargelstücken auflegen."
+Aktion: "Anschließend die Eier mit der Milch verrühren, mit Salz und Pfeffer würzen und über den Auflauf verteilen."
+Tipp:{
+	"Es gibt auch Rezepte bei denen ein Teil des Gratinkäse in warmer Milch gelöst wird. Das stelle ich mir auch sehr schmackhaft vor."
+}
+Aktion: "Den kompletten Auflauf mit Gratinkäse bedecken."
+Aktion: "Den Auflauf im vorgewärmten Backofen bei 200 Grad etwa 20 Minuten backen."
+
+Tipp:{
+	"Mir persönlich sind es zu viel Kartoffeln und zu wenig Gemüse. Daher würde ich als nächsten Versuch folgende Mengen
+ausprobieren: 600 g Kartoffeln und 500 g Spinat sowie eine komplette Packung kleiner Rispentomaten."
+}
+
+--Zusatzinformationen--
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4850/44524718770_ecc0133de9_b.jpg" 
+    Text: "Die Zutaten"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4915/44524716410_33c3a11843_b.jpg" 
+    Text: "Kartoffeln kochen."
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4872/44524715350_4abd9f823c_b.jpg" 
+    Text: "Scharlotten und Tomaten vorbereiten"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4816/31402399217_cd2380992f_b.jpg" 
+    Text: "Spinat vorbereiten"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4871/44524709710_bc2486fb1c_b.jpg" 
+    Text: "Das Öl zum Anbraten"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4909/32469503598_b266f501f5_b.jpg" 
+    Text: "Anbraten der Scharlotten"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4839/32469502578_b61be15c41_b.jpg" 
+    Text: "Glasige Scharlotten"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4874/45428978395_2827c1e04c_b.jpg" 
+    Text: "Zugabe von Spinat und Tomaten"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4859/32469499958_2366723359_b.jpg" 
+    Text: "Fertige Tomaten Spinat Masse"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4833/44524712440_c4d4ff8095_b.jpg" 
+    Text: "Gekochte Kartoffeln"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4834/44524711620_ab087ecee5_b.jpg" 
+    Text: "Die Kartoffelschicht"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4869/32469496198_1e84b0ab2d_b.jpg" 
+    Text: "Die Gemüseschicht"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4861/45428972555_f072c69b13_b.jpg" 
+    Text: "Aufbau der Spargelschicht"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4878/32469492868_331c483948_b.jpg" 
+    Text: "!!!Falsche Reihenfolge!!! durch das Salz stockt das Ei gleich - nicht nachmachen!"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4885/44524708760_2748caee47_b.jpg" 
+    Text: "Fertige Sosse"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4839/32469490858_e715485b83_b.jpg" 
+    Text: "Damit ist der Auflauf soweit vorbereitet."
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4885/45618287294_0f6931042b_b.jpg" 
+    Text: "Der fertige Auflauf"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4872/31402402357_6734e42897_b.jpg" 
+    Text: "Nach Anschnitt"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4834/31402400437_356d88c679_b.jpg" 
+    Text: "Serviervariante"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4909/45618283104_a82c6627a2_b.jpg" 
+    Text: "Perspektivenwechsel"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+}
+
+
 
 
 

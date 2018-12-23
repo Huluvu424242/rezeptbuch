@@ -43,6 +43,7 @@
 		<xi:include href="Rezept_0_0.dbk" />
 		<xi:include href="Rezept_0_1.dbk" />
 		<xi:include href="Rezept_0_2.dbk" />
+		<xi:include href="Rezept_0_3.dbk" />
 		</part>
 		<part>
 		    <title>Pizza</title>
