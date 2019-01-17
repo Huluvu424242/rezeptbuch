@@ -406,6 +406,64 @@ Bild: {
 
 }
 
+Rezept "Gemüseauflauf" {
+Titel: "Gemüseauflauf".
+Kategorie: "Auflauf".
+Quelle: übernommen verändert von "https://www.kochbar.de/rezept/424884/Gemueseauflauf.html".
+Ausreichend für 4 Personen.
+Letzte Änderung: 17.01.2019. 
+Tag: "Gemüse" Diät: "Vegtarisch" Diät: "Fleischlos"
+Stoff: "Zucchini" Stoff: "Käse"
+
+Zutat: "Zucchine" Menge: "2" Stück.
+Zutat: "Möhre" Menge: "2" Stück.
+Zutat: "Fenchel" Menge: "1" Stück.
+Zutat: "Broccoli" Menge: "1" Stück.
+Zutat: "Eier" Menge: "8" Stück.
+Zutat: "Milch" Menge: "400" ml.
+Zutat: "Gratinkäse" Menge: "200" g.
+Zutat: "Mozzarella" Menge: "2" Stück.
+Zutat: "Kerne" Menge: "2" Esslöffel. 
+Zutat: "Pfeffer und Salz" nach Bedarf.
+Zutat: "Muskatnuss" etwas.
+
+
+Aktion: "Gemüse waschen, putzen in Scheiben bzw. in Stücke schneiden, gut durchmischen
+und in eine gefettete Auflaufform geben."
+Tipp:{
+	"Zu hartes Gemüse bei Bedarf vorher kurz ankochen."
+}
+Aktion: "Die Milch mit den Eiern und Gewürzen verquirlen und über das Gemüse geben."
+Aktion: "Den Mozerella würfeln umd gemeinsam mit dem Gratin Käse über den Auflauf verteilen."
+Aktion: "Mischung aus Körnern über den Käse streuen."
+Aktion: "Auflauf im vorgeheizten Ofen bei 175° Celsius etwa 30 Minuten backen."
+
+--Zusatzinformationen--
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4889/46755682181_3e94c12c09_b.jpg"
+    Text: "Vorbereitung der Käsehaube"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4889/39790278793_77ac133b17_b.jpg" 
+    Text: "Gemüse aufgeschichtet"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+Bild: {
+    URL: "https://c1.staticflickr.com/5/4894/46702892842_a706a0a703_b.jpg" 
+    Text: "Gemüse fertig aufgeschichtet"
+    Lizenz: "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland License"
+    Urheber: "Huluvu424242"
+    }
+
+
+}
 
 
 
