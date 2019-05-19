@@ -1,6 +1,36 @@
 Rezeptliste "Kuchen" ; 
 import produkte "../Commons/ProdukteEdeka.rezept" alias "Edeka";
 
+Rezept "Schokokuchen"{
+Titel: "Schokokuchen".  
+
+Kategorie: "Backen". 
+Quelle: überliefert von "Sara".
+
+Letzte Änderung: 19.05.2019.
+Tag: "Zartbitter"
+Tag: "Schokolade"
+Tag: "Butter"
+Tag: "Eier"
+Tag: "Zucker"
+Tag: "Mehl"
+
+Zutat: "Schokolade"  Menge: "200" g.
+Zutat: "Butter" Menge: "200" g.
+Zutat: "Eier" Menge: "5" Stück.
+Zutat: "Zucker" Menge: "250" g.
+Zutat: "Mehl" Menge: "1" Esslöffel. 
+ 
+Aktion: "Die Schokolade mit der Butter gemeinsam in einem Wasserbad schmelzen, vermrühren und wieder abkühlen lassen."
+Aktion: "Separat das Mehl mit dem Zucker vermischen und in eine Schüssel geben."
+Aktion: "Die geschlagenen Eier mit der Masse verkneten."
+Aktion: "Nun die Schoko-Butter Masse unterheben."
+Aktion: "Den gesammten Teig in eine gefettete Backform geben und 30 Minuten bei 200 Grad backen."
+ --Zusatzinformationen--
+
+ 
+}
+
 Rezept "Apfelkuchen"{
 Titel: "Apfelkuchen".  
 Untertitel: "Hefeteig auf Blech".
@@ -57,6 +87,8 @@ Aktion: "Auskühlen lassen und servieren."
 
  
 }
+
+
 
 Rezept "BrownieBackmischung" {
 Titel: "Brownie Backmischung".

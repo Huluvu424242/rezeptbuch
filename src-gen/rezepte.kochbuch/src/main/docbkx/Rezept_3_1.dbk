@@ -8,10 +8,11 @@
          xmlns:db="http://docbook.org/ns/docbook">
  
  <chapterinfo>
- 	<pubdate>27.01.2013 </pubdate>
+ 	<pubdate>29.06.2014 </pubdate>
  </chapterinfo>
  
-<title>Brownie Backmischung</title>
+<title>Apfelkuchen</title>
+<subtitle>Hefeteig auf Blech</subtitle>
 
 <para>
 	<variablelist>
@@ -19,14 +20,21 @@
 	       <term>Tags:</term>
 		<listitem>
 		   	<para>
-Brownies
+Blech
+,
+Apfel
+,
+Hefe
+,
+Streusel
 	</para>
 	</listitem>
 	    </varlistentry>
 	 <varlistentry>
 	   <term>Quelle:</term>
 	<listitem><para>
-			überliefert von Kochunterricht in der Schule.
+			verändert 
+			übernommen von: <link xlink:href="http://www.kochbar.de/rezept/478099/Apfelkuchen-mit-Streusel-vom-Blech.html" xlink:show="new"/>
 		</para></listitem>
 		 </varlistentry>
 		  </variablelist>
@@ -40,15 +48,7 @@ Brownies
 
 <listitem>
     <para>
-	125
-	g
-Zucker
-</para>
-    </listitem>
-
-<listitem>
-    <para>
-	100
+	375
 	g
 Mehl
 </para>
@@ -56,9 +56,9 @@ Mehl
 
 <listitem>
     <para>
-	75
-	g
-gehackte Nüsse
+	1
+	Päckchen
+Hefe
 </para>
     </listitem>
 
@@ -66,44 +66,37 @@ gehackte Nüsse
     <para>
 	50
 	g
-leicht gehackte Schokolade
-</para>
-    </listitem>
-
-<listitem>
-    <para>
-	2
-	Esslöffel
-Kakaopulver
+Zucker
 </para>
     </listitem>
 
 <listitem>
     <para>
 	1
-	Teelöffel
-Backpulver
+	Päckchen
+Vanillezucker
 </para>
     </listitem>
 
 <listitem>
     <para>
-	0.5
-	Teelöffel
+	1
+	Prise
 Salz
 </para>
     </listitem>
 
 <listitem>
     <para>
-	20
-Oliven
+	200
+	ml
+Milch
 </para>
     </listitem>
 
 <listitem>
     <para>
-	90
+	75
 	g
 Butter
 </para>
@@ -112,7 +105,56 @@ Butter
 <listitem>
     <para>
 	2
-Eier
+	kg
+Äpfel
+</para>
+    </listitem>
+
+<listitem>
+    <para>
+	1
+	Päckchen
+Rum Rosinen
+</para>
+    </listitem>
+
+<listitem>
+    <para>
+	300
+	g
+Mehl
+</para>
+    </listitem>
+
+<listitem>
+    <para>
+	150
+	g
+Zucker
+</para>
+    </listitem>
+
+<listitem>
+    <para>
+	1.5
+	Teelöffel
+Zimt
+</para>
+    </listitem>
+
+<listitem>
+    <para>
+	200
+	g
+Butter
+</para>
+    </listitem>
+
+<listitem>
+    <para>
+	1
+	Prise
+Salz
 </para>
     </listitem>
     </itemizedlist></para>
@@ -124,69 +166,102 @@ Eier
     <para><orderedlist>
 <listitem>
    	<para>
-Alles schichtenweise in ein Glas geben, beschriften, fest verschließen und dunkel und trocken lagern.
+Äpfel schälen und in schmale Spalten schneiden.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Mehl, Hefe, Zucker, Vanillezucker, Salz und Butter gut vermengen.
+ </para>
+ </listitem>
+<listitem>
+   	<para>
+Die Milch dazugeben und zu einem glatten Hefeteig verkneten.
  </para>
  <note>
   <para>
- Idealerweise verschraubare Gläser verwenden, dann könnte die Haltbarkeit etwa bei 1-2 Monaten liegen.
+ Wenn der Teig an den Händen klebt weiteres Mehl dazu geben.
   </para>
  </note>
  </listitem>
 <listitem>
    	<para>
-Das Glas mit der Brownie Backmischung aus dem Lager holen und öffnen.
+Teig ausrollen und aufs Blech legen. Anschliessend mit einer Gabel kleine Löcher in den Teig stechen.
  </para>
  </listitem>
 <listitem>
    	<para>
-Brownie Backmischung in eine große Schüssel geben.
+Nun die Apfelspalten in den Teig drücken und die Rosinen darüber streuen.
  </para>
  </listitem>
 <listitem>
    	<para>
-Die Butter und Eier hinzugeben.
+Jetzt bleiben 15 Minuten bevor der Teig in den Ofen darf, in der Zeit werden die Streusel hergestellt.
  </para>
  </listitem>
 <listitem>
    	<para>
-Verrühren bis ein glatter Teig entsteht.
+Für die Streusel den 2. Teil aus Mehl, Zucker, Zimt, Butter und Salz gut verkneten. Daraus ergibt sich eine streuselige Masse.
  </para>
  </listitem>
 <listitem>
    	<para>
-Den Teig auf einem gefetteten Backblech ca. 2 cm dick ausbringen.
- </para>
- </listitem>
-<listitem>
-   	<para>
-Bei 175°C etwa 30 Minuten backen.
+Die Streusel über den Kuchen schütten und gut verteilen.
  </para>
  <note>
   <para>
- Im Umluftherd möglicherweise schneller fertig.
+ Die Streusel schützen die Apfelstücken auch vor dem Verbrennen.
   </para>
  </note>
  </listitem>
 <listitem>
    	<para>
-Abkühlen lassen und viereckige Stücken schneiden.
+Das Blech im vorgeheizten Backofen auf 180 Grad ca. 20 Minuten backen.
+ </para>
+ <note>
+  <para>
+ Fertig ist der Kuchen wenn man eine Metallnadel in den Teig stecken kann und nach dem raussziehen der Nadel kein Teig an ihr haftet.
+  </para>
+ </note>
+ </listitem>
+<listitem>
+   	<para>
+Auskühlen lassen und servieren.
  </para>
  </listitem>
 </orderedlist ></para>
-<formalpara>
-     <title>Hinweise</title>
-<para>
-<note>
-	<para>Auf folgender Seite lassen sich auch Beschriftungen für die Gläser anfertigen - der Text muss halt angepasst werden
-	<ulink href="http://www.casa-di-falcone.de/products/Aufkleber/Aufkleber-Homemade/Aufkleber-fuer-Backmischungen-Dots.html"/></para>
-</note>
-</para>
-</formalpara>
 	</formalpara>
 
   <formalpara>
     <title>Einkaufsempfehlung</title>
 	<para><itemizedlist>
+	<listitem>
+	        <para>
+	1 x
+		"Päckchen"
+		Hefeteig Garant 
+		1 
+		Päckchen
+	</para>
+	 </listitem>
+	<listitem>
+	        <para>
+	1 x
+		"Päckchen"
+		Rum Rosinen 
+		1 
+		Päckchen
+	</para>
+	 </listitem>
+	<listitem>
+	        <para>
+	1 x
+		"Packung"
+		Milch 
+		1 
+		L
+	</para>
+	 </listitem>
 	</itemizedlist></para>
 	</formalpara>
 

@@ -8,11 +8,10 @@
          xmlns:db="http://docbook.org/ns/docbook">
  
  <chapterinfo>
- 	<pubdate>29.06.2014 </pubdate>
+ 	<pubdate>19.05.2019 </pubdate>
  </chapterinfo>
  
-<title>Apfelkuchen</title>
-<subtitle>Hefeteig auf Blech</subtitle>
+<title>Schokokuchen</title>
 
 <para>
 	<variablelist>
@@ -20,21 +19,24 @@
 	       <term>Tags:</term>
 		<listitem>
 		   	<para>
-Blech
+Zartbitter
 ,
-Apfel
+Schokolade
 ,
-Hefe
+Butter
 ,
-Streusel
+Eier
+,
+Zucker
+,
+Mehl
 	</para>
 	</listitem>
 	    </varlistentry>
 	 <varlistentry>
 	   <term>Quelle:</term>
 	<listitem><para>
-			verändert 
-			übernommen von: <link xlink:href="http://www.kochbar.de/rezept/478099/Apfelkuchen-mit-Streusel-vom-Blech.html" xlink:show="new"/>
+			überliefert von Sara
 		</para></listitem>
 		 </varlistentry>
 		  </variablelist>
@@ -48,97 +50,9 @@ Streusel
 
 <listitem>
     <para>
-	375
-	g
-Mehl
-</para>
-    </listitem>
-
-<listitem>
-    <para>
-	1
-	Päckchen
-Hefe
-</para>
-    </listitem>
-
-<listitem>
-    <para>
-	50
-	g
-Zucker
-</para>
-    </listitem>
-
-<listitem>
-    <para>
-	1
-	Päckchen
-Vanillezucker
-</para>
-    </listitem>
-
-<listitem>
-    <para>
-	1
-	Prise
-Salz
-</para>
-    </listitem>
-
-<listitem>
-    <para>
 	200
-	ml
-Milch
-</para>
-    </listitem>
-
-<listitem>
-    <para>
-	75
 	g
-Butter
-</para>
-    </listitem>
-
-<listitem>
-    <para>
-	2
-	kg
-Äpfel
-</para>
-    </listitem>
-
-<listitem>
-    <para>
-	1
-	Päckchen
-Rum Rosinen
-</para>
-    </listitem>
-
-<listitem>
-    <para>
-	300
-	g
-Mehl
-</para>
-    </listitem>
-
-<listitem>
-    <para>
-	150
-	g
-Zucker
-</para>
-    </listitem>
-
-<listitem>
-    <para>
-	1.5
-	Teelöffel
-Zimt
+Schokolade
 </para>
     </listitem>
 
@@ -152,9 +66,24 @@ Butter
 
 <listitem>
     <para>
+	5
+Eier
+</para>
+    </listitem>
+
+<listitem>
+    <para>
+	250
+	g
+Zucker
+</para>
+    </listitem>
+
+<listitem>
+    <para>
 	1
-	Prise
-Salz
+	Esslöffel
+Mehl
 </para>
     </listitem>
     </itemizedlist></para>
@@ -166,67 +95,27 @@ Salz
     <para><orderedlist>
 <listitem>
    	<para>
-Äpfel schälen und in schmale Spalten schneiden.
+Die Schokolade mit der Butter gemeinsam in einem Wasserbad schmelzen, vermrühren und wieder abkühlen lassen.
  </para>
  </listitem>
 <listitem>
    	<para>
-Mehl, Hefe, Zucker, Vanillezucker, Salz und Butter gut vermengen.
+Separat das Mehl mit dem Zucker vermischen und in eine Schüssel geben.
  </para>
  </listitem>
 <listitem>
    	<para>
-Die Milch dazugeben und zu einem glatten Hefeteig verkneten.
- </para>
- <note>
-  <para>
- Wenn der Teig an den Händen klebt weiteres Mehl dazu geben.
-  </para>
- </note>
- </listitem>
-<listitem>
-   	<para>
-Teig ausrollen und aufs Blech legen. Anschliessend mit einer Gabel kleine Löcher in den Teig stechen.
+Die geschlagenen Eier mit der Masse verkneten.
  </para>
  </listitem>
 <listitem>
    	<para>
-Nun die Apfelspalten in den Teig drücken und die Rosinen darüber streuen.
+Nun die Schoko-Butter Masse unterheben.
  </para>
  </listitem>
 <listitem>
    	<para>
-Jetzt bleiben 15 Minuten bevor der Teig in den Ofen darf, in der Zeit werden die Streusel hergestellt.
- </para>
- </listitem>
-<listitem>
-   	<para>
-Für die Streusel den 2. Teil aus Mehl, Zucker, Zimt, Butter und Salz gut verkneten. Daraus ergibt sich eine streuselige Masse.
- </para>
- </listitem>
-<listitem>
-   	<para>
-Die Streusel über den Kuchen schütten und gut verteilen.
- </para>
- <note>
-  <para>
- Die Streusel schützen die Apfelstücken auch vor dem Verbrennen.
-  </para>
- </note>
- </listitem>
-<listitem>
-   	<para>
-Das Blech im vorgeheizten Backofen auf 180 Grad ca. 20 Minuten backen.
- </para>
- <note>
-  <para>
- Fertig ist der Kuchen wenn man eine Metallnadel in den Teig stecken kann und nach dem raussziehen der Nadel kein Teig an ihr haftet.
-  </para>
- </note>
- </listitem>
-<listitem>
-   	<para>
-Auskühlen lassen und servieren.
+Den gesammten Teig in eine gefettete Backform geben und 30 Minuten bei 200 Grad backen.
  </para>
  </listitem>
 </orderedlist ></para>
@@ -235,33 +124,6 @@ Auskühlen lassen und servieren.
   <formalpara>
     <title>Einkaufsempfehlung</title>
 	<para><itemizedlist>
-	<listitem>
-	        <para>
-	1 x
-		"Päckchen"
-		Hefeteig Garant 
-		1 
-		Päckchen
-	</para>
-	 </listitem>
-	<listitem>
-	        <para>
-	1 x
-		"Päckchen"
-		Rum Rosinen 
-		1 
-		Päckchen
-	</para>
-	 </listitem>
-	<listitem>
-	        <para>
-	1 x
-		"Packung"
-		Milch 
-		1 
-		L
-	</para>
-	 </listitem>
 	</itemizedlist></para>
 	</formalpara>
 
